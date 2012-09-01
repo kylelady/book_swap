@@ -1,4 +1,6 @@
 Management::Application.routes.draw do
+  resources :people
+
   resources :data
 
   resources :books
