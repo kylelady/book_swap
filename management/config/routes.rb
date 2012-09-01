@@ -1,4 +1,6 @@
 Management::Application.routes.draw do
+  resources :data
+
   resources :books
 
   get "home/index"
