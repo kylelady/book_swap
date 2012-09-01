@@ -1,4 +1,8 @@
 Management::Application.routes.draw do
+  resources :sellers
+
+  resources :buyers
+
   resources :people
 
   resources :data
