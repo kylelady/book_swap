@@ -1,4 +1,6 @@
 Management::Application.routes.draw do
+  resources :books
+
   get "home/index"
 
   # The priority is based upon order of creation:
