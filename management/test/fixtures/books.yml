@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  price: 1
+  data: 
+
+two:
+  price: 1
+  data: 

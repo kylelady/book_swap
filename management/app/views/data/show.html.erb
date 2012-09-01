@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Isbn:</b>
+  <%= @datum.isbn %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%= @datum.title %>
+</p>
+
+<p>
+  <b>Author:</b>
+  <%= @datum.author %>
+</p>
+
+<p>
+  <b>Edition:</b>
+  <%= @datum.edition %>
+</p>
+
+
+<%= link_to 'Edit', edit_datum_path(@datum) %> |
+<%= link_to 'Back', data_path %>
