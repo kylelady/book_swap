@@ -38,7 +38,7 @@ var pagename="Inventory";
 <h1>Current Inventory</h1>''')
 if(today<=selling_close):
 	gen_html.write(r'''<p>Please note that until reception of books is closed, no price information will be visible.</p>''')
-if(today<testing_end)
+if(today<testing_end):
 	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Bookswap opens </b></p>''')
 gen_html.write(r'''<p>Click on column headers to sort the table by that column</p>
 <table class="sortable">''')
