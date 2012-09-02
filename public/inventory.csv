@@ -1,0 +1,1023 @@
+Course,Book Title,Author,Publisher,Edition,ISBN,Price
+BME 211,Introduction to Electric Circuits,Richard C. Dorf,,7,9780471730422,$31 
+CEE 360,Water and Wastewater Engineering,Mackenzie L. Davis,,IE,9780071289245,$56 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$70 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$26 
+ECON 102,Macroeconomics,Paul Krugman,,2,9780716771616,$26 
+EECS 470,Computer Architecture,John L Hennessy,,4,9780123704900,$40 
+ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,,2,9780471694205,$26 
+ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,,2,9780471694205,$26 
+ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,,2,9780471694205,$26 
+ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,,2,9780471694205,$26 
+ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,,2,9780471694205,$26 
+ENGR  101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$61 
+ENGR  101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$61 
+ENGR  101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$61 
+MATH 156/255,CALCULUS: University of Michigan Edition,Stewart,,UMich,9780495461944,$25 
+ME 240,Engineering Mechanics Dynamics,Bedford,,5,9780136129165,$91 
+MSE 250,Material Science and Engineering,Callister ,,6,9780471135760,$3 
+IOE 316,Introduction to Probability Models,Sheldon M. Ross,,10,9780123756862,$40 
+ME 211,Static and Mechanics of Materials,Hibbeler,,2,9780130281272,$40 
+ME 211,Static and Mechanics of Materials,Hibbeler,,2,9780130281272,$60 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$50 
+CEE 212,Mechanics of Materials,R.C. Hibbeler,,7,9780132209915,$60 
+ENGR 100,Engineering Design,J.L. Meriam,,6,9780471256878,$5 
+IOE 316,Intro to Probability Models,Sheldon M. Ross,,9,9780125980623,$20 
+IOE  310,Intro to Math Programming,Wayne L. Winston,,4,9780534359645,$35 
+PHYS 240,University Physics 11th Edition,Young,,11,9780805391800,$65 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$50 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+EECS 413,Design of Analog CMOS Integrated Circuits,Razavi,,0,9780070529038,$60 
+EECS 478,Logic Synthesis and Verification Algorithms,Hachtel,,0,9780792397465,$45 
+EECS 478,Switching and Finite Automata Theory,Kohavi,,3,9780521176804,$40 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$60 
+MSE 514,Composit Materials: Engineering & Science,F.L. Matthews,,,9780849302510,$40 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$35 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$80 
+ENGR 101,MATLAB: An Introduction With Applications,Gilat,,2,9780471694205,$30 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$30 
+CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,,4,9780131745896,$110 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$40 
+EECS 311,Microelectronic Circuits,Sedra,,3,9780030516481,$15 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$50 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$10 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,1,9780555017876,$10 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$40 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$40 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$40 
+EECS 281,Introduction to Algorithms,Cormen,,3,9780262033848,$50 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$40 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$80 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$50 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$80 
+EECS 203,Discrete Mathematics Solutions Guide,Kenneth Rosen,,6,9780073107790,$20 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$75 
+EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,,2,9780470434062,$40 
+CEE 303,Numerical Methods for Engineers,Chapra,,6,9780073401065,$90 
+CEE 312,Structural Analysis,Hibbeler,,8,9780132570534,$100 
+CEE 325,Engineering Fluid Mechanics,Crowe,,9,9780470259771,$80 
+CEE 345,"Geotechnical Engineering, Principles and Practices",Coduto,,2,9780132368681,$90 
+CHE 230,Elementary Principles of Chemical Processes,Richard Felder,,3,9780471687573,$80 
+CHE 230,Elementary Principles of Chemical Processes,Felder,,3,9780471697596,$10 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$50 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$65 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$45 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$45 
+EECS 203,Discrete Mathematics and Its Applications,Kenneth Rosen,,6,9780070648241,$30 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$65 
+EECS 460,Automatic Control Systems,Kuo,,8,9780471134763,$75 
+MATH 462/463,Mathematical Models in Biology,Leah Edelstein-Keshet,,,9780898715545,$42 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$130 
+EECS  376,Introduction to the Theory of Computation,Sipser,,2,9780534950972,$40 
+BME 211,Introduction to Electric Circuits,Richard C. Dorf,,8,9780470521571,$60 
+BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,,9781891389337,$60 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$55 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$40 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$30 
+ENGR 101,MATLAB: An Introduction With Applications,Gilat,,2,9780471694205,$20 
+MATH 215,Multivariable Calculus (IE),James Stewart,,6 Internatl,9780495383635,$70 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$80 
+PHYS 140,University Physics Vol 1,A. Lewis Ford,,12,9780321500632,$30 
+ENGR 101,Introduction to Engineering Programming Solving Problems with Algorithms,James Paul Holloway,,0,471202150,$30 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$40 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$50 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$70 
+MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,,5,9780470414125,$10 
+EECS 281,Introduction to Algorithms,Cormen,,3,9780262033848,$50 
+ECON 101,Microeconomics,Krugman,,2,9780716771593,$25 
+PHYSICS 160,Matter & Interactions,Chabay,,3,9780470503478,$80 
+CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,,4,9780471661740,$60 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$60 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1 Internatl,9812530223,$50 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$15 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$50 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$90 
+ME 235,Introduction to Engineering Thermodynamics,Richard Sonntag,,2,9780471737599,$30 
+EECS 312,Digital Integrated Circuits,Rabaey,,2,9788120322578,$50 
+EECS 420,Introduction to Solid State Physics,Kittel,,8,9780471415268,$50 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$100 
+EECS 281,Introduction to Algorithms,Cormen,,3,9780262033848,$70 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$70 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+ECON 380,Public Finance and Public Policy,Jonathan Gruber,,2,9780716766315,$20 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$50 
+MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,,4 Internatl,9780136000389,$85 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$125 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$15 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$40 
+PHYS 140,University Physics Volume 1,Young,,13,9780321733382,$50 
+BIO 172,Biological Science,Scott Freeman,,4,9780321598202,$120 
+CHEM 210,Organic Chemistry Structure and Reactivity,Seyhan Ege,,5,9780618318094,$60 
+CHEM 210,Organic Chemistry,Seyhan Ege,,5,9780547126944,$60 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$60 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$80 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780738044286,$15 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780738044286,$15 
+CHEM 210,Collaborative Investigation In General Chem,Seyhan Ege,,5,9780738045962,$20 
+CHEM 211,Investigations in Chemistry,Umich,,19,9780738044200,$15 
+CHEM  130,General Chemistry,Ebbing,,9,9781439043998,$110 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$80 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$90 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500564,$80 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$80 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$80 
+CEE 265,Introduction to Engineering & the Environment,Rubin,,,9780072354676,$10 
+CEE 265,Introduction to Environmental Engineering,Vesilind,,3,9780495295853,$10 
+PHYS 140,"Physics 140 Bundle: Textbook, Study Guide, Solutions Manual",,,,,$25 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$15 
+CHEM 210,Organic Chemistry,Seyhan Ege,,5,9780547126944,$50 
+PHYS 140,University Physics Volume 1,Young,,13,9780321733382,$40 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$75 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$50 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$38 
+EECS 492,Intro To Artificial Intelligence ,Russel,,3,9780136042594,$80 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$45 
+CHEM 260/261,Principles of Modern Chemistry,Oxtoby,,6 International,9780495112259,$40 
+ECON 101,Economics 101 Principles of Microeconomics,Janet Gerson,,,9781118136140,$40 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$5 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$90 
+CEE 270,Probability and Statistics for Engineers,Jay L. Devore,,1,9788131504888,$25 
+CEE 325,Engineering Fluid Mechanics,Clayton T. Crowe,,9 SI,9780470409435,$40 
+CEE 345,Geotechnical Engineering,Donald P. Coduto,,2 Internatl,9788120341555,$80 
+CEE 351,Concrete,Sidney Mindess,,2,9780130646323,$75 
+CEE 360,Water and Wastewater Engineering,Davis,,Internatl,9780071289245,$60 
+CEE 412,Structural Analysis,R. C. Hibbeler,,7 SI,9789810680077,$40 
+EECS 230,Fundamentals of Applied Electromagnetics,Fawwaz T. Ulaby,,6 Intl,9780132550086,$50 
+ENGR 101,MATLAB: An Introduction With Applications,Gilat,,2,9780471694205,$25 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$20 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$20 
+EECS 312,Digital Integrated Circuits,Rabaey,,2,9788120322578,$60 
+EECS 460,Automatic Control Systems,Golnaraghi,,9,9780470048962,$20 
+MATH 156/255,"Calculus, University of Michigan Edition",Stewart,,,9780495461944,$60 
+CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,,4,9780471661740,$85 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$70 
+CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,,5,9780470128688,$70 
+ECON 102,Principles of Macroeconomics,Mankiw,,5,9780324594669,$25 
+MATh 412,Introduction to Abstract Algebra,McCoy,,7,9780982263310,$20 
+CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L Devore,,7,9780495382171,$50 
+CEE 312,Structural Analysis,R.C. Hibbeler,,7,9780136020608,$40 
+CEE 325,Engineering Fluid Mechanics,Clayton T. Crowe,,8,9780470086391,$35 
+CEE 360,Water and Wastewater Engineering,Davis,,Internatl,9780071289245,$20 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$110 
+EECS 470,Computer Architecture,Hennessy,,4,9780123704900,$40 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$10 
+MATH 115,Calculus Single Variable,Hughes-Hallet,,5,9780470131596,$80 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$110 
+CEE 212,Mechanics of Materials,R.C. Hibbeler,,7,9780132209915,$90 
+CEE 325,Engineering Fluid Mechanics,Crowe,,9,9780470259771,$70 
+CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,,4,9780131745896,$95 
+MATH 115/6,Calculus Single Variable Solutions,Hughes-Hallett,,4,9780471659976,$5 
+MATH 115/6,Calculus Single Variable,Hughes-Hallett,,4,9780471484820,$20 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$50 
+PHYS 240,"University Physics, Vol 2 Sol Man",Ford,,12,9780321500380,$10 
+MATH 105,Functions Modeling Change A Preparation for Calculus,Connally,,3,9780471793038,$15 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$35 
+CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,8 Intl,9780840068279,$75 
+LING 111,Language Files,Anouschka Gergmann,,10,9780814251638,$30 
+EECS 215,Circuits,Fawwaz Ulaby,,0,9781934891100,$100 
+ME 382,Engineering Materials 1,Michael Ashby,,3,9780750663809,$20 
+ME 382,Engineering Materials 2,Michael Ashby,,3,9780750663816,$20 
+BME 211,Introduction to Electric Circuits,Richard C. Dorf,,8,9780470521571,$30 
+BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,,9781891389337,$30 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$10 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$10 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$35 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$0 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$50 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$70 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$90 
+ME 240,"Engineering Mechanics, Dynamics",Meriam,,6,9780471739316,$40 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$25 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$40 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,0,9780073785448,$15 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,1,9780558781811,$15 
+EECS 280,Absolute C++,Savitch,,3,9780321468932,$35 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$35 
+MATH 215,Multivariable Calculus - Solutions,Clegg,,6,9780495012283,$10 
+EECS 270,"Digital Design with RTL Design, VHDL, and Verilog",Frank Vahid,,2,9780470531082,$30 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$110 
+CEE 230,Thermodynamics: An Engineering Approach,Yunus A. Cengel,,7,9780077366742,$120 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$15 
+PHYS 140,University Physics Vol 1 Solution Manual,Kramer,,12,9780321500632,$10 
+EECS 270,Digital Design,Vahid,,,9780470044377,$39 
+EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,,9788177589771,$44 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$64 
+AEROSP 315,Aircraft Structures for Engineering Students,Megson,,4,9780750667395,$75 
+AEROSP 325,Modern Compressible Flow,Anderson,,Internatl,9780071121613,$75 
+AEROSP 335,Mechanics and thermodynamics of Propulsion,Hills,,2,9780201146592,$75 
+ME 215,Mechanics of Materials,Bedford,,0,9780201895520,$75 
+ME 235,"Thermodynamics, An Engineering Approach",Cengel,,6,9780073305370,$75 
+ME 335,Principles of Heat Transfer,Kaviany,,0,9780471434634,$75 
+MSE 220,"Materials Science and Engineering, An Introduction",Callister Jr.,,6,9780471135760,$75 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$100 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$60 
+CEE 211,Statics & Dynamics,Hibbeler,,11,9780132215091,$20 
+CEE 230,Thermodynamics an Engineering Approach,Cengel,,6,9780073529219,$30 
+CEE 265,Sustainability Engineering Principles,Hayes,,,,$30 
+CEE 270,Probability and Statistics for Engineering and the Sciences,Devore,,7,9780495382171,$40 
+AEROSP 305,Experimental Methods for Engineers,J. P. Holman,,7,9780071181655,$80 
+IOE 201,Fundamentals of Engineering Economics,Park,,2,9780132209601,$60 
+EECS 470,Computer Architecture,Hennessy,,4,9780123704900,$30 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$30 
+HJCS 276,A Short History of the Jewish People: From Legendary Times to Modern Statehood,Scheindlin,,0,9780195139419,$10 
+HJCS 276,Textual Sources for the Study of Judaism,Alexander,,0,9780226012971,$10 
+ME 360,System Dynamics,Palm,,2,9780073529271,$150 
+ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,,3,9780131863125,$120 
+AOSS 320,The Earth System,Lee R. Kump,,3,9780321597793,$30 
+MATH 215,Multivariable Calculus,Stewart,,7,9780538497879,$100 
+PSYCH 111,Forty Studies That Changed Psychology,Roger R. Hock,,6,9780136035992,$25 
+PSYCH 111,Psychological Science,Michael Gazzaniga,,3,9780393931198,$40 
+EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,,2,9780470434062,$25 
+EECS 314,Making Sense of Electrical Engineering Mult Choice Q,Alexander Ganago,,1,9780470539378,$25 
+IOE 306,Introduction to Probablility Modes,Ross,,10,9789380501482,$30 
+IOE 440,Factory Physics (International Edition),Wallace J. Hopp,,3 Internatl,9780071232463,$30 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$90 
+MATH 423,Mathematics for Finance,Capinski,,2,9780857290816,$35 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$50 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$20 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$20 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$100 
+EECS 311,Microelectronic Circuits,Sedra,,6,9780195323030,$100 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$5 
+PHYS 240,University Physics Vol 2 Study Guide,Kramer,,12,9780321500373,$5 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$110 
+CEE 265,CEE 265 Course Pack,0,,0,CEE265CP,$65 
+IOE 440,Factory Physics (International Edition),Wallace J. Hopp,,3 Internatl,9780071232463,$20 
+IOE  310,Intro to Math Programming,Wayne L. Winston,,4,9780534359645,$35 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$45 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$25 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$45 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$50 
+PHYS 240,University Physics Vol 2,Young,,13,9780321751218,$75 
+MATH 371,A Friendly Introduction to Numerical Analysis,Brian Bradie,,,9788131709429,$18 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$95 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$95 
+MSE 220,Materials Science and Engineering: An Introduction,"William D. Callister, Jr.",,8,9780470556733,$75 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$45 
+Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7,9780495557449,$42 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$55 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$60 
+ENGR 101,MATLAB: An Introduction With Applications,Gilat,,2,9780471694205,$40 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073229720,$60 
+CEE 431,Construction Contracting,Clough,,7,2900471449880,$50 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$35 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$20 
+ME 211,Static and Mechanics of Materials,Hibbeler,,2,9780130281272,$35 
+BME 418,Physical Biology of the Cell,Rob Phillips,,1,9780815341635,$70 
+BME 211,Introduction to Electric Circuits,Richard C. Dorf,,8,9780470521571,$140 
+BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,,9781891389337,$60 
+BME 231,Statics and Mechanics of Materials,Bedford,,,9780130285935,$90 
+BME 231,Engineering Mechanics Dynamics,Bedford,,5,9780136129165,$100 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$100 
+ME 335,Introduction to Heat Transfer,Incropera,,5,9780471457275,$60 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$45 
+STATS 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,8 International,9780840068279,$40 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$35 
+EECS 203,Discrete Mathematics and its Applications,Kenneth H. Rosen,,6,9780072880083,$35 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$100 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$60 
+CEE 230,Thermodynamics: An Engineering Approach,Yunus A. Cengel,,7,9780077366742,$100 
+CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,6,9780534399337,$25 
+EECS 498,Power Electronics,Mohan,,3,9780471226932,$30 
+EECS 501,Probability and Random Processes for Electrical and Computer Engineers,Gubner,,,9780521864701,$30 
+EECS 560,Linear State-Space Control Systems,Williams,,,9780471735557,$30 
+IOE 452,Principles of Corporate Finance,Brealey-Myers-Allen,,10,9780077356385,$125 
+IOE 466,Introduction to Statistical Quality Control,Douglas C. Montgomery,,6,9780470169926,$100 
+IOE 575,Discrete-Event System Simulation,Banks,,5,9780136062127,$30 
+PHYS 240,University Physics with Modern Physics-Volume 2,Bauer,,,9780077354794,$90 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$109 
+MATH 423,Mathematics for Finance-An Intro to Financial Engineering,,,,9781852333300,$20 
+AEROSP 225,Modern Compressible Flow,John D. Anderson,,3,9780071241366,$20 
+AEROSP 335,Aircraft Propulsion,Saeed Farokhi,,,2900470039068,$25 
+ME 215,Mechanics of Materials,Bedford,,,9780201895520,$25 
+ME 240,Engineering Mechanics: Dynamics,J.L. Meriam,,6,9780471739319,$25 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+CHEM 210,Organic Chemistry,Seyhan Ege,,5,9780547126944,$80 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$20 
+PHYS 240,University Physics Vol 2 Study Guide,Kramer,,12,9780321500373,$15 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$30 
+CEE 360,Water and Wastewater Engineering,Davis,,International,9780071289245,$55 
+CEE 431,CEE 431 Course Notes: Construction Contracting,Photios G. Ioannou,,Fall 2011,CEE431CP,$20 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$110 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$40 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$40 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$40 
+MATH 215,Multivariable Calculus Study Guide,Richard St. Andre,,6,9780495012276,$10 
+MCDB 310,"The Absolute, Ultimate Guide to Lehninger Principles of Biochemistry Study Guide and Solutions Manual",Marcy Osgood,,5,9781429212410,$20 
+MCDB 310,Lehringer Principles of Biocehmistry,David L. Nelson,,3,978142922416,$50 
+ME 451,Analysis and Performance of Fiber Composites,Bhagwan D. Agarwal,,3,978047126891,$40 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$49 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$84 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$60 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$75 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,0,9780201543933,$75 
+EECS 401,Probability and Stochastic Processes,Roy D. Yates,,2,9780471272144,$75 
+PSYCH 111,Psychology Themes & Variation,Weiten,,8,9780495601975,$75 
+ME 240,Engineering Mechanics Dynamics,Bedford,,5,9780136129165,$60 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$70 
+IOE 474,Simulation Using Promodel,Harrell,,3,9780073401300,$60 
+CEE 212,Mechanics of Materials,R.C. Hibbeler,,8,9780136022305,$130 
+CEE 303,Numerical Methods for Engineers,Chapra,,6,9780073401065,$130 
+IOE 201,Fundamentals of Engineering Economics,Chan S. Park,,2,9780131354579,$20 
+IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,,2,9780131837362,$20 
+IOE 333,Course Pack,Dr. Liu,,1,IOE333CP,$20 
+IOE  265,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7 Internatl,9780495557456,$50 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$70 
+ME 382,Engineering Materials 1,Michael Ashby,,3,9780750663809,$30 
+ME 382,Engineering Materials 2,Michael Ashby,,3,9780750663816,$30 
+ME 382,Mechanical Behavior of Materials,Norman E. Dowling,,3rd International,9780132256094,$65 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+MATH 115,Calculus Single Variable,Hughes-Hallet,,5,9780470131596,$60 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$120 
+PHYS 140,University Physics Volume 1,Young,,13,9780321733382,$85 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$90 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$100 
+MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,,5,9780470414125,$30 
+CEE 212,Mechanics of Materials,R. C. Hibbeler,,8,9780136022305,$100 
+CEE 312,Structural Analysis,Hibbeler,,8,9780132570534,$80 
+CEE 345,Geotechnical Engineering,Donald P. Coduto,,2 Internatl,9788120341555,$40 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$40 
+MATH  217,Linear Algebra and Its Applications (Special Editorial Edition),David C Lay,,4E,9780321623355,$80 
+EECS 370,Computer Organization and Design,David A Patterson,,ARM,9788131222744,$38 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$8 
+PHYS 141,Intro to Physics Lab Man Mech,Bethany percha,,1,9780738033242,$3 
+STATS 412,Probability and Statistics for Engineering and Sciences Soln,Matthew A Carlton,,7,9780495382195,$16 
+IOE 440,Factory Physics,Hopp,,3,9780072824032,$90 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$40 
+CEE 265,Sustainability Engineering Principles Coursepack,Hayes,,,,$75 
+CEE 312,Structural Analysis,Hibbeler,,8,9780132570534,$85 
+CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,,4,9780131745896,$90 
+MATH 215,Multivariable Calculus,Stewart,,7,9780538497879,$100 
+ME 335,Essentials of Heat Transfer,Kaviany,,0,9781107012400,$100 
+ME 360,System Dynamics,Palm,,2,9780073529271,$80 
+ME 211,Statics and Mechanics of Materials,Hibbeler,,3 SI,9789810686321,$40 
+CEE 230,Thermodynamics: An Engineering Approach,Yunus A. Cengel,,7,9780077366742,$140 
+CEE 265,CEE 265 Course Pack,?,,,CEE265CP,$60 
+ ,Probability and Statistics for Engineering and the Sciences,Devore,,7 International,9780495382232,$50 
+MATH 371,A Friendly Introduction to Numberical Analysis,Bradie,,,9780130130549,$65 
+EECS 492,Intro To Artificial Intelligence ,Russel,,3,9780136042594,$99 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$87 
+EECS 401,Probability and Stochastic Processes,Roy D. Yates,,2,9780471272144,$55 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$75 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$80 
+MATH 215,Multivariable Calculus soln,James Stewart,,6,9780495012283,$20 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$100 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$20 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$20 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$20 
+MATH 215,Multivariable Calculus with soln,James Stewart,,6,,$40 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$25 
+PHYSICS 140,University Physics Full Bundle,Various,,12,,$35 
+AEROSP 325,Fundamentals of Aerodynamics,"John D. Anderson, Jr.",,5 SI,9780071289085,$60 
+AEROSP 325,Fundamentals of Aerodynamics,"John D. Anderson, Jr.",,4 International,9780071254083,$40 
+AEROSP 335,Aircraft Propulsion,Saeed Farokhi,,,9780470039069,$100 
+EECS 314,Making Sense of Electrical Engineering Mult Choice Q,Alexander Ganago,,1,9780470539378,$40 
+ME 555,Principles of Optimal Design Modeling and Computation,Panos Y. Papalambros,,2,9780521758314,$20 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$50 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$25 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$5 
+PHYS 160,Matter & Interactions I - Modern Mechanics,Chabay,,3,9780470503454,$75 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$80 
+BME 419,Vander's Human Physiology,Widmaier,,12 International,9780071222150,$30 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$60 
+EECS  180,Using Google App Engine,Charles Severance,,1,9780596800697,$2 
+MATH 425,A First Course in Probability,,,?,9787115209542,$30 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$30 
+PHYS 405,"Introduction to Electrodynamics (Eastern European Economy, Soft)",David J. Griffiths,,3EE,9788120316010,$25 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$100 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$65 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$65 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$25 
+MSE 250,Material Science and Engineering: An Introduction,Callister,,8SI,9780470505861,$35 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$105 
+EECS 311,Microelectronic Circuits,Sedra,,6,9780195323030,$116 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$80 
+IOE 265,Probability & Statistics for Engineering and the Sciences,Jay L. Devore,,8,9780538733526,$150 
+IOE 316,Introduction to Probability Models,Sheldon M. Ross,,10,9780123756862,$97 
+MATH 424,Mathematical Interest Theory,Leslie Jane Federer Vaaler,,2,9780883857540,$125 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$169 
+EECS 270,"Digital Design with RTL Design, VHDL, and Verilog",Vahid,,2,9780470531082,$50 
+EECS 460,Automatic Control Systems,Golnaraghi,,9,9780470048962,$40 
+CEE 303,Numerical Methods for Engineers,Chapra,,6,9780073401065,$70 
+CEE 360,Water and Wastewater Engineering,Davis,,,9780073397863,$90 
+ME 215,Mechanics of Materials,Bedford,,,9780201895520,$65 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$25 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$90 
+IOE 541,Production & Operations Analysis,Nahmias,,6,9780073377858,$90 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$10 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$95 
+ECON 101,Microeconomics,r. Glenn Hubbard,,3,9780136021971,$50 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$50 
+MATH 450,Advanced Engineering Mechanics,Michael D. Greenberg,,2,9780133214314,$80 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$25 
+ME 382,Engineering Materials 2,Michael Ashby,,3,9780750663816,$25 
+ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,,3,9780131863125,$80 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$70 
+EECS 401,Probability and Stochastic Processes,Roy D. Yates,,2,9780471272144,$50 
+MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,,4 Internatl,9780136000389,$40 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$25 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$25 
+EECS 215,Circuits,Fawwaz Ulaby,,,9781934891100,$90 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,,9780201543933,$95 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,0,9780750687621,$25 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$45 
+STATS 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,8 International,9780840068279,$40 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$135 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$70 
+BME 211,Introduction to Electric Circuits,Richard C. Dorf,,8,9780470521571,$50 
+BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,,9781891389337,$50 
+CEE 582,Brock Biology of Microorganisms,Madigan,,13,9780321649638,$50 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$90 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$60 
+PHYS 140,University Physics plus access kit,Young,,12,9780321500564,$75 
+MSE 330,Introduction to the Thermodynamics of Materials,Gaskell,,5,9781591690436,$100 
+MSE 350,The Structure of Materials,Allen,,0,9780471000822,$50 
+MSE 412,Introduction to Polymers,Young,,3,9780849339295,$60 
+EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,6,9780073229720,$30 
+EECS 270,"Digital Design with RTL Design, VHDL, and Verilog",Frank Vahid,,2,9780470531082,$40 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$40 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$60 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$50 
+EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,,9788177589771,$35 
+MATH 454,Applied Partial Differential Equations with Fourier Series and Boundary Value Problems,Richard Haberman,,4,9780130652430,$90 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$20 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$40 
+MATH 215,Multivariable Calculus Student Solutions,Dan Clegg,,6,9780495012283,$20 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$12 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$80 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$55 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$45 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$45 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$70 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$55 
+EECS 215,Circuits,Fawwaz Ulaby,,,9781934891100,$50 
+MATH 256,Elementary Differential Equations and Boundary Value Problems,Boyce,,9,9780470383346,$60 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$60 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$30 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,0,9780750687621,$25 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$55 
+PHYS 240,"University Physics, Vol 2 Sol Man",Ford,,12,9780321500380,$5 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$60 
+PHYS 260,Matter & Interactions II,Chabay,,2,9780470108314,$15 
+AEROSP 325,Fundamentals of Aerodynamics,"John D. Anderson, Jr.",,5,9780073398105,$130 
+EECS 314,Electrical Engineering Principles and Applications,Allan R. Hambley,,5,9780132130066,$100 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$45 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$15 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$10 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$50 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$110 
+IOE 265,Probability & Statistics for Engineering and the Sciences,Jay L. Devore,,8,9780538733526,$150 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$125 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$45 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$70 
+PHYS 140,University Physics Volume 1,Young,,13,9780321733382,$80 
+PHYS 140,University Physics Vol 1 Solutions,Young,,5,9780321696687,$15 
+ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,,17,9780984365302,$20 
+NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,,2,9780387207780,$50 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$35 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$35 
+IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,,2,9780131837362,$20 
+IOE 333,IOE 333 Course Pack,Liu,,,IOE333CP,$10 
+IOE 373,Visual Basic 2010: Programmer's Reference,Rod Stephens,,,9780470499832,$20 
+ME 235,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$70 
+ME 240,Engineering Mechanics: Dynamics,J.L. Meriam,,6,9780471739319,$60 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$70 
+ME 382,Engineering Materials 2,Michael Ashby,,3,9780750663816,$35 
+ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,,3,9780131863125,$50 
+ME 382,Engineering Materials 1,Michael Ashby,,3,9780750663809,$35 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$98 
+IOE 474,Simulation using Promodel,Harrell,,3,9780073401300,$75 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$100 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,0,9780201543933,$40 
+EECS  215,Introduction to Electric Circuits,Fawwaz T. Ulaby,,1,9781934891001,$40 
+EECS  216,Water and Wastewater Engineering,Samir S. Soliman,,2,9780135184738,$20 
+Theory 137,Fluid Mechanics for Chemical Engineers,Joseph N. Straus,,2,9780131584150,$5 
+EECS 401,Organic Chemistry Study Guide,Roy D. Yates,,2,9780471272144,$50 
+CHEM 130,Macroeconomics,Ebbing,,1,9781111401108,$70 
+MATH 116,Computer Architecture,Hughes-Hallett,,5,9780470089156,$40 
+CHEM 210,Matlab: An Introduction With Applications,Ege,,5,9780618318094,$60 
+ENGR 101,Matlab: An Introduction With Applications,James Paul Holloway,,1,9780471202158,$50 
+CEE 211,Matlab: An Introduction With Applications,Hibbeler,,12,9780138149291,$100 
+EECS 492,Matlab: An Introduction With Applications,Stuart Russell,,2 Internatl,9787115232274,$15 
+EECS 492,Matlab: An Introduction With Applications,Stuart Russell,,3 Internatl,9787302252955,$60 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$20 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$67 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,1,9780558781811,$20 
+EECS 406,Technology Ventures: From Idea to Enterprise,Dorf,,2,9780073294421,$20 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$85 
+CHEM 130,General Chemistry,Ebbing,,,9781111401108,$40 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$25 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$64 
+CEE 211,Statics & Dynamics,Hibbeler,,11,9780132215091,$50 
+CHEM 130,General Chemistry,Ebbing,,8,9780618980215,$50 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$50 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$50 
+EECS 492,Intro To Artificial Intelligence ,Russel,,3,9780136042594,$120 
+ENGR 100,Introduction to Engineering Mechanics and Materials in the Design of Orthopedic Implants and Medical Devices,Wynarsky,,0,2818440009716,$10 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,0,9780073785448,$10 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,,9780555017876,$10 
+IOE 316,Introduction to Probability Models,Sheldon M. Ross,,9,9780125980623,$60 
+IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,,2,9780131837362,$60 
+IOE 333,IOE 333 Course Pack,Liu,,,IOE333CP,$20 
+IOE 334,IOE 334 Coursepack Part 1,Kantowitz,,0,IOE 334 CP,$8 
+IOE 425,Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda,Rother,,,9780966784305,$40 
+IOE  310,Intro to Math Programming,Wayne L. Winston,,4,9780534359645,$105 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$40 
+PHYS 140,Introductory Physics Laboratory Manual MECHANICS,Percha,,F/W/S 08-09,9780738028620,$8 
+PHYS 140,Physics 140 Bundle- Textbook & Solution Manual,Young,,12,,$70 
+PHYS 240,University Physics Vol 2 Study Guide,Kramer,,12,9780321500373,$20 
+PHYS 240,"University Physics, Vol 2 Sol Man",Ford,,12,9780321500380,$20 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$60 
+CHEM 210,Organic Chemistry,Seyhan Ege,,5,9780547126944,$75 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$25 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$100 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$100 
+EECS 311,Microelectronic Circuits,Sedra,,6,9780195323030,$100 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,,9780201543933,$80 
+EECS 334,Introduction to Optics,Frank L. Pedrotti,,3,9780131499331,$95 
+EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",John G. Proakis,,4,9780131873742,$80 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$50 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$95 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$100 
+CEE 211,Statics & Dynamics,R.C. Hibbeler,,11,9780132215091,$70 
+CEE 230,Thermodynamics,Yunus A. Dengel,,7,9780071311113,$70 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$15 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,1,9780558781811,$15 
+MATH 105,Functions Modeling Change A Preparation for Calculus,Connally,,3,9780471793038,$55 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$50 
+CHEM 130,General Chemistry Bundle (text+study guide),Ebbing,,8,,$15 
+IOE 201,Fundamentals of Engineering Economics,Park,,0,9780130307912,$10 
+IOE  265,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7 Internatl,9780495557456,$30 
+MATH 214,Linear Algebra with Applications,Bretcher,,3,9780131453340,$15 
+EECS 203,Discrete Mathematics and Its Applications,Rosen,,6,9780071244749,$40 
+EECS 503,Computational Methods for Electromagnetics,Peterson,,,9780780311220,$50 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$40 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$40 
+PAT 102,Musical Acoustics,Hall,,3,9780534377281,$40 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$60 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$60 
+IOE  310,Intro to Math Programming,Wayne L. Winston,,4,9780534359645,$60 
+AEROSP 215,Mechanics of Materials,Bedford,,,9780201895520,$35 
+AEROSP 347,Orbital Mechanics for Engineering Students,Howard D. Curtis,,2,9780123747785,$35 
+ME 240,Engineering Mechanics Dynamics,J L Meriam,,6,,$50 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$65 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,,9780750687621,$35 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$80 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,,9780750687621,$50 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$50 
+EECS 451,Digital Signal Processing,Proakis,,4,9788120330306,$80 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$110 
+ME 360,System Dynamics,William J. Palm III,,2 Internatl,9780071267793,$40 
+CHE 230,Elementary Principles of Chemical Processes,Felder,,3,9780471534785,$40 
+CHE 230,Elementary Principles of Chemical Processes - Student Workbook,Felder,,3,9780471697596,$10 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,0,9780073785448,$10 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$25 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$25 
+MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,,4 Internatl,9780136000389,$40 
+IOE 373,Visual Basic 2010: Programmer's Reference,Rod Stephens,,,9780470499832,$20 
+IOE 441,Production & Operations Analysis,Steven Nahmias,,5,9780073018652,$40 
+IOE 474,Simulation using Promodel,Harrell,,3,9780073401300,$75 
+MSE 220,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$40 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$20 
+EECS 370,Computer Organization and Design,Patterson,,3,9781558606043,$40 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$10 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$60 
+Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7,9780495557449,$75 
+STATS 412,Probability and Statistics for Engineering and the Sciences Student Solutions Manual,Matthew A. Carlton,,7,9780495382195,$15 
+ENGR 100,Engineering Design,Patrick Little,,2,9780471256878,$8 
+ENGR 100,Engineering Design,Patrick Little,,2,9780471256878,$6 
+ENGR 490,Cultural Intelligence,Peterson,,1,9781931930000,$8 
+MATH 115,Calculus Single Variable,Hughes-Hallett,,4,9780471659976,$15 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$50 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$20 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$110 
+ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,,3,9780131863125,$110 
+MATH 215,Multivariable Calculus Student Solultions Manual,Dan Clegg,,6,9780495012283,$30 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$45 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$50 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$60 
+PHYS 240,"University Physics, Vol 2 Sol Man",Ford,,12,9780321500380,$5 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$40 
+EECS 215,Circuits,Fawwaz Ulaby,,,9781934891100,$80 
+ENGR 100,"A Practical Guide to Technical Reports and Presentations for Scientists, Engineers, and Students",Pauline Bary-Khan,,1,9780555017876,$20 
+CHEM 130,General Chemistry (Media Enhanced Edition),Ebbing,,8 UM,9780618980215,$30 
+CHEM 130,General Chemistry Study Guide,Ebbing,,8,9780618399437,$10 
+EECS 215,Circuits Make Sense Lab Book,Alexander Ganago,,6,9780470896204,$15 
+EECS 216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9788120323070,$30 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$30 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$15 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$30 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$30 
+ME 211,Statics and Mechanics of Materials,Hibbeler,,3 SI,9789810686321,$50 
+MATH 417,Linear Algebra with Applications,Otto Bretscher,,4 Intl,9780135128664,$40 
+MATH 371,A Friendly Introduction to Numberical Analysis,Bradie,,0,9780130130549,$40 
+MATH 454,Partial DifferentialEquations for Scientists and Engineers ,Stanley J. Farlow,,0,9780486676203,$8 
+Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7,9780495557449,$50 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$50 
+ME 382,Engineering Materials 1,Michael Ashby,,3,9780750663809,$20 
+ME 382,Engineering Materials 2,Michael Ashby,,3,9780750663816,$25 
+EECS 270,Digital Design,Vahid,,0,9780470044377,$20 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$45 
+EECS  376,Introduction to the Theory of Computation,Sipser,,2,9780534950972,$65 
+CHEM 261,"Introduction to Quantum Chemistry, Chemical Principles, Part 1",Oxtoby,,,9780495841470,$48 
+EECS 270,Digital Design,Vahid,,,9780470044377,$50 
+EECS 401,Probability and Stochastic Processes,Roy D. Yates,,2,9780471272144,$50 
+EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,,4,9788131710005,$60 
+EECS 470,Computer Architecture,Hennessy,,3,9781558605961,$30 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$40 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$20 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$20 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$30 
+MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,,5,9780470414125,$10 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$60 
+AEROSP 305,Experimental Methods for Engineers,Holman,,7,9780071181655,$60 
+AEROSP 335,Mechanics and thermodynamics of Propulsion,Hills,,2,9780201146592,$40 
+ME 240,Engineering Mechanics Dynamics,Bedford,,5,9780136129165,$70 
+CHEM 130,General Chemistry,Ebbing,,9,9781439043998,$80 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$45 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$75 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$60 
+MATH 215,Multivariable Calculus,Stewart,,7,9780538497879,$45 
+IOE 201,Fundamentals of Engineering Economics,Park,,2,9780132209601,$90 
+IOE 447,Facilities Planning,Tompkins-White-Bozer-Tanchoco,,4,9780470444047,$15 
+IOE 466,Statistical Quality Control - A Modern Introduction,Montogomery,,6th - International Student Version,9780470233979,$15 
+IOE 474,Simulation using Promodel,Harrell,,3,9780071086448,$15 
+EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,,2,9780470434062,$50 
+EECS 314,Electrical Engineering Principles and Applications,Allan R. Hambley,,5,9780132130066,$80 
+MATH 450,Advanced Engineering Mechanics,Michael D. Greenberg,,2,9780133214314,$100 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$80 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$50 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$110 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,0,9780201543933,$100 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$90 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$60 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$90 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$60 
+NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,,2,9780387207780,$40 
+NERS 211,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,,17,9780984365302,$10 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$65 
+IOE 265,Probability and Statistics,Devore,,7,9780495382171,$40 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$10 
+MATH 216,Differential Equations,Edwards,,3,9780130673374,$10 
+MATH 216,Diff. Equations Solution Book,Edwards,,4,9780131561100,$10 
+PHYS 140,University Physics Vol. 1,Young,,12,9780321500625,$10 
+CHEM 130,General Chemistry,Ebbing,,8,9780618399413,$10 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$60 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$32 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,,9780558781811,$15 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$35 
+ENGR 101,Introduction to Engineering Programming,Holloway,,1,9780471202150,$35 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$40 
+CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,,4,9780131745896,$120 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$100 
+EECS 203,Discrete Mathematics,Kenneth Rosen,,6,9780073352473,$30 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,0,9780201543933,$30 
+EECS 230/330,Fundamentals of Applied Electromagnetics,Fawwaz T. Ulaby,,5,9780132413268,$40 
+MATH 215,Multivariable Calculus (IE),James Stewart,,6 Internatl,9780495383635,$30 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$50 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$55 
+STATS 250,Mind on Statistics,Utts,,3,9780534998646,$50 
+CEE 212,Mechanics of Materials,R.C. Hibbeler,,7,9780132209915,$40 
+CEE 325,Engineering Fluid Mechanics,Clayton T. Crowe,,9 SI,9780470409435,$40 
+CEE 345,"Geotechnical Engineering, Principles and Practices",Coduto,,2,9780132368681,$85 
+CEE 351,Civil Enginering Materials,Professor Li,,CP,,$18 
+CEE 351,Concrete,Sidney Mindess,,2,9780130646323,$95 
+CEE 360,Water and Wastewater Engineering,Davis,,,9780073397863,$75 
+MATH 216,Calc 4 Bundle: Differential Equations and Boundary Value Problems 4th Edition and Student Solutions Manual,Edwards,,4,,$25 
+ME 335,Essentials of Heat Transfer,Kaviany,,,9781107012400,$100 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+BME 211,Introduction to Electric Circuits,Richard C. Dorf,,7,9780471730422,$30 
+BME 231,Engineering Mechanics Dynamics Instructors Ed,Bedford,,5,9780136001027,$65 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,0,9780073785448,$10 
+EECS 478,Logic Synthesis and Verification Algorithms,Hachtel,,,9780792397465,$30 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$65 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$20 
+CHEM 210-215,Organic Chemistry Structure And Reactivity,Seyhan Ege,,5,9780547126944,70
+MATH 215,Multivariable Calculus (IE),James Stewart,,6 IE,9780495383635,$60 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,60
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$20 
+IOE 201,Fundamentals of Engineering Economics,Park,,2,9780132209601,$65 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$65 
+ME 211,Static and Mechanics of Materials,Hibbeler,,2,9780130281272,$40 
+ME 230,Fundamentals of Thermodynamics,Borgnakke,,7,9780470041925,$120 
+EECS 216,Continuous and Discrete Signals and Systems,Soliman,,2,9788120323070,$100 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$120 
+EECS 270,Digital Design,Vahid,,2,9780470531082,$40 
+EECS 460,Automatic Control Systems,Kuo,,8,9780471134763,$35 
+MATH 115,Calculus Single Variable,Hughes-Hallett,,4,9780471484820,$15 
+MATH 115,Calculus Single Variable Student Solutions Manual,Hughes-Hallett,,4,9780471659976,$5 
+EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",John G. Proakis,,4,9780131873742,$90 
+CEE 345,"Geotechnical Engineering, Principles and Practices",Coduto,,2,9780132368681,$85 
+CEE 360,Water and Wastewater Engineering,Davis,,0,9780073397863,$80 
+MATH 215,Multivariable Calculus,Stewart,,7,9780538497879,$110 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$75 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$70 
+CHEM 130,General Chemistry,Ebbing,,9,9780547213521,$80 
+MATH 215,Multivariable Calculus,James Stewart,,Hybrid,9781111426774,$60 
+ME 235,Fundamentals of Thermodynamics (SI Version),Claus Borgnakke,,7,9780470171578,$70 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$70 
+ME 335,Introduction to Heat Transfer,Incropera,,5,9780471457275,$80 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$65 
+ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,,3,9780131863125,$80 
+ME 382,Engineering Materials 1,Michael Ashby,,3,9780750663809,$25 
+ME 382,Engineering Materials 2,Michael Ashby,,3,9780750663816,$30 
+MATH 256,Elementary Differential Equations and Boundary Value Problems,Boyce,,9,9780470383346,$60 
+EECS 280,Absolute C++,Savitch,,3,9780321468932,$50 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$60 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$45 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$90 
+EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,0,9788177589771,$40 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$110 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$60 
+MECHENG 335,Essentials of Heat Transfer,Kaviany,,,9781107012400,$80 
+MECHENG 360,System Dynamics,Palm,,2,9780073529271,$80 
+ENGR 100,Essential Cell Biology,Alberts,,2,9780815334804,$50 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$40 
+Engr 100,Introduction to Engineering Mechanics and Materials in the Design of Orthopedic Implants & Medical Devices,Wynarsky,,Fall 2011,2818440007477,$10 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$10 
+MATH 156/255,"Calculus, University of Michigan Edition",Stewart,,,9780495461944,$60 
+PHYS 140,University Physics Volume One,Sears,,13,9789321733382,$80 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$50 
+ME 350,Design and Manufacturing II ,Diann Brei,,Fall 2011,9781121292772,$50 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$30 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$30 
+PHYS 240,University Physics Volume Two,Sears,,13,9780321751218,$50 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$35 
+MATH 105,Functions Modeling Change A Preparation for Calculus,Clough,,3,9780471793038,$35 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$80 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,0,9780073785448,$20 
+EECS 320,Semiconductor Device Fundamentals,Pierret,,,9780201543933,$100 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$80 
+MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,,5,9780470414125,$30 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$40 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$50 
+IOE 201,Fundamentals of Engineering Economics,Park,,2,2900132209600,$60 
+MECHENG 335,Essentials of Heat Transfer,Kaviany,,,9781107012400,$120 
+CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,,4,9780471661740,$50 
+CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,,5,9780470128688,$50 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$40 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$50 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$120 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$60 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$80 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$5 
+MATH 115,Single Variable Calculus soln,Hughes-Hallett,,4,9780471659976,$5 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$40 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$10 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$25 
+PHYS 140,University Physics soln Vol 1,Ford,,12,9780321500632,$10 
+CHEM 210,Organic Chemistry,Seyhan Ege,,5,9780618318094,$50 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$30 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$40 
+MATH 215,Multivariable Calculus,Stewart,,7,9780538497879,$90 
+MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,,5,9780470414125,$30 
+CEE 431,Construction Contracting,Clough,,7,9780474149881,$60 
+IOE 421,Organization Theory and Design,Richard L. Daft,,10,9781111220853,$80 
+CHEM 130,General Chemistry,Ebbing,,8,9780618738793,$19 
+ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,,17,9780984365302,$24 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,4,9780471484820,$34 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$44 
+PHYS 241,Elementary Laboratory II: Laboratory Manual,Tarle,,2008,9780738028378,$4 
+Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7,9780495557449,$15 
+ME 211,Statics and Mechanics of Materials,Hibbeler,,SI,9780131290112,$10 
+ME 235,Fundamentals of Thermodynamics (SI Version),Claus Borgnakke,,7,9780470171578,$10 
+ME 335,Introduction to Heat Transfer,Incropera,,5,9780471457275,$20 
+CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,,4,9780471661740,$120 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$140 
+CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,,5,9780470128688,$140 
+CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,,5,9780470128688,$150 
+CHE 344,Essentials of Chemical Reaction Engineeering,H. Scott Fogler,,,9780137146123,$100 
+CHEM 261,"Introduction to Quantum Chemistry, Chemical Principles, Part 1",Oxtoby,,,9780495841470,$50 
+IOE 265,Student Solutions Manual for Probability and Statistics,Seely,,6,9780534399344,$35 
+IOE 425,Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda,Rother,,,9780966784305,$30 
+MSE 250,Materials Science and Engineering: An Introduction,Callister,,7,9780471736967,$70 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$50 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$40 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$20 
+MATH 115,"Calculus, Single Variable, Unbound",Hughes-Hallett,,5,9780470418062,$15 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$106 
+ENGR 100,"Electricity from Sunlight, An Introduction to Photovoltaics",Lynn,,0,9780470745601,$35 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$70 
+MATH 215,Student Solutions Manual for STEWART'S,Clegg,,7,9780840049452,$25 
+MATH 215,Multivariable Calculus,Stewart,,7,9780538497879,$80 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$40 
+CEE 312,Structural Analysis,Hibbeler,,7,9780136020608,$50 
+CEE 354,Geotechnical Engineering,Coduto,,2,9780132368681,$90 
+EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,,2,9780470434062,$30 
+ASIAN 206,India: Brief History of a Civilization,Thomas R. Trautmann,,0,9780199736324,$15 
+ASIAN 206,India Before Europe,Asher,,0,9780521005395,$30 
+ASIAN 206,In Spite of the Gods the Rise of Modern India,Edward Luce,,0,9781400079773,$30 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$60 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$20 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$40 
+EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,,,$70 
+EECS 334,Introduction to Optics,Frank L. Pedrotti,,3,9780131971332,$50 
+NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,,2,9780387207780,$70 
+EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,5,9780072424348,$25 
+EECS 203,Discrete Mathematics and Its Applications Student's Solutions Guide,Jerrold Grossman,,6,9780073107790,$25 
+EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,6,9780073229720,$75 
+EECS 215,Circuits,Fawwaz Ulaby,,,9781934891100,$95 
+MATH 215,Multivariable Calculus Student Solutions Manual,Dan Clegg,,6,9780495012283,$25 
+BME 231,Statics and Mechanics of Materials,Bedford,,0,9780130285935,$65 
+BME 231,Statics and Mechanics of Materials,Bedford,,0,9780130285935,$65 
+BME 231,Engineering Mechanics Dynamics,Bedford,,4,9780131463240,$60 
+BME 479,Transport Phenomena in Biological Systems,George A. Truskey,,2,9780131569881,$65 
+CEE 211,Statics & Dynamics,Hibbeler,,11,9780132215091,$30 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$35 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$75 
+EECS 203,Discrete Mathematics and Its Applications,Kenneth Rosen,,6,9780073229720,$90 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$45 
+MATH 216/56/86,Elementary Differential Equations and Boundary Value Problems,Boyce,,9,9780470383346,$90 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$75 
+PHYS  140,University Physics Students soln,Young,,12,9780321500632,$20 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$70 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$60 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$38 
+ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,,17,9780984365302,$6 
+NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,,2,9780387207780,$50 
+CEE 582,Brock Biology of Microorganisms,Michael Madigan,,13,9780321735515,$50 
+CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,,2,9780131482128,$80 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,5,9780132296304,$45 
+EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,,9788177589771,$40 
+EECS 370,Computer Organization and Design,Patterson,,4,9780123744937,$50 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$40 
+CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,,4,9780471661740,$78 
+CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,,5,9780470128688,$50 
+EECS 215,Circuits,Fawwaz Ulaby,,,9781934891100,$100 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$50 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$85 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$120 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$45 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$94 
+EECS 501,Probability and Random Processes for Electrical and Computer Engineers,Gubner,,,9780521864701,$50 
+ENGR 100-850,Radiation How Energetic Atomic Rays Impact Our World,Alexander Thomas,,0,50874,$15 
+ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,,17,9780984365302,$15 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$60 
+ME 211,Static and Mechanics of Materials,Hibbeler,,2,9780130281272,$40 
+ME 240,Engineering Mechanics Dynamics,J.L. Meriam,,6,9780470499788,$45 
+Phil IXX,The Philosopher's Way,John Chaffee,,3,9780205776993,$25 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$25 
+CHEM 130,General Chemistry (Media Enhanced Edition),Ebbing,,8,9780618997435,$15 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$49 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$49 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$15 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$20 
+MSE 250,Materials Science and Engineering,Callister,,8-SI,9780470505861,$55 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$55 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$70 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,5,9780132296304,$50 
+EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,,4,9788131710005,$75 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$100 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,,9780073785448,$20 
+ENGR 100,Engineering Design,Patrick Little,,2,9780470499788,$20 
+ME 240,Engineering Mechanics Dynamics,J.L. Meriam,,6,9780471256878,$55 
+CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,,12,9780138149291,$100 
+ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,1,9780558781811,$10 
+EECS 311,Microelectronic Circuits,Sedra,,6,9780195323030,$90 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$30 
+CEE 260,Introduction to Enginnering and the Environment,Edward S. Rubin,,1,9780072354676,$40 
+CEE 260,Introduction to Enviromental Engineering,P Aarne Vesilind,,2,9780534378127,$40 
+CEE 312,Structural Analysis,Hibbeler,,8,9780132570534,$50 
+CEE 345,Geotechnical Engineering,Donald P. Coduto,,1,9780135763803,$60 
+ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,,17,9780984365302,$15 
+IOE 440,Factory Physics (International Edition),Wallace J. Hopp,,3 Internatl,9780071232463,$50 
+IOE 441/551,Production and Operations Analysis,Steven Nahmias,,5,9780073018652,$40 
+NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,,2,9780387207780,$75 
+IOE 316,Introduction to Probability Models,Sheldon M. Ross,,10,9780123756862,$40 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$50 
+ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,,3,9780132166744,$30 
+ME 235,Introduction to Engineering Thermodynamics,Richard Sonntag,,2,9780471737599,$25 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$60 
+NERS 311,Modern Physics,Kenneth Krane,,2,9780471828723,$70 
+NERS 312,Introductory Nuclear Physics,Kenneth S. Krane,,,9780471805533,$70 
+NERS 315,Radiation Detection and Measurement,Glenn F. Knoll,,4,9780470131480,$100 
+EECS 334,Introduction to Optics,"Frank L. Pedrotti, S.J.",,3,9780131971332,$50 
+EECS 430,Radiowave Propagation and Link Design,Brian Gilchrist,,,,$60 
+PHYS 141,University Physics Student Solutions Manual Volume 1,A. Lewis Ford,,12,9780321500632,$20 
+PHYS 241,University Physics Student Solutions Manual Volumes 2 & 3,A. Lewis Ford,,12,9780321500380,$20 
+IOE 466,Introduction to Statistical Quality Control,Douglas C. Montgomery,,6,9780470169926,$55 
+BIOLOGY 225,Principles of Animal Physiology,Moyes,,2,9780321501554,$90 
+BME 231,Engineering Mechanics Dynamics,Bedford,,5,9780136129165,$90 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$55 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$80 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$20 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$50 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$45 
+MSE 242,Modern Physics for Scientists and Engineers,Thorton,,3,9780534417819,$120 
+EECS 280,Absolute C++,Savitch,,4,9780136083818,$35 
+MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,,4,9780131561106,$25 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$100 
+ME 211,Static and Mechanics of Materials,Hibbeler,,2,9780130281272,$100 
+ME 240,Engineering Mechanics Dynamics (Student Value Ed.) ,Meriam,,6,9780470499788,$50 
+PHYS 140,Mastering Physics Student Access Kit,Young,,12,9780321500281,$40 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$25 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$60 
+CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,6,9780534399337,$10 
+EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,6,9780073229720,$40 
+MCDB 429,Laboratory DNA Science,Bloom,,1,9780805330403,$55 
+ENGR 101,"Matlab, An Introduction with Applications",Gilat,,3,9780470108772,$10 
+PHYS 160,Matter & Interactions I - Modern Mechanics,Chabay,,3,9780470503454,$55 
+MATH 215,Multivariable Calculus - Solutions,Stewart,,7,9780840049452,$40 
+ME 235,Introduction to Engineering Thermodynamics,Richard Sonntag,,2,9780471737599,$15 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$20 
+MATH 116,Calculus Single Variable,Hughes-Hallett,,5,9780470089156,$53 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$42 
+CEE 211,Statics and Dynamics,Hibbeler,,12,9780138149291,$80 
+CEE 360,Water and Wastewater Engineering,Davis,,Internatl,9780071289245,$35 
+NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,,2,9780387207780,$45 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$85 
+CLARCH 323,"Archaeology: Theories, Methods, and Practice",Colin Renfrew,,5,9780500287132,$50 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$50 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,6,9780132139311,$55 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$8 
+EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,,4,9788131710005,$35 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$55 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,0,9780750687621,$20 
+MATH 156,Single Variable Calculus,Stewart,,6,9780495011613,$25 
+MATH 156,Single Variable Calculus,Stewart,,5,9780534393663,$10 
+ME 320,Fundamentals of Fluid Mechanics,Munson,,6,9780470262849,$60 
+BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,,9781891389337,$70 
+MSE 250,Materials Science and Engineering an Introduction,Wiley Asia,,7,9780470041628,$35 
+ENGR 100,"A Practical Guide to Technical Reports and Presentations for Scientists, Engineers, and Students",Pauline Bary-Khan,,1,9780555017876,$10 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$60 
+PHYS 140,University Physics Vol 1,A. Lewis Ford,,12,9780321500632,$20 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$40 
+ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,2,9780123850812,$40 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$85 
+MATH 419,Linear Algebra and Its Applications,Gilbert Strang,,4,9780030105678,$70 
+MSE 250,Material Science and Engineering,"William D. Callister, Jr.",,8,9780470419977,$85 
+CEE 303,Numerical Methods for Engineers,Chapra,,6,9780073401065,$70 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$25 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$70 
+IOE 421,Organization Theory and Design,Daft,,10,9780324598896,$100 
+IOE 441,Production and Operations Analysis,Nahmias,,6,9780073377858,$90 
+IOE 491,Service Science,Daskin,,1,9780470525883,$50 
+ME 240,Engineering Mechanics: Dynamics,J.L. Meriam,,6,9780471739319,$50 
+MATH 256,Elementary Differential Equations,Boyce,,9,9780470039403,$70 
+MATH 256,Elementary Differential Equations and Boundary Value Problems,Boyce,,?,,$40 
+MATH 465,Introductory Combinatorics,Brualdi,,5,9780136020400,$70 
+MATH 156/255,"Calculus, University of Michigan Edition",Stewart,,0,9780495461944,$30 
+CHEM 130,General Chemistry Custom Version for the University of Michigan (Media Enhanced Edition),Ebbing,,8,9780618980215,$60 
+EECS 312,Digital Integrated Circuits,Rabaey,,2,9788120322578,$30 
+EECS 401,Probability and Stochastic Processes,Roy D. Yates,,2,9780471272144,$75 
+ENGR 101,Matlab An Introduction with Applications,Gilat,,Wiley Student Edition,9788126513949,$5 
+MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,,4 Internatl,9780136000389,$55 
+PHYS 140,University Physics Vol 1 Study Guide,Kramer,,12,9780321500335,$5 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$70 
+PHYS 240,University Physics Vol 2&3 Solutions,A. Lewis Ford,,11,9780805386967,$10 
+IOE 333,IOE 333 Course Pack,Liu,,,IOE333CP,$7 
+IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,,2,9780131229174,$50 
+Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,,7,9780495557449,$80 
+MATH 215,Multivariable Calculus,Stewart,,6,9780495011637,$35 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$40 
+PHYS 240,University Physics Vol 2,Young,,11Soft,9780805391879,$20 
+ENGR 100,Introduction to Engineering,Holtz-apple Reece,,0,9780073785448,$12 
+MATH 417,Linear Algebra w/ Appications,Otto Bretscher,,4,9780136009269,$80 
+MUSIC 123,American Popular Music,Starr,,3,9780195396300,$35 
+CEE 260,Introduction to Environmental Engineering,Vesilind,,2,9780534378127,$25 
+ENGR 100,A Practical Guide to Techincal Reports and Presentations,Bary-Khan,,,9780555017876,$15 
+RELIGION 350,Christianity in Late Antiquity,Ehrman,,1,9780195154610,$35 
+EECS 460,Automatic Control Systems,Kuo,,8,9780471134763,$20 
+MATH 454,Partial DifferentialEquations for Scientists and Engineers ,Stanley J. Farlow,,0,9780486676203,$5 
+CHEM 130,General Chemistry,Ebbing,,,9781111401108,$100 
+ENGR 101,Introduction to Engineering Programming,James Paul Holloway,,1,9780471202158,$45 
+CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,,5,9780618318100,$10 
+CHEM 216,Introduction to Organic Laboratory Techniques: A Microscale Approach,Pavia,,1,9781426633652,$20 
+CHEM 260,Introduction to Quantum Chemistry,Oxtoby,,7,9781133447641,$50 
+CHEM 210-215,Organic Chemistry Structure And Reactivity,Seyhan Ege,,5,9780547126944,$50 
+CHEM 216,Introduction to Organic LaboratoryTechniques,Pavia,,,9781426633652,$70 
+MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,,4,9780136004387,$30 
+EECS 492,Intro To Artificial Intelligence ,Russel,,3,9780136042594,$50 
+EECS  376,Introduction to the Theory of Computation,Sipser,,2,9780534950972,$50 
+PHYS 240,University Physics Vol 2,Young,,12,9780321500762,$60 
+PHYS 240,"University Physics, Vol 2 Sol Man",Ford,,12,9780321500380,$10 
+BIOLOGY 172,Biological Science Study Guide,Freeman,,3,2900132249842,$15 
+BIOLOGY 172,Biological Science,Freeman,,3,2900321543270,$35 
+EECS 216,Continuous and Discrete Signals and Systems,Soliman,,1,10-0900162223,$10 
+EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,,1,9780130329318,$25 
+EECS 460,Automatic Control Systems,Kuo,,8,9780471134763,$45 
+EECS  215,Circuits,Fawwaz T. Ulaby,,1,9781934891001,$80 
+MATH 256,Elementary Differential Equations and Boundary Value Problems,Haines,,8,9780471433385,$20 
+MATH 256,Elementary Differential Equations and Boundary Value Problems,Haines,,8,9780471433408,$10 
+MATH 371,A Friendly Introduction to Numberical Analysis,Bradie,,,9780130130549,$75 
+MATH 417,Linear Algebra w/ Appications,Bretscher,,3,9780131453364,$10 
+MATH 423,Mathematics for Finance,Capinski,,2,9780857290816,$30 
+MATH 425,A First Course in Probability,Ross,,7,2900131856621,$10 
+PHYS 140,University Physica Vol 1 - solutions,Ford,,12,9780321500632,$15 
+PHYS 140,University Physics Vol 1,Young,,12,9780321500625,$20 
+EECS 312,Digital Integrated Circuits Design Perspective (Asian Economy),Jan M. Rabaey,,2AE,9787302079682,$30 
+EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,,4,9788131710005,$60 
+EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,,2,9780135184738,$50 
+NAVAL 270,Applied Naval Architecture,Zubaly,,1,9780870334757,$25 
+CHEM 130,General Chemistry,Ebbing,,1,9781111401108,$80 
+ME 560,Syetem Dynamics: Modeling and Simulation,Karnopp,,4,471709654,$5 
+ ,Dynamics Study Pack,Schiavone,,SI,9780131922280,$5 
+EECS 516,Magnetic Resonance imaging,Nishimura,,,,

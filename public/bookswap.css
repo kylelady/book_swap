@@ -1,0 +1,51 @@
+nav {
+width:90%;
+height:40px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px; //for opera
+background:#f3f3f3;
+border:1px solid #cccccc;
+position:absolute;
+}
+nav ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0 auto;
+width:940px;
+}
+nav ul li {
+float:left;
+}
+nav ul li a{
+margin-right:20px;
+display:block;
+line-height:40px;
+}
+
+
+body{
+	width:90%;
+	margin: 0 auto;
+}
+header{
+width:90%;
+margin: 0 auto;
+}
+header img{
+float:left;
+}
+header hgroup{
+float:center;
+}
+article{
+	width: 75%;
+	float:left;
+}
+
+aside{
+	width:20%;
+	float:right;
+}
+
