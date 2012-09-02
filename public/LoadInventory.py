@@ -1,12 +1,13 @@
 from datetime import datetime 
 import csv
+import os
 inventory_path="inventory.csv"
 today=datetime.today()
 selling_close=datetime(today.year,9,5,5,30 )
 testing_end=datetime(today.year,9,4,10)
 if(today>selling_close):
 	print "Price View Authorized"
-gen_html_path=".\webcontent\BookswapInventory.html"
+gen_html_path="."+os.sep+"webcontent"+os.sep+"BookswapInventory.html"
 gen_html=open(gen_html_path,'w')
 gen_html.write(r'''<!doctype html>
 <html lang="en">
