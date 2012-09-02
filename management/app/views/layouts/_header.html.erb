@@ -1,0 +1,11 @@
+	<div class="header">
+		<%= link_to "Home", :controller => 'home', :action => 'index' %>
+		<% if session[:admin] then %>
+		| <%= link_to "Books", :controller => 'books', :action => 'index' %>
+		| <%= link_to "Book Data", :controller => 'data', :action => 'index' %>
+		| <%= link_to "People", :controller => 'people', :action => 'index' %>
+		| <%= link_to "Purcahses", :controller => 'buyers', :action => 'index' %>
+		| <%= link_to "Sales", :controller => 'sellers', :action => 'index' %>
+		<% end %>
+	</div>
+
