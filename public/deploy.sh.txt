@@ -1,0 +1,2 @@
+python ./LoadInventory.py
+cp ./webcontent/*  /var/www/bookswap
