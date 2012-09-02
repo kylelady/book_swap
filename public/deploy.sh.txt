@@ -1,2 +1,2 @@
 python ./LoadInventory.py
-cp ./webcontent/*  /var/www/bookswap
+cp -r ./webcontent/*  /var/www/bookswap
