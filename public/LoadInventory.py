@@ -1,11 +1,13 @@
 from datetime import datetime 
 import csv
+import os
 inventory_path="inventory.csv"
 today=datetime.today()
 selling_close=datetime(today.year,9,5,5,30 )
+testing_end=datetime(today.year,9,4,10)
 if(today>selling_close):
 	print "Price View Authorized"
-gen_html_path="BookswapInventory.html"
+gen_html_path="."+os.sep+"webcontent"+os.sep+"BookswapInventory.html"
 gen_html=open(gen_html_path,'w')
 gen_html.write(r'''<!doctype html>
 <html lang="en">
@@ -37,8 +39,9 @@ var pagename="Inventory";
 <h1>Current Inventory</h1>''')
 if(today<=selling_close):
 	gen_html.write(r'''<p>Please note that until reception of books is closed, no price information will be visible.</p>''')
-
-gen_html.write(r'''<p>Click on column headers to sort the table by that column</p>
+if(today<testing_end):
+	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Bookswap opens </b></p>.''')
+gen_html.write(r'''<p>Click on column headers to sort the table by that column.</p>
 <table class="sortable">''')
 
 if(today>selling_close):
