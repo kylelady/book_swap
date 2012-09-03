@@ -5,7 +5,6 @@ width:90%;
 border-radius:10px; //for opera
 background:#f3f3f3;
 border:1px solid #cccccc;
-position:absolute;
 margin:0 auto;
 }
 nav ul {
@@ -16,7 +15,7 @@ margin:0 auto;
 width:85%;
 }
 nav ul li {
-float:left;
+display:inline-block;
 }
 nav ul li a{
 margin-right:20px;
@@ -28,6 +27,7 @@ line-height:40px;
 body{
 	width:90%;
 	margin: 0 auto;
+	min-width:1100px;
 }
 header{
 width:90%;
@@ -47,5 +47,10 @@ article{
 aside{
 	width:20%;
 	float:right;
+}
+
+table{
+	border-collapse:separate;
+	border-spacing:10px 5px;
 }
 

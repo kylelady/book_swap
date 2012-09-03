@@ -3,7 +3,7 @@ import csv
 import os
 inventory_path="inventory.csv"
 today=datetime.today()
-selling_close=datetime(today.year,9,5,5,30 )
+selling_close=datetime(today.year,9,1,5,30 )
 testing_end=datetime(today.year,9,4,10)
 if(today>selling_close):
 	print "Price View Authorized"
@@ -24,7 +24,7 @@ gen_html.write(r'''<!doctype html>
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="sorttable.js"></script>
+<script src="sort_filter_table.js"></script>
 <script type="text/javascript">
 var pagename="Inventory";
 </script>
@@ -54,28 +54,56 @@ if(today<=selling_close):
 	gen_html.write(r'''<p>Please note that until reception of books is closed, no price information will be visible.</p>''')
 if(today<testing_end):
 	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Bookswap opens. </b></p>''')
-gen_html.write(r'''<p>Click on column headers to sort the table by that column.</p>
-<table class="sortable">''')
 gen_html.write(r'''<p>List last updated on: '''+today.strftime("%A, %d %b. at %I:%M%p")+r'''.</p>''')
+gen_html.write(r'''<p>Click on column headers to sort the table by that column.</p>
+<table class="table-autosort:0">''')
 if(today>selling_close):
-	gen_html.write(r'''<tr>
-<th>Course</th>
-<th>Book Title</th>
-<th>Author</th>
-<th>Publisher</th>
-<th>Edition</th>
-<th>ISBN</th>
-<th>Price</th>
-</tr>''')
+	gen_html.write(r'''<thead><tr>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by course name">Course</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by title">Book Title</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by author">Author</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by publisher">Publisher</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by edition">Edition</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by ISBN">ISBN</th>
+<th class="table-sortable:currency table-filterable" title="Click to sort by price">Price</th>
+</tr>
+<tr>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><select onchange="Table.filter(this,this)">
+	<option value="function(){return true;}">All</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<10;}"><$10</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<20;}"><$20</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<30;}"><$30</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<40;}"><$40</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<50;}"><$50</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<100;}"><$100</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))>=100;}">>=100</option>
+</th>
+</tr>
+</thead><tbody>''')
 else:
-	gen_html.write(r'''<tr>
-<th>Course</th>
-<th>Book Title</th>
-<th>Author</th>
-<th>Publisher</th>
-<th>Edition</th>
-<th>ISBN</th>
-</tr>''')
+	gen_html.write(r'''<thead><tr>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by course name">Course</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by title">Book Title</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by author">Author</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by publisher">Publisher</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by edition">Edition</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by ISBN">ISBN</th>
+</tr>
+<tr>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+<th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
+</tr>
+</thead><tbody>''')
 
 inventory_reader = csv.reader(open(inventory_path,'r'), delimiter=',')
 inventory_reader.next()
@@ -93,7 +121,7 @@ for row in inventory_reader:
 
 
 
-gen_html.write(r'''
+gen_html.write(r'''</tbody>
 </table>
 
 
