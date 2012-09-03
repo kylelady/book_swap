@@ -35,6 +35,8 @@ margin: 0 auto;
 }
 header img{
 float:left;
+margin-right:5%;
+margin-bottom:2%;
 }
 header hgroup{
 float:center;
