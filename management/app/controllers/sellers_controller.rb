@@ -84,4 +84,27 @@ class SellersController < ApplicationController
       format.json { head :no_content }
     end
   end
+
+	def receive
+		logger.debug(params)
+		@book = Book.new
+		@book.datum = Datum.find(params[:datum_id])
+		@book.price = params[:price]
+		@book.save
+
+		@person = Person.find(session[:person_id])
+
+		@seller = Seller.new
+		@seller.book = @book
+		@seller.person = @person
+    respond_to do |format|
+      if @seller.save
+        format.html { redirect_to @person, :notice => 'Receive was successfully created.' }
+        format.json { render :json => @seller, :status => :created, :location => @person }
+      else
+        format.html { render :action => "new" }
+        format.json { render :json => @seller.errors, :status => :unprocessable_entity }
+      end
+		end
+	end
 end

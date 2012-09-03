@@ -43,7 +43,14 @@
 
 <br />
 
-<%= link_to 'New Book', new_book_path %>
+<%= form_tag(sellers_receive_path, :method => "get") do %>
+  <%= label_tag(:price, "Price:") %>
+  <%= text_field_tag(:price) %>
+	<%= hidden_field_tag :datum_id, @datum.id %>
+  <%= submit_tag("Receive a copy of this book") %>
+<% end %>
+
+<!--<%= link_to 'New Book', new_book_path %>-->
 
 <% else %>
 <p style="color:red">Book not found!</p>

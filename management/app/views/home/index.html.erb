@@ -3,6 +3,7 @@
 <p>Receiving: <strong><%= @recv_en ? 'Yes!' : 'NO.' %></strong></p>
 <p>Selling: <strong><%= @sell_en ? 'Yes!' : 'NO.' %></strong></p>
 <h2>Search</h2>
+<p>If they&apos;ve been here already this semester:</p>
 <%= form_tag(home_search_path, :method => "get") do %>
   <%= label_tag(:barcode, "Barcode:") %>
   <%= text_field_tag(:barcode) %>
@@ -13,3 +14,9 @@
   <%= text_field_tag(:umid) %>
   <%= submit_tag("Search") %>
 <% end %>
+<%= form_tag(home_search_path, :method => "get") do %>
+  <%= label_tag(:uniqname, "uniqname:") %>
+  <%= text_field_tag(:uniqname) %>
+  <%= submit_tag("Search") %>
+<% end %>
+<p>Otherwise: <%= link_to 'New Person', new_person_path %>

@@ -1,6 +1,7 @@
 Management::Application.routes.draw do
   resources :flags
 
+	get "sellers/receive"
   resources :sellers
 
   resources :buyers
