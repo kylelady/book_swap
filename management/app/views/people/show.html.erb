@@ -54,7 +54,7 @@
 <%= link_to 'Edit', edit_person_path(@person) %> |
 <%= link_to 'Back', people_path %>
 
-<h2>Books for Sale</h2>
+<h2>Books Received</h2>
 <table>
 	<tr>
 		<th>Isbn</th>
@@ -75,7 +75,13 @@
 <% end %>
 </table>
 
-<%= link_to 'Sell a book!', new_seller_path(:person_id => @person) %>
+<%= link_to 'Receive a book!', new_seller_path(:person_id => @person) %>
+
+<%= form_tag(books_search_path, :method => "get") do %>
+  <%= label_tag(:isbn, "ISBN:") %>
+  <%= text_field_tag(:isbn) %>
+  <%= submit_tag("Search") %>
+<% end %>
 
 <h2>Books Purchased</h2>
 <table>

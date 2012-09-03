@@ -24,7 +24,11 @@ class DataController < ApplicationController
   # GET /data/new
   # GET /data/new.json
   def new
-    @datum = Datum.new
+		if params[:isbn]
+			@datum = Datum.new(:isbn => params[:isbn])
+		else
+			@datum = Datum.new
+		end
 
     respond_to do |format|
       format.html # new.html.erb
@@ -44,7 +48,13 @@ class DataController < ApplicationController
 
     respond_to do |format|
       if @datum.save
-        format.html { redirect_to @datum, :notice => 'Datum was successfully created.' }
+        format.html do
+					if session[:person_id]
+						redirect_to books_search_path(:isbn => @datum.isbn)
+					else
+						redirect_to @datum, :notice => 'Datum was successfully created.'
+					end
+				end
         format.json { render :json => @datum, :status => :created, :location => @datum }
       else
         format.html { render :action => "new" }
