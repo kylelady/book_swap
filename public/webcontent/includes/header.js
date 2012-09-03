@@ -1,5 +1,5 @@
 document.write("<header>");
-document.write("<img src=\"TBPlogoHiRes_small.gif\" alt=\"TBP Logo\"/>");
+document.write("<img src=\"TBP_White_Words.png\" alt=\"TBP Logo\" width=250px/>");
 document.write("<hgroup>");
 document.write("<h1>Engineering Bookswap</h1>");
 document.write("<h2>Brought to you by Tau Beta Pi</h2>");
