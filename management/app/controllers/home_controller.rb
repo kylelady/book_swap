@@ -13,10 +13,10 @@ class HomeController < ApplicationController
 			@person = Person.find_by_umid(params[:umid])
 		end
 		if @person
-			redirect_to :controller => :person, :action => :show, :id => @person.id
+			redirect_to :controller => :people, :action => :show, :id => @person.id
 		else
 			flash[:warning] = 'Not found'
-			render :index
+			redirect_to :action => :index
 		end
 	end
 end

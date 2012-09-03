@@ -1,3 +1,15 @@
+<p style="color:red"><%= flash[:warning] %></p>
 <h1>Book Swap!</h1>
 <p>Receiving: <strong><%= @recv_en ? 'Yes!' : 'NO.' %></strong></p>
 <p>Selling: <strong><%= @sell_en ? 'Yes!' : 'NO.' %></strong></p>
+<h2>Search</h2>
+<%= form_tag(home_search_path, :method => "get") do %>
+  <%= label_tag(:barcode, "Barcode:") %>
+  <%= text_field_tag(:barcode) %>
+  <%= submit_tag("Search") %>
+<% end %>
+<%= form_tag(home_search_path, :method => "get") do %>
+  <%= label_tag(:umid, "UMID:") %>
+  <%= text_field_tag(:umid) %>
+  <%= submit_tag("Search") %>
+<% end %>

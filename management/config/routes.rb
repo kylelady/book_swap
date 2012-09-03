@@ -12,6 +12,7 @@ Management::Application.routes.draw do
   resources :books
 
   get "home/index"
+	get "home/search"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
