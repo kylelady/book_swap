@@ -56,7 +56,7 @@ if(today<testing_end):
 	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Bookswap opens. </b></p>''')
 gen_html.write(r'''<p>Click on column headers to sort the table by that column.</p>
 <table class="sortable">''')
-
+gen_html.write(r'''<p>List last updated on: '''+today.strftime("%A, %d %b. at %I:%M%p")+r'''.</p>''')
 if(today>selling_close):
 	gen_html.write(r'''<tr>
 <th>Course</th>
