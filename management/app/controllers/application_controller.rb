@@ -20,5 +20,4 @@ class ApplicationController < ActionController::Base
 			session[:username] = session[:tmpuser]
 			session[:admin] = true if session[:username] == 'admin'
 		end
-
 end
