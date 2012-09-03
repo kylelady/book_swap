@@ -1,12 +1,12 @@
 nav {
 width:90%;
-height:40px;
 -moz-border-radius:10px;
 -webkit-border-radius:10px;
 border-radius:10px; //for opera
 background:#f3f3f3;
 border:1px solid #cccccc;
 position:absolute;
+margin:0 auto;
 }
 nav ul {
 list-style-image:none;
