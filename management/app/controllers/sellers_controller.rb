@@ -24,7 +24,7 @@ class SellersController < ApplicationController
   # GET /sellers/new
   # GET /sellers/new.json
   def new
-    @seller = Seller.new
+    @seller = Seller.new()
 
     respond_to do |format|
       format.html # new.html.erb

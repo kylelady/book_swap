@@ -66,14 +66,16 @@
 
 <% @person.selling_books.each do |sbook| %>
 	<tr>
-		<th><%= sbook.book.isbn %></th>
-		<th><%= sbook.book.title %></th>
-		<th><%= sbook.book.edition %></th>
-		<th><%= sbook.price %></th>
-		<th>Sell if available, Sold to otherwise</th>
+		<td><%= sbook.datum.isbn %></td>
+		<td><%= sbook.datum.title %></td>
+		<td><%= sbook.datum.edition %></td>
+		<td><%= sbook.price %></td>
+		<td>Sell if available, Sold to otherwise</td>
 	</tr>
 <% end %>
 </table>
+
+<%= link_to 'Sell a book!', new_seller_path(:person_id => @person) %>
 
 <h2>Books Purchased</h2>
 <table>
@@ -87,11 +89,11 @@
 
 <% @person.bought_books.each do |bbook| %>
 	<tr>
-		<th><%= bbook.book.buyer %></th>
-		<th><%= bbook.book.isbn %></th>
-		<th><%= bbook.book.title %></th>
-		<th><%= bbook.book.edition %></th>
-		<th><%= bbook.price %></th>
+		<td>foo</td>
+		<td><%= bbook.datum.isbn %></td>
+		<td><%= bbook.datum.title %></td>
+		<td><%= bbook.datum.edition %></td>
+		<td><%= bbook.price %></td>
 	</tr>
 <% end %>
 </table>
