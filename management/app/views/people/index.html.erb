@@ -9,6 +9,7 @@
     <th>City</th>
     <th>State</th>
     <th>Zip</th>
+    <th>Barcode</th>
     <th></th>
     <th></th>
     <th></th>
@@ -23,6 +24,7 @@
     <td><%= person.city %></td>
     <td><%= person.state %></td>
     <td><%= person.zip %></td>
+    <td><%= person.barcode %></td>
     <td><%= link_to 'Show', person %></td>
     <td><%= link_to 'Edit', edit_person_path(person) %></td>
     <td><%= link_to 'Destroy', person, :method => :delete, :data => { :confirm => 'Are you sure?' } %></td>
