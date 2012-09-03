@@ -3,7 +3,7 @@ import csv
 import os
 inventory_path="inventory.csv"
 today=datetime.today()
-selling_close=datetime(today.year,9,1,5,30 )
+selling_close=datetime(today.year,9,5,5,30 )
 testing_end=datetime(today.year,9,4,10)
 if(today>selling_close):
 	print "Price View Authorized"
@@ -55,7 +55,7 @@ if(today<=selling_close):
 if(today<testing_end):
 	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Bookswap opens. </b></p>''')
 gen_html.write(r'''<p>List last updated on: '''+today.strftime("%A, %d %b. at %I:%M%p")+r'''.</p>''')
-gen_html.write(r'''<p>Click on column headers to sort the table by that column.</p>
+gen_html.write(r'''<p>Click on column headers to sort the table by that column. Type in boxes to filter.</p>
 <table class="table-autosort:0">''')
 if(today>selling_close):
 	gen_html.write(r'''<thead><tr>
