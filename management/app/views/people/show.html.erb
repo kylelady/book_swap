@@ -53,3 +53,53 @@
 
 <%= link_to 'Edit', edit_person_path(@person) %> |
 <%= link_to 'Back', people_path %>
+
+<h2>Books Received</h2>
+<table>
+	<tr>
+		<th>Isbn</th>
+		<th>Title</th>
+		<th>Edition</th>
+		<th>Price</th>
+		<th>Sell</th>
+	</tr>
+
+<% @person.selling_books.each do |sbook| %>
+	<tr>
+		<td><%= sbook.datum.isbn %></td>
+		<td><%= sbook.datum.title %></td>
+		<td><%= sbook.datum.edition %></td>
+		<td><%= sbook.price %></td>
+		<td>Sell if available, Sold to otherwise</td>
+	</tr>
+<% end %>
+</table>
+
+<%= link_to 'Receive a book!', new_seller_path(:person_id => @person) %>
+
+<%= form_tag(books_search_path, :method => "get") do %>
+  <%= label_tag(:isbn, "ISBN:") %>
+  <%= text_field_tag(:isbn) %>
+  <%= submit_tag("Search") %>
+<% end %>
+
+<h2>Books Purchased</h2>
+<table>
+	<tr>
+		<th>Seller</th>
+		<th>Isbn</th>
+		<th>Title</th>
+		<th>Edition</th>
+		<th>Price</th>
+	</tr>
+
+<% @person.bought_books.each do |bbook| %>
+	<tr>
+		<td>foo</td>
+		<td><%= bbook.datum.isbn %></td>
+		<td><%= bbook.datum.title %></td>
+		<td><%= bbook.datum.edition %></td>
+		<td><%= bbook.price %></td>
+	</tr>
+<% end %>
+</table>

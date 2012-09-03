@@ -80,4 +80,16 @@ class BooksController < ApplicationController
       format.json { head :no_content }
     end
   end
+
+	def search
+		logger.debug(params)
+		@datum = Datum.find_by_isbn(params[:isbn])
+		logger.debug(@datum)
+		@books = Book.find_all_by_datum_id(@datum.id) if @datum
+
+    respond_to do |format|
+      format.html # search.html.erb
+      format.json { render :json => @book }
+    end
+	end
 end

@@ -24,7 +24,11 @@ class SellersController < ApplicationController
   # GET /sellers/new
   # GET /sellers/new.json
   def new
-    @seller = Seller.new
+		if params[:person_id]
+			@seller = Seller.new(:person_id => params[:person_id])
+		else
+    	@seller = Seller.new
+		end
 
     respond_to do |format|
       format.html # new.html.erb

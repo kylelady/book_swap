@@ -14,6 +14,7 @@ class PeopleController < ApplicationController
   # GET /people/1.json
   def show
     @person = Person.find(params[:id])
+		session[:person_id] = @person.id
 
     respond_to do |format|
       format.html # show.html.erb
