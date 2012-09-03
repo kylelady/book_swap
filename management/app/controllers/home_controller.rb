@@ -4,4 +4,19 @@ class HomeController < ApplicationController
 		@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
 		@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
   end
+
+	def search
+		@person = nil
+		if params.has_key?(:barcode)
+			@person = Person.find_by_barcode(params[:barcode])
+		elsif params.has_key?(:umid)
+			@person = Person.find_by_umid(params[:umid])
+		end
+		if @person
+			redirect_to :controller => :person, :action => :show, :id => @person.id
+		else
+			flash[:warning] = 'Not found'
+			render :index
+		end
+	end
 end
