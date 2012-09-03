@@ -1,4 +1,6 @@
 Management::Application.routes.draw do
+  resources :flags
+
   resources :sellers
 
   resources :buyers
