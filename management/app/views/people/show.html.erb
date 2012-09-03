@@ -70,7 +70,28 @@
 		<th><%= sbook.book.title %></th>
 		<th><%= sbook.book.edition %></th>
 		<th><%= sbook.price %></th>
-		<th>fooooo</th>
+		<th>Sell if available, Sold to otherwise</th>
+	</tr>
+<% end %>
+</table>
+
+<h2>Books Purchased</h2>
+<table>
+	<tr>
+		<th>Seller</th>
+		<th>Isbn</th>
+		<th>Title</th>
+		<th>Edition</th>
+		<th>Price</th>
+	</tr>
+
+<% @person.bought_books.each do |bbook| %>
+	<tr>
+		<th><%= bbook.book.buyer %></th>
+		<th><%= bbook.book.isbn %></th>
+		<th><%= bbook.book.title %></th>
+		<th><%= bbook.book.edition %></th>
+		<th><%= bbook.price %></th>
 	</tr>
 <% end %>
 </table>
