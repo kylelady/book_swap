@@ -53,3 +53,24 @@
 
 <%= link_to 'Edit', edit_person_path(@person) %> |
 <%= link_to 'Back', people_path %>
+
+<h2>Books for Sale</h2>
+<table>
+	<tr>
+		<th>Isbn</th>
+		<th>Title</th>
+		<th>Edition</th>
+		<th>Price</th>
+		<th>Sell</th>
+	</tr>
+
+<% @person.selling_books.each do |sbook| %>
+	<tr>
+		<th><%= sbook.book.isbn %></th>
+		<th><%= sbook.book.title %></th>
+		<th><%= sbook.book.edition %></th>
+		<th><%= sbook.price %></th>
+		<th>fooooo</th>
+	</tr>
+<% end %>
+</table>
