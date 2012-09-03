@@ -74,12 +74,13 @@
 	</tr>
 <% end %>
 </table>
-
-<%= link_to 'Receive a book!', new_seller_path(:person_id => @person) %>
+<br />
+Receive a book:
 
 <%= form_tag(books_search_path, :method => "get") do %>
   <%= label_tag(:isbn, "ISBN:") %>
   <%= text_field_tag(:isbn) %>
+	<%= hidden_field_tag :xact, 'recv' %>
   <%= submit_tag("Search") %>
 <% end %>
 
@@ -103,3 +104,11 @@
 	</tr>
 <% end %>
 </table>
+<br />
+Sell a book:
+<%= form_tag(books_search_path, :method => "get") do %>
+  <%= label_tag(:isbn, "ISBN:") %>
+  <%= text_field_tag(:isbn) %>
+	<%= hidden_field_tag :xact, 'sell' %>
+  <%= submit_tag("Search") %>
+<% end %>

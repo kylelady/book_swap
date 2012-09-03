@@ -1,9 +1,10 @@
 class HomeController < ApplicationController
 	#skip_before_filter :authenticate, :only => [:index]
+	@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
+	@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
+
   def index
 		session[:person_id] = nil
-		@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
-		@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
   end
 
 	def search

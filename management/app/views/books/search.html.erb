@@ -1,59 +1,76 @@
 <h1>Listing books</h1>
 
 <% if @datum %>
-<p>
-  <b>Isbn:</b>
-  <%= @datum.isbn %>
-</p>
+	<p>
+	  <b>Isbn:</b>
+	  <%= @datum.isbn %>
+	</p>
+	
+	<p>
+	  <b>Title:</b>
+	  <%= @datum.title %>
+	</p>
+	
+	<p>
+	  <b>Author:</b>
+	  <%= @datum.author %>
+	</p>
+	
+	<p>
+	  <b>Edition:</b>
+	  <%= @datum.edition %>
+	</p>
+	
+	<table>
+	  <tr>
+	    <th>Price</th>
+	    <th>Book ID</th>
+	    <th>Seller UMID</th>
+			<th></th>
+	  </tr>
 
-<p>
-  <b>Title:</b>
-  <%= @datum.title %>
-</p>
+	<% @books.each do |book| %>
+	  <tr>
+	    <td><%= book.price if @sell_en || session[:admin] %></td>
+	    <td><%= book.id %></td>
+	    <td><%= book.seller.person.umid %></td>
+			<% if book.buyer %>
+				<td>SOLD</td>
+			<% else %>
 
-<p>
-  <b>Author:</b>
-  <%= @datum.author %>
-</p>
+		    <td><% if params[:xact] == 'sell' %>
+					<%= form_tag(buyers_sell_path) do %>
+						<%= hidden_field_tag :book_id, book.id %>
+						<%= submit_tag 'Sell', :confirm => 'Are you sure?' %>
+					<% end %>
+				<% end %></td>
 
-<p>
-  <b>Edition:</b>
-  <%= @datum.edition %>
-</p>
+			<% end %>
+	  </tr>
+	<% end %>
+	</table>
 
-<table>
-  <tr>
-    <th>Price</th>
-    <th>Book ID</th>
-    <th>Seller UMID</th>
-		<th></th>
-  </tr>
+	<br />
 
-<% @books.each do |book| %>
-  <tr>
-    <td><%= book.price %></td>
-    <td><%= book.id %></td>
-    <td><%= book.seller.person.umid %></td>
-    <td><%= link_to 'Show', book %></td>
-    <td><%= link_to 'Edit', edit_book_path(book) %></td>
-    <td><%= link_to 'Destroy', book, :method => :delete, :data => { :confirm => 'Are you sure?' } %></td>
-  </tr>
-<% end %>
-</table>
-
-<br />
-
-<%= form_tag(sellers_receive_path, :method => "get") do %>
-  <%= label_tag(:price, "Price:") %>
-  <%= text_field_tag(:price) %>
-	<%= hidden_field_tag :datum_id, @datum.id %>
-  <%= submit_tag("Receive a copy of this book") %>
-<% end %>
-
-<!--<%= link_to 'New Book', new_book_path %>-->
+	<% if params[:xact] == 'recv' %>
+		<%= form_tag(sellers_receive_path, :method => "get") do %>
+		  <%= label_tag(:price, "Price:") %>
+		  <%= text_field_tag(:price) %>
+			<%= hidden_field_tag :datum_id, @datum.id %>
+		  <%= submit_tag("Receive a copy of this book") %>
+		<% end %>
+	<% elsif params[:xact] == 'sell' %>
+	<% else %>
+		Go away.
+	<% end %>
 
 <% else %>
-<p style="color:red">Book not found!</p>
-<%= link_to 'Add Book', new_datum_path(:isbn => params[:isbn]) %>
+
+	<p style="color:red">Book not found!</p>
+	<% if params[:xact] == 'recv' %>
+		<%= link_to 'Add Book', new_datum_path(:isbn => params[:isbn]) %>
+	<% else %>
+		<p style="color:red"><big><strong>This should not be happening.</strong></big></p>
+	<% end %>
 
 <% end %>

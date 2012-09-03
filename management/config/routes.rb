@@ -4,6 +4,7 @@ Management::Application.routes.draw do
 	get "sellers/receive"
   resources :sellers
 
+	post "buyers/sell"
   resources :buyers
 
   resources :people

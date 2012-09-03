@@ -1,4 +1,7 @@
 class DataController < ApplicationController
+	@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
+	@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
+
   # GET /data
   # GET /data.json
   def index

@@ -1,4 +1,7 @@
 class BuyersController < ApplicationController
+	@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
+	@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
+
   # GET /buyers
   # GET /buyers.json
   def index
@@ -78,6 +81,24 @@ class BuyersController < ApplicationController
     respond_to do |format|
       format.html { redirect_to buyers_url }
       format.json { head :no_content }
+    end
+  end
+
+  def sell
+		@person = Person.find(session[:person_id])
+
+    @buyer = Buyer.new
+		@buyer.person = @person
+		@buyer.book = Book.find(params[:book_id])
+
+    respond_to do |format|
+      if @buyer.save
+        format.html { redirect_to @person, :notice => 'Sale was successfully created.' }
+        format.json { render :json => @buyer, :status => :created, :location => @buyer }
+      else
+        format.html { render :action => "new" }
+        format.json { render :json => @buyer.errors, :status => :unprocessable_entity }
+      end
     end
   end
 end
