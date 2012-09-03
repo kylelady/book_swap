@@ -12,7 +12,7 @@ document.write("<li><a id=\"AboutTBP\" href=\"AboutTBPMIG.html\">About Tau Beta 
 document.write("<li><a id=\"Inventory\" href=\"BookswapInventory.html\">Current Inventory</a></li>");
 document.write("<li><a id=\"FAQ\" href=\"AboutBookswap.html\">FAQ</a></li>");
 document.write("<li><a id=\"FindUs\" href=\"BookswapLocation.html\">Find Us</a></li>");
-document.write("<li><a id=\"Contracts\" href=\"BookswapContracts.html\">Resources Buyers and Sellers</a></li>");
+document.write("<li><a id=\"Contracts\" href=\"BookswapContracts.html\">Resources for Buyers and Sellers</a></li>");
 document.write("</ul>");
 document.write("</nav>");
 
