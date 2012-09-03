@@ -15,6 +15,5 @@ document.write("<li><a id=\"FindUs\" href=\"BookswapLocation.html\">Find Us</a><
 document.write("<li><a id=\"Contracts\" href=\"BookswapContracts.html\">Resources for Buyers and Sellers</a></li>");
 document.write("</ul>");
 document.write("</nav>");
-
 var el= document.getElementById(pagename);
 el.style.color="red";
