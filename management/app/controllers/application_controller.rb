@@ -42,14 +42,15 @@ class ApplicationController < ActionController::Base
 
 	protected
 		def authenticate
-			session[:username] = nil
-			session[:admin] = false
-			authenticate_or_request_with_http_digest(REALM) do |username|
-				session[:tmpuser] = username
-				USERS[username]
+			if session[:timeout] == nil || (session[:timeout] - Time.now) > 0
+				authenticate_or_request_with_http_digest(REALM) do |username|
+					session[:tmpuser] = username
+					USERS[username]
+				end
 			end
 			logger.debug 'fooooo'
 			session[:username] = session[:tmpuser]
-			session[:admin] = true if session[:username] == 'admin'
+			session[:admin] = session[:username] == 'admin' ? true : false
+			session[:timeout] = Time.now + 1.hours
 		end
 end

@@ -3,4 +3,6 @@
 <%= render 'form' %>
 
 <%= link_to 'Show', @person %> |
+<% if session[:admin] %>
 <%= link_to 'Back', people_path if session[:admin] %>
+<% end %>
