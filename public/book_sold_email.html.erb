@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+	<head>
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"
+	</head>
+	<body>
+	<p>Hello <%= @person.name %>,<br/><br/>
+	This is a notification that the following books have been sold:<br/>
+	<%= @person.sold_books %><br/><br/>
+	Please bring your copy of your seller contract to the <%= @bookswap.location %> during check/book pick-up hours to claim your check and any unsold books you may have.
+	Check/book pick up dates are <%= @bookswap.check_dates %><br/><br/>
+	Thank you for working with us!<br/>
+	The TBP Bookswap Team</p>
+	</body>
+</html>
+	
