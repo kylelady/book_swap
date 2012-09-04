@@ -1,7 +1,4 @@
 class PeopleController < ApplicationController
-	@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
-	@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
-
   # GET /people
   # GET /people.json
   def index
@@ -18,6 +15,7 @@ class PeopleController < ApplicationController
   def show
     @person = Person.find(params[:id])
 		session[:person_id] = @person.id
+		session[:xact] = nil
 
     respond_to do |format|
       format.html # show.html.erb

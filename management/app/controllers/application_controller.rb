@@ -8,6 +8,16 @@ class ApplicationController < ActionController::Base
   protect_from_forgery
 	before_filter :authenticate
 
+	helper_method :recv_en?
+	def recv_en?
+		Flag.find_by_key_and_value('receiving_enabled', true)
+	end
+
+	helper_method :sell_en?
+	def sell_en?
+		Flag.find_by_key_and_value('selling_enabled', true)
+	end
+
 	protected
 		def authenticate
 			session[:username] = nil

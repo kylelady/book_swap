@@ -31,14 +31,14 @@
 
 	<% @books.each do |book| %>
 	  <tr>
-	    <td><%= book.price if @sell_en || session[:admin] %></td>
+	    <td><%= book.price if sell_en? || session[:admin] %></td>
 	    <td><%= book.id %></td>
 	    <td><%= book.seller.person.umid %></td>
 			<% if book.buyer %>
 				<td>SOLD</td>
 			<% else %>
 
-		    <td><% if params[:xact] == 'sell' %>
+		    <td><% if session[:xact] == 'sell' %>
 					<%= form_tag(buyers_sell_path) do %>
 						<%= hidden_field_tag :book_id, book.id %>
 						<%= submit_tag 'Sell', :confirm => 'Are you sure?' %>
@@ -52,22 +52,26 @@
 
 	<br />
 
-	<% if params[:xact] == 'recv' %>
+	<% if @xact == 'recv' %>
 		<%= form_tag(sellers_receive_path, :method => "get") do %>
 		  <%= label_tag(:price, "Price:") %>
 		  <%= text_field_tag(:price) %>
 			<%= hidden_field_tag :datum_id, @datum.id %>
 		  <%= submit_tag("Receive a copy of this book") %>
 		<% end %>
-	<% elsif params[:xact] == 'sell' %>
+	<% elsif @xact == 'sell' %>
 	<% else %>
+	<% logger.debug('\nSession[xact]: ') %>
+	<% logger.debug(session[:xact]) %>
+	<% logger.debug('\nxact: ') %>
+	<% logger.debug(@xact) %>
 		Go away.
 	<% end %>
 
 <% else %>
 
 	<p style="color:red">Book not found!</p>
-	<% if params[:xact] == 'recv' %>
+	<% if session[:xact] == 'recv' %>
 		<%= link_to 'Add Book', new_datum_path(:isbn => params[:isbn]) %>
 	<% else %>
 		<p style="color:red"><big><strong>This should not be happening.</strong></big></p>

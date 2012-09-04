@@ -1,7 +1,7 @@
 <p style="color:red"><%= flash[:warning] %></p>
 <h1>Book Swap!</h1>
-<p>Receiving: <strong><%= @recv_en ? 'Yes!' : 'NO.' %></strong></p>
-<p>Selling: <strong><%= @sell_en ? 'Yes!' : 'NO.' %></strong></p>
+<p>Receiving: <strong><%= recv_en? ? 'Yes!' : 'NO.' %></strong></p>
+<p>Selling: <strong><%= sell_en? ? 'Yes!' : 'NO.' %></strong></p>
 <h2>Search</h2>
 <p>If they&apos;ve been here already this semester:</p>
 <%= form_tag(home_search_path, :method => "get") do %>
