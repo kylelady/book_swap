@@ -62,10 +62,11 @@ if(today>selling_close):
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by course name">Course</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by title">Book Title</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by author">Author</th>
-<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by publisher">Publisher</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by edition">Edition</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by ISBN">ISBN</th>
-<th class="table-sortable:currency table-filterable" title="Click to sort by price">Price</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by Quantity">Quantity</th>
+<th class="table-sortable:currency table-filterable" title="Click to sort by minimum average">Minimum Price</th>
+<th class="table-sortable:currency table-filterable" title="Click to sort by average price">Average Price</th>
 </tr>
 <tr>
 <th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
@@ -84,6 +85,16 @@ if(today>selling_close):
 	<option value="function(val){return parseFloat(val.replace(/\$/,''))<100;}"><$100</option>
 	<option value="function(val){return parseFloat(val.replace(/\$/,''))>=100;}">>=100</option>
 </th>
+<th><select onchange="Table.filter(this,this)">
+	<option value="function(){return true;}">All</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<10;}"><$10</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<20;}"><$20</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<30;}"><$30</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<40;}"><$40</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<50;}"><$50</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))<100;}"><$100</option>
+	<option value="function(val){return parseFloat(val.replace(/\$/,''))>=100;}">>=100</option>
+</th>
 </tr>
 </thead><tbody>''')
 else:
@@ -91,9 +102,9 @@ else:
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by course name">Course</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by title">Book Title</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by author">Author</th>
-<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by publisher">Publisher</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by edition">Edition</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by ISBN">ISBN</th>
+<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by quantity">Quantity</th>
 </tr>
 <tr>
 <th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
@@ -111,11 +122,11 @@ for row in inventory_reader:
 	gen_html.write(r'''<tr><td>%(Course)s</td>
 <td>%(Title)s</td>
 <td>%(Author)s</td>
-<td>%(Publisher)s</td>
 <td>%(Edition)s</td>
-<td>%(ISBN)s</td>'''%{"Course":row[0],"Title":row[1],"Author":row[2],"Publisher":row[3],"Edition":row[4],"ISBN":row[5]})
+<td>%(ISBN)s</td>
+<td>%(Quantity)s</td>'''%{"Course":row[0],"Title":row[1],"Author":row[2],"Edition":row[3],"ISBN":row[4],"Quantity":row[5]})
 	if(today>selling_close):
-		gen_html.write(r'''<td>%s</td>'''%(row[6]))
+		gen_html.write(r'''<td>%s</td><td>%s</td>'''%(row[6],row[7]))
 	gen_html.write("</tr>")
 
 
