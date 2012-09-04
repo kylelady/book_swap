@@ -1,14 +1,14 @@
 	<div class="header">
 		<%= link_to "Home", :controller => 'home', :action => 'index' %>
 		<% if session[:admin] then %>
+		| <span style="color:#C00 !important">
+		DANGER ZONE:
 		| <%= link_to "Books", :controller => 'books', :action => 'index' %>
 		| <%= link_to "Book Data", :controller => 'data', :action => 'index' %>
 		| <%= link_to "People", :controller => 'people', :action => 'index' %>
 		| <%= link_to "Purchases", :controller => 'buyers', :action => 'index' %>
 		| <%= link_to "Received Books", :controller => 'sellers', :action => 'index' %>
-		| <span style="color:#C00 !important">
-		DANGER ZONE:
-		<%= link_to "Flags", :controller => 'flags', :action => 'index' %>
+		| <%= link_to "Flags", :controller => 'flags', :action => 'index' %>
 		</span>
 		<% end %>
 		<% if session[:person_id] then %>
