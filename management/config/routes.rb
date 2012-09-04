@@ -1,4 +1,6 @@
 Management::Application.routes.draw do
+  get "export/csv"
+
   resources :flags
 
 	get "sellers/receive"
@@ -17,6 +19,7 @@ Management::Application.routes.draw do
   get "home/index"
 	get "home/search"
 
+	get "export/csv"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

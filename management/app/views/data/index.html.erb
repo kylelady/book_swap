@@ -6,6 +6,7 @@
     <th>Title</th>
     <th>Author</th>
     <th>Edition</th>
+    <th>Course</th>
     <th></th>
     <th></th>
     <th></th>
@@ -17,6 +18,7 @@
     <td><%= datum.title %></td>
     <td><%= datum.author %></td>
     <td><%= datum.edition %></td>
+    <td><%= datum.course %></td>
     <td><%= link_to 'Show', datum %></td>
     <td><%= link_to 'Edit', edit_datum_path(datum) %></td>
     <td><%= link_to 'Destroy', datum, :method => :delete, :data => { :confirm => 'Are you sure?' } %></td>

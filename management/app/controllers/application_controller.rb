@@ -4,6 +4,9 @@
 # defines a USERS hash and REALM string
 require 'users'
 
+# defines an API_KEY string, with arbitrary url-safe characters
+require 'api_key'
+
 class ApplicationController < ActionController::Base
   protect_from_forgery
 	before_filter :authenticate
@@ -17,6 +20,25 @@ class ApplicationController < ActionController::Base
 	def sell_en?
 		Flag.find_by_key_and_value('selling_enabled', true)
 	end
+
+	def render_csv(filename = nil)
+	  filename ||= params[:action]
+	  filename += '.csv'
+
+	  if request.env['HTTP_USER_AGENT'] =~ /msie/i
+	    headers['Pragma'] = 'public'
+	    headers["Content-type"] = "text/plain" 
+	    headers['Cache-Control'] = 'no-cache, must-revalidate, post-check=0, pre-check=0'
+	    headers['Content-Disposition'] = "attachment; filename=\"#{filename}\"" 
+	    headers['Expires'] = "0" 
+	  else
+	    headers["Content-Type"] ||= 'text/csv'
+	    headers["Content-Disposition"] = "attachment; filename=\"#{filename}\"" 
+	  end
+
+	  render :layout => false
+	end
+	
 
 	protected
 		def authenticate
