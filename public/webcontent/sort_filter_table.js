@@ -611,12 +611,15 @@ var Table = (function(){
 				if (typeof(filter.filter)=="string") {
 					// If a filter string is like "/expr/" then turn it into a Regex
 					if (filter.filter.match(/^\/(.*)\/$/)) {
-						filter.filter = new RegExp(RegExp.$1);
+						filter.filter= new RegExp(".*"+filter.filter.slice(2,filter.filter.length-1)+".*","i");
 						filter.filter.regex=true;
 					}
 					// If filter string is like "function (x) { ... }" then turn it into a function
 					else if (filter.filter.match(/^function\s*\(([^\)]*)\)\s*\{(.*)}\s*$/)) {
 						filter.filter = Function(RegExp.$1,RegExp.$2);
+					}else{
+						filter.filter= new RegExp(".*"+filter.filter.slice(2,filter.filter.length-1)+".*","i");
+						filter.filter.regex=true;
 					}
 				}
 				// If some non-table object was passed in rather than a 'col' value, resolve it 
@@ -727,7 +730,8 @@ var Table = (function(){
 									hideRow=!filter(val,cells[col]);
 								}
 								else {
-									hideRow = (val!=filter);
+									//hideRow = (val!=filter);
+									hideRow=(val.search(filter)<0);
 								}
 							}
 						}
