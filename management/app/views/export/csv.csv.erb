@@ -1,0 +1,4 @@
+<% if @csv %>
+Course,Title,Author,Edition,ISBN,Quantity,MinPrice,AvgPrice
+<%= @csv.html_safe %>
+<% end %>
