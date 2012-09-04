@@ -1,0 +1,6 @@
+Course,Title,Author,Edition,ISBN,Quantity,MinPrice,AvgPrice
+<%= FasterCSV.generate_csv do |csv|
+  @book_data.each do |bd|
+    csv << [ bd.course, bd.title, bd.author, bd.edition, bd.isbn, bd.books.length, book_min(bd.books), book_avg(bd.books)  ] unless bd.books.length == 0
+  end
+end %>
