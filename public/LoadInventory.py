@@ -119,6 +119,8 @@ else:
 inventory_reader = csv.reader(open(inventory_path,'r'), delimiter=',')
 inventory_reader.next()
 for row in inventory_reader:
+	if(len(row)<8):
+		continue
 	gen_html.write(r'''<tr><td>%(Course)s</td>
 <td>%(Title)s</td>
 <td>%(Author)s</td>
