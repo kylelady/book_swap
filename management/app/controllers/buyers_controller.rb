@@ -1,7 +1,4 @@
 class BuyersController < ApplicationController
-	@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
-	@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
-
   # GET /buyers
   # GET /buyers.json
   def index

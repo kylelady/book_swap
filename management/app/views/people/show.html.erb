@@ -52,7 +52,7 @@
 
 
 <%= link_to 'Edit', edit_person_path(@person) %> |
-<%= link_to 'Back', people_path %>
+<%= link_to 'Back', people_path if session[:admin] %>
 
 <h2>Books Received</h2>
 <table>
@@ -61,7 +61,7 @@
 		<th>Title</th>
 		<th>Edition</th>
 		<th>Price</th>
-		<th>Sell</th>
+		<th>Sold</th>
 	</tr>
 
 <% @person.selling_books.each do |sbook| %>
@@ -70,11 +70,13 @@
 		<td><%= sbook.datum.title %></td>
 		<td><%= sbook.datum.edition %></td>
 		<td><%= sbook.price %></td>
-		<td>Sell if available, Sold to otherwise</td>
+		<td><%= sbook.buyer ? 'SOLD' : '' %></td>
 	</tr>
 <% end %>
 </table>
 <br />
+
+<% if recv_en? || session[:admin] %>
 Receive a book:
 
 <%= form_tag(books_search_path, :method => "get") do %>
@@ -82,6 +84,7 @@ Receive a book:
   <%= text_field_tag(:isbn) %>
 	<%= hidden_field_tag :xact, 'recv' %>
   <%= submit_tag("Search") %>
+<% end %>
 <% end %>
 
 <h2>Books Purchased</h2>
@@ -96,7 +99,7 @@ Receive a book:
 
 <% @person.bought_books.each do |bbook| %>
 	<tr>
-		<td>foo</td>
+		<td><%= bbook.seller.person.umid %></td>
 		<td><%= bbook.datum.isbn %></td>
 		<td><%= bbook.datum.title %></td>
 		<td><%= bbook.datum.edition %></td>
@@ -105,10 +108,13 @@ Receive a book:
 <% end %>
 </table>
 <br />
+
+<% if sell_en? || session[:admin]%>
 Sell a book:
 <%= form_tag(books_search_path, :method => "get") do %>
   <%= label_tag(:isbn, "ISBN:") %>
   <%= text_field_tag(:isbn) %>
 	<%= hidden_field_tag :xact, 'sell' %>
   <%= submit_tag("Search") %>
+<% end %>
 <% end %>

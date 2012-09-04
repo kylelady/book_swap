@@ -1,7 +1,4 @@
 class BooksController < ApplicationController
-	@recv_en = Flag.find_by_key_and_value('receiving_enabled', true)
-	@sell_en = Flag.find_by_key_and_value('selling_enabled', true)
-
   # GET /books
   # GET /books.json
   def index
@@ -85,6 +82,8 @@ class BooksController < ApplicationController
   end
 
 	def search
+		@xact = params[:xact] || session[:xact]
+		session[:xact] = @xact
 		logger.debug(params)
 		@datum = Datum.find_by_isbn(params[:isbn])
 		logger.debug(@datum)
