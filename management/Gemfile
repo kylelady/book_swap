@@ -40,3 +40,4 @@ gem 'jquery-rails'
 
 # js for rake
 gem 'therubyracer'
+gem 'fastercsv'
