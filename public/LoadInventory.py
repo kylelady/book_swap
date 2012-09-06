@@ -15,11 +15,12 @@ gen_html.write(r'''<!doctype html>
 <!--Meta information-->
 <head>
 <meta charset=utf-8>
-<title>Tau Beta Pi Bookswap</title>
+<title>Tau Beta Pi Book Swap</title>
 <link rel="stylesheet" href="http://www.w3.org/StyleSheets/Core/Ultramarine" type="text/css">
 <link rel="stylesheet" href="bookswap.css" type="text/css">
-<meta name=description value="Tau Beta Pi hosts a bookswap during the first week of class each semester. Students can buy and sell books for their engineering and prerequisite courses">
-<meta name=keywords value="book, textbook, tbp, bookswap, engineering">
+<meta name=description value="Tau Beta Pi hosts a book swap during the first week of class each semester. Students can buy and sell books for their engineering and prerequisite courses">
+<meta name=keywords value="book, textbook, tbp, bookswap, engineering, book swap">
+
 
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -53,7 +54,7 @@ var pagename="Inventory";
 if(today<=selling_close):
 	gen_html.write(r'''<p>Please note that until reception of books is closed, no price information will be visible.</p>''')
 if(today<testing_end):
-	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Bookswap opens. </b></p>''')
+	gen_html.write(r'''<p><b>This webpage is still under development. Inventory records will not be real data until Book Swap opens. </b></p>''')
 gen_html.write(r'''<p>List last updated on: '''+today.strftime("%A, %d %b. at %I:%M%p")+r'''.</p>''')
 gen_html.write(r'''<p>Click on column headers to sort the table by that column. Type in boxes to filter.</p>
 <table class="table-autosort:0">''')
@@ -140,6 +141,8 @@ gen_html.write(r'''</tbody>
 
 </article>
 <script type="text/javascript" src="includes/sidebar.js"></script>
-<footer></footer>
+<footer>
+<p>Let us know how we are doing! Please fill out a quick survey <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHFXN28wQ282V0JtazB3TFB3Njl1REE6MQ#gid=0">here</a> to give us your feedback.</p>
+</footer>
 </body>
 </html>''')

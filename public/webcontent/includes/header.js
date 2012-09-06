@@ -1,7 +1,7 @@
 document.write("<header>");
 document.write("<img src=\"TBP_White_Words_small.png\" alt=\"TBP Logo\" />");
 document.write("<hgroup>");
-document.write("<h1>Engineering Bookswap</h1>");
+document.write("<h1>College of Engineering Book Swap</h1>");
 document.write("<h2>Brought to you by Tau Beta Pi</h2>");
 document.write("</hgroup>");
 document.write("</header>");

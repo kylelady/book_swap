@@ -1,5 +1,5 @@
 document.write("<aside>")
-document.write("<h3> Bookswap Hours</h3>")
+document.write("<h3> Book Swap Hours</h3>")
 document.write("<h4>Drop Off Your Books:</h4>")
 document.write("<p>Tuesday, 4 Sept. 10am-5pm</p>")
 document.write("<p>Wednesday, 5 Sept. 10am-5pm</p>")

@@ -1,5 +1,5 @@
 nav {
-width:90%;
+width:96%;
 -moz-border-radius:10px;
 -webkit-border-radius:10px;
 border-radius:10px; //for opera
@@ -25,12 +25,13 @@ line-height:40px;
 
 
 body{
-	width:90%;
+	width:96%;
 	margin: 0 auto;
+	padding-left:4%;
 	min-width:1100px;
 }
 header{
-width:90%;
+width:100%;
 margin: 0 auto;
 }
 header img{
@@ -42,7 +43,7 @@ header hgroup{
 float:center;
 }
 article{
-	width: 75%;
+	width: 73%;
 	float:left;
 }
 
@@ -55,4 +56,31 @@ table{
 	border-collapse:separate;
 	border-spacing:10px 5px;
 }
+footer{
+	width:100%;
+	padding:0px;
+
+	margin-left:-4%;
+	padding-right:4%;
+	float:bottom;
+	clear:both;
+	background:#00A;
+}
+footer p{
+	padding-left:4%;
+}
+footer a :link{
+	background:#00A;
+}
+footer a:visited{
+	background:#00A;
+}
+footer a.offsite{
+	background:#00A;
+}
+
+footer a:active{
+	background:#00A;
+}
+
 
