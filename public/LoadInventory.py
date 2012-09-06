@@ -105,7 +105,7 @@ else:
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by author">Author</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by edition">Edition</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by ISBN">ISBN</th>
-<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by quantity">Quantity</th>
+<th class="table-sortable:numeric table-filterable" title="Click to sort by quantity">Quantity</th>
 </tr>
 <tr>
 <th><input name="filter" size="8" onkeyup="Table.filter(this,this)"></th>
