@@ -65,7 +65,7 @@ if(today>selling_close):
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by author">Author</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by edition">Edition</th>
 <th class="table-sortable:alphanumeric table-filterable" title="Click to sort by ISBN">ISBN</th>
-<th class="table-sortable:alphanumeric table-filterable" title="Click to sort by Quantity">Quantity</th>
+<th class="table-sortable:numeric table-filterable" title="Click to sort by Quantity">Quantity</th>
 <th class="table-sortable:currency table-filterable" title="Click to sort by minimum average">Minimum Price</th>
 <th class="table-sortable:currency table-filterable" title="Click to sort by average price">Average Price</th>
 </tr>
