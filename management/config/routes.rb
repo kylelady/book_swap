@@ -1,8 +1,8 @@
 Management::Application.routes.draw do
-  resources :users
-
 	scope '/bookswap' do
 	  get "export/csv"
+  	
+		resources :users
 	
 	  resources :flags
 	
