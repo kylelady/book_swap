@@ -1,28 +1,35 @@
 Management::Application.routes.draw do
 	scope '/bookswap' do
-	  get "export/csv"
+	  get 'export/csv', :to => 'export#csv'
   	
 		resources :users
 	
 	  resources :flags
 	
-		get "sellers/receive"
-	  resources :sellers
+	  resources :sellers do
+			collection do
+				get :receive
+			end
+		end
 	
-		post "buyers/sell"
-	  resources :buyers
+	  resources :buyers do
+			collection do
+				post :sell
+			end
+		end
 	
 	  resources :people
 	
 	  resources :data
 	
-		get "books/search"
-	  resources :books
+	  resources :books do
+			collection do
+				get :search
+			end
+		end
 	
-	  get "home/index"
-		get "home/search"
-	
-		get "export/csv"
+	  get "home/index", :to => 'home#index'
+		get "home/search", :to => 'home#search'
 	
 	  # The priority is based upon order of creation:
 	  # first created -> highest priority.
