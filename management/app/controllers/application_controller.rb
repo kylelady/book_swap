@@ -1,11 +1,12 @@
 #require 'rubygems'
 #require 'extensions'
 
-# defines a USERS hash and REALM string
+# bootstrap the authorization system with one or more hardcoded usernames
+# ex: USERS = ['nemcard', 'marysuec',]
 require 'users'
 
 # defines an API_KEY string, with arbitrary url-safe characters
-require 'api_key'
+#require 'api_key'
 
 class ApplicationController < ActionController::Base
   protect_from_forgery
@@ -42,15 +43,19 @@ class ApplicationController < ActionController::Base
 
 	protected
 		def authenticate
+			cosign_user = request.env['HTTP_X_REMOTE_USER']
 			if session[:timeout] == nil || (session[:timeout] - Time.now) > 0
-				authenticate_or_request_with_http_digest(REALM) do |username|
-					session[:tmpuser] = username
-					USERS[username]
+				user = User.find_by_uniqname(cosign_user)
+				if user and user.active
+					session[:username] = user.uniqname
+					session[:admin] = user.admin
+				elsif USERS.include? cosign_user
+					session[:username] = cosign_user
+					session[:admin] = true
+				else
+					render(:file => File.join(Rails.root, 'public/403.html'), :status => 403, :layout => false)
 				end
 			end
-			logger.debug 'fooooo'
-			session[:username] = session[:tmpuser]
-			session[:admin] = session[:username] == 'admin' ? true : false
-			session[:timeout] = Time.now + 1.hours
+			session[:timeout] = Time.now + 2.minutes
 		end
 end

@@ -1,7 +1,10 @@
+require 'pp'
+
 class HomeController < ApplicationController
 	#skip_before_filter :authenticate, :only => [:index]
 
   def index
+		@cosign_user = request.env['HTTP_X_REMOTE_USER']
 		session[:person_id] = nil
   end
 

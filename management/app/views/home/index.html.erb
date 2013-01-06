@@ -19,4 +19,5 @@
   <%= text_field_tag(:uniqname) %>
   <%= submit_tag("Search") %>
 <% end %>
-<p>Otherwise: <%= link_to 'New Person', new_person_path %>
+<p>Otherwise: <%= link_to 'New Person', new_person_path %> </p>
+<p>Cosign user: <% if @cosign_user == '' %>&lt;empty&gt;<% else %><%=@cosign_user%><%end%> </p>

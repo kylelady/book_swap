@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120904054714) do
+ActiveRecord::Schema.define(:version => 20130106021114) do
 
   create_table "books", :force => true do |t|
     t.integer  "price"
@@ -72,5 +72,13 @@ ActiveRecord::Schema.define(:version => 20120904054714) do
 
   add_index "sellers", ["book_id"], :name => "index_sellers_on_book_id"
   add_index "sellers", ["person_id"], :name => "index_sellers_on_person_id"
+
+  create_table "users", :force => true do |t|
+    t.string   "uniqname"
+    t.boolean  "admin"
+    t.boolean  "active"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
 
 end
