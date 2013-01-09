@@ -142,7 +142,7 @@ gen_html.write(r'''</tbody>
 </article>
 <script type="text/javascript" src="includes/sidebar.js"></script>
 <footer>
-<p>Let us know how we are doing! Please fill out a quick survey <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHFXN28wQ282V0JtazB3TFB3Njl1REE6MQ#gid=0">here</a> to give us your feedback.</p>
+<p>Let us know how we are doing! Please fill out a quick survey <a href="https://docs.google.com/spreadsheet/viewform?formkey=dFdoYmxVLU5VemdVamUwUFg3SmZwVEE6MQ#gid=0">here</a> to give us your feedback.</p>
 </footer>
 </body>
 </html>''')
