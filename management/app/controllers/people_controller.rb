@@ -44,6 +44,10 @@ class PeopleController < ApplicationController
   def create
     @person = Person.new(params[:person])
 
+		if params[:person][:barcode].start_with?('a')
+			@person.barcode = params[:person][:barcode].sub(/a([0-9]+)b/, '\1')
+		end
+
     respond_to do |format|
       if @person.save
         format.html { redirect_to @person, :notice => 'Person was successfully created.' }
@@ -59,6 +63,14 @@ class PeopleController < ApplicationController
   # PUT /people/1.json
   def update
     @person = Person.find(params[:id])
+
+		logger.debug params[:person][:barcode]
+
+		if params[:person][:barcode].start_with?('a')
+			@person.barcode = params[:person][:barcode].sub(/a([0-9]+)b/, '\1').to_i
+		end
+
+		params[:person].delete(:barcode)
 
     respond_to do |format|
       if @person.update_attributes(params[:person])

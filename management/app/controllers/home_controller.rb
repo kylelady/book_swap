@@ -11,7 +11,9 @@ class HomeController < ApplicationController
 	def search
 		@person = nil
 		if params.has_key?(:barcode)
-			@person = Person.find_by_barcode(params[:barcode])
+			barcode = params[:barcode].start_with?('a') ? params[:barcode].sub(/a([0-9]+)b/, '\1') : params[:barcode]
+			logger.debug barcode
+			@person = Person.find_by_barcode(barcode)
 		elsif params.has_key?(:umid)
 			@person = Person.find_by_umid(params[:umid])
 		elsif params.has_key?(:uniqname)
