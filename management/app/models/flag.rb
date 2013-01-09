@@ -1,5 +1,5 @@
 class Flag < ActiveRecord::Base
   attr_accessible :key, :value
 
-	validates :key, :presence
+	validates :key, :presence => true
 end
