@@ -98,10 +98,10 @@ class BooksController < ApplicationController
 	def receive
 		@book = Book.new
 		@book.datum = Datum.find(params[:datum_id])
-		@book.price = params[:price]
+		@book.price = params[:price].sub(/$/, '')
 		@person = Person.find(session[:person_id])
 		@book.seller = @person
-		
+
     respond_to do |format|
       if @book.save
         format.html { redirect_to @person, :notice => 'Receive was successfully created.' }
