@@ -10,26 +10,20 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130106021114) do
+ActiveRecord::Schema.define(:version => 20130109014500) do
 
   create_table "books", :force => true do |t|
     t.integer  "price"
     t.integer  "datum_id"
+    t.integer  "seller_id"
+    t.integer  "buyer_id"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
 
+  add_index "books", ["buyer_id"], :name => "index_books_on_buyer_id"
   add_index "books", ["datum_id"], :name => "index_books_on_datum_id"
-
-  create_table "buyers", :force => true do |t|
-    t.integer  "person_id"
-    t.integer  "book_id"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-  end
-
-  add_index "buyers", ["book_id"], :name => "index_buyers_on_book_id"
-  add_index "buyers", ["person_id"], :name => "index_buyers_on_person_id"
+  add_index "books", ["seller_id"], :name => "index_books_on_seller_id"
 
   create_table "data", :force => true do |t|
     t.string   "isbn"
@@ -62,16 +56,6 @@ ActiveRecord::Schema.define(:version => 20130106021114) do
     t.string   "first_name"
     t.string   "last_name"
   end
-
-  create_table "sellers", :force => true do |t|
-    t.integer  "person_id"
-    t.integer  "book_id"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-  end
-
-  add_index "sellers", ["book_id"], :name => "index_sellers_on_book_id"
-  add_index "sellers", ["person_id"], :name => "index_sellers_on_person_id"
 
   create_table "users", :force => true do |t|
     t.string   "uniqname"

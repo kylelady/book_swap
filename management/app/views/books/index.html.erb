@@ -4,6 +4,8 @@
   <tr>
     <th>Price</th>
     <th>Data</th>
+		<th>Seller</th>
+		<th>Buyer</th>
     <th></th>
     <th></th>
     <th></th>
@@ -12,7 +14,9 @@
 <% @books.each do |book| %>
   <tr>
     <td><%= book.price %></td>
-    <td><%= book.datum %></td>
+    <td><%= book.datum.isbn %> <%= book.datum.title %> <%= book.datum.edition %></td>
+		<td><%= book.seller.umid %></td>
+		<td><%= (book.buyer && book.buyer.umid) || '-' %></td>
     <td><%= link_to 'Show', book %></td>
     <td><%= link_to 'Edit', edit_book_path(book) %></td>
     <td><%= link_to 'Destroy', book, :method => :delete, :data => { :confirm => 'Are you sure?' } %></td>

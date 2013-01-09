@@ -94,4 +94,39 @@ class BooksController < ApplicationController
       format.json { render :json => @book }
     end
 	end
+
+	def receive
+		@book = Book.new
+		@book.datum = Datum.find(params[:datum_id])
+		@book.price = params[:price].sub(/$/, '')
+		@person = Person.find(session[:person_id])
+		@book.seller = @person
+
+    respond_to do |format|
+      if @book.save
+        format.html { redirect_to @person, :notice => 'Receive was successfully created.' }
+        format.json { render :json => @book, :status => :created, :location => @person }
+      else
+        format.html { render :action => "new" }
+        format.json { render :json => @book.errors, :status => :unprocessable_entity }
+      end
+		end
+	end
+
+  def sell
+		@person = Person.find(session[:person_id])
+
+		@book = Book.find(params[:book_id])
+		@book.buyer = @person
+
+    respond_to do |format|
+      if @book.save
+        format.html { redirect_to @person, :notice => 'Sale was successfully created.' }
+        format.json { render :json => @book, :status => :created, :location => @buyer }
+      else
+        format.html { render :action => "new" }
+        format.json { render :json => @book.errors, :status => :unprocessable_entity }
+      end
+    end
+  end
 end
