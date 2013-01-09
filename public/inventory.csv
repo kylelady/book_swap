@@ -1,1023 +1,238 @@
-Course,Book Title,Author,Edition,ISBN,Quantity,Min Price,Average Price
-BME 211,Introduction to Electric Circuits,Richard C. Dorf,7,9780470000000,1,$31 ,$62 
-CEE 360,Water and Wastewater Engineering,Mackenzie L. Davis,IE,9780070000000,1,$56 ,$112 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$70 ,$140 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$26 ,$52 
-ECON 102,Macroeconomics,Paul Krugman,2,9780720000000,1,$26 ,$52 
-EECS 470,Computer Architecture,John L Hennessy,4,9780120000000,1,$40 ,$80 
-ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,2,9780470000000,1,$26 ,$52 
-ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,2,9780470000000,1,$26 ,$52 
-ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,2,9780470000000,1,$26 ,$52 
-ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,2,9780470000000,1,$26 ,$52 
-ENGR 101,Matlab: An Introduction With Applications,Amos Gilat,2,9780470000000,1,$26 ,$52 
-ENGR  101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$61 ,$122 
-ENGR  101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$61 ,$122 
-ENGR  101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$61 ,$122 
-MATH 156/255,CALCULUS: University of Michigan Edition,Stewart,UMich,9780500000000,1,$25 ,$50 
-ME 240,Engineering Mechanics Dynamics,Bedford,5,9780140000000,1,$91 ,$182 
-MSE 250,Material Science and Engineering,Callister ,6,9780470000000,1,$3 ,$6 
-IOE 316,Introduction to Probability Models,Sheldon M. Ross,10,9780120000000,1,$40 ,$80 
-ME 211,Static and Mechanics of Materials,Hibbeler,2,9780130000000,1,$40 ,$80 
-ME 211,Static and Mechanics of Materials,Hibbeler,2,9780130000000,1,$60 ,$120 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$50 ,$100 
-CEE 212,Mechanics of Materials,R.C. Hibbeler,7,9780130000000,6,$60 ,$120 
-ENGR 100,Engineering Design,J.L. Meriam,6,9780470000000,1,$5 ,$10 
-IOE 316,Intro to Probability Models,Sheldon M. Ross,9,9780130000000,1,$20 ,$40 
-IOE  310,Intro to Math Programming,Wayne L. Winston,4,9780530000000,1,$35 ,$70 
-PHYS 240,University Physics 11th Edition,Young,11,9780810000000,1,$65 ,$130 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,4,$50 ,$100 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-EECS 413,Design of Analog CMOS Integrated Circuits,Razavi,0,9780070000000,1,$60 ,$120 
-EECS 478,Logic Synthesis and Verification Algorithms,Hachtel,0,9780790000000,3,$45 ,$90 
-EECS 478,Switching and Finite Automata Theory,Kohavi,3,9780520000000,1,$40 ,$80 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$60 ,$120 
-MSE 514,Composit Materials: Engineering & Science,F.L. Matthews,,9780850000000,1,$40 ,$80 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$35 ,$70 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$80 ,$160 
-ENGR 101,MATLAB: An Introduction With Applications,Gilat,2,9780470000000,1,$30 ,$60 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$30 ,$60 
-CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,4,9780130000000,1,$110 ,$220 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$40 ,$80 
-EECS 311,Microelectronic Circuits,Sedra,3,9780030000000,1,$15 ,$30 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$50 ,$100 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$10 ,$20 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,1,9780560000000,1,$10 ,$20 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$40 ,$80 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$40 ,$80 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$40 ,$80 
-EECS 281,Introduction to Algorithms,Cormen,3,9780260000000,1,$50 ,$100 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$40 ,$80 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$80 ,$160 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$50 ,$100 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$80 ,$160 
-EECS 203,Discrete Mathematics Solutions Guide,Kenneth Rosen,6,9780070000000,1,$20 ,$40 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$75 ,$150 
-EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,2,9780470000000,1,$40 ,$80 
-CEE 303,Numerical Methods for Engineers,Chapra,6,9780070000000,1,$90 ,$180 
-CEE 312,Structural Analysis,Hibbeler,8,9780130000000,1,$100 ,$200 
-CEE 325,Engineering Fluid Mechanics,Crowe,9,9780470000000,1,$80 ,$160 
-CEE 345,"Geotechnical Engineering, Principles and Practices",Coduto,2,9780130000000,1,$90 ,$180 
-CHE 230,Elementary Principles of Chemical Processes,Richard Felder,3,9780470000000,1,$80 ,$160 
-CHE 230,Elementary Principles of Chemical Processes,Felder,3,9780470000000,1,$10 ,$20 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$50 ,$100 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$65 ,$130 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$45 ,$90 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$45 ,$90 
-EECS 203,Discrete Mathematics and Its Applications,Kenneth Rosen,6,9780070000000,1,$30 ,$60 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$65 ,$130 
-EECS 460,Automatic Control Systems,Kuo,8,9780470000000,1,$75 ,$150 
-MATH 462/463,Mathematical Models in Biology,Leah Edelstein-Keshet,,9780900000000,1,$42 ,$84 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$130 ,$260 
-EECS  376,Introduction to the Theory of Computation,Sipser,2,9780530000000,1,$40 ,$80 
-BME 211,Introduction to Electric Circuits,Richard C. Dorf,8,9780470000000,1,$60 ,$120 
-BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,9781890000000,1,$60 ,$120 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$55 ,$110 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$40 ,$80 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$30 ,$60 
-ENGR 101,MATLAB: An Introduction With Applications,Gilat,2,9780470000000,1,$20 ,$40 
-MATH 215,Multivariable Calculus (IE),James Stewart,6 Internatl,9780500000000,1,$70 ,$140 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$80 ,$160 
-PHYS 140,University Physics Vol 1,A. Lewis Ford,12,9780320000000,1,$30 ,$60 
-ENGR 101,Introduction to Engineering Programming Solving Problems with Algorithms,James Paul Holloway,0,471202150,1,$30 ,$60 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$40 ,$80 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$50 ,$100 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$70 ,$140 
-MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,5,9780470000000,1,$10 ,$20 
-EECS 281,Introduction to Algorithms,Cormen,3,9780260000000,1,$50 ,$100 
-ECON 101,Microeconomics,Krugman,2,9780720000000,1,$25 ,$50 
-PHYSICS 160,Matter & Interactions,Chabay,3,9780470000000,1,$80 ,$160 
-CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,4,9780470000000,1,$60 ,$120 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$60 ,$120 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1 Internatl,9812530223,1,$50 ,$100 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$15 ,$30 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$50 ,$100 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$90 ,$180 
-ME 235,Introduction to Engineering Thermodynamics,Richard Sonntag,2,9780470000000,1,$30 ,$60 
-EECS 312,Digital Integrated Circuits,Rabaey,2,9788120000000,1,$50 ,$100 
-EECS 420,Introduction to Solid State Physics,Kittel,8,9780470000000,1,$50 ,$100 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$100 ,$200 
-EECS 281,Introduction to Algorithms,Cormen,3,9780260000000,1,$70 ,$140 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$70 ,$140 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-ECON 380,Public Finance and Public Policy,Jonathan Gruber,2,9780720000000,1,$20 ,$40 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$50 ,$100 
-MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,4 Internatl,9780140000000,1,$85 ,$170 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$125 ,$250 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$15 ,$30 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$40 ,$80 
-PHYS 140,University Physics Volume 1,Young,13,9780320000000,1,$50 ,$100 
-BIO 172,Biological Science,Scott Freeman,4,9780320000000,1,$120 ,$240 
-CHEM 210,Organic Chemistry Structure and Reactivity,Seyhan Ege,5,9780620000000,1,$60 ,$120 
-CHEM 210,Organic Chemistry,Seyhan Ege,5,9780550000000,1,$60 ,$120 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$60 ,$120 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$80 ,$160 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780740000000,1,$15 ,$30 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780740000000,1,$15 ,$30 
-CHEM 210,Collaborative Investigation In General Chem,Seyhan Ege,5,9780740000000,1,$20 ,$40 
-CHEM 211,Investigations in Chemistry,Umich,19,9780740000000,1,$15 ,$30 
-CHEM  130,General Chemistry,Ebbing,9,9781440000000,1,$110 ,$220 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$80 ,$160 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$90 ,$180 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$80 ,$160 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$80 ,$160 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$80 ,$160 
-CEE 265,Introduction to Engineering & the Environment,Rubin,,9780070000000,1,$10 ,$20 
-CEE 265,Introduction to Environmental Engineering,Vesilind,3,9780500000000,1,$10 ,$20 
-PHYS 140,"Physics 140 Bundle: Textbook, Study Guide, Solutions Manual",,,,1,$25 ,$50 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$15 ,$30 
-CHEM 210,Organic Chemistry,Seyhan Ege,5,9780550000000,1,$50 ,$100 
-PHYS 140,University Physics Volume 1,Young,13,9780320000000,1,$40 ,$80 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$75 ,$150 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$50 ,$100 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$38 ,$76 
-EECS 492,Intro To Artificial Intelligence ,Russel,3,9780140000000,1,$80 ,$160 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$45 ,$90 
-CHEM 260/261,Principles of Modern Chemistry,Oxtoby,6 International,9780500000000,1,$40 ,$80 
-ECON 101,Economics 101 Principles of Microeconomics,Janet Gerson,,9781120000000,1,$40 ,$80 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$5 ,$10 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$90 ,$180 
-CEE 270,Probability and Statistics for Engineers,Jay L. Devore,1,9788130000000,1,$25 ,$50 
-CEE 325,Engineering Fluid Mechanics,Clayton T. Crowe,9 SI,9780470000000,1,$40 ,$80 
-CEE 345,Geotechnical Engineering,Donald P. Coduto,2 Internatl,9788120000000,1,$80 ,$160 
-CEE 351,Concrete,Sidney Mindess,2,9780130000000,1,$75 ,$150 
-CEE 360,Water and Wastewater Engineering,Davis,Internatl,9780070000000,1,$60 ,$120 
-CEE 412,Structural Analysis,R. C. Hibbeler,7 SI,9789810000000,1,$40 ,$80 
-EECS 230,Fundamentals of Applied Electromagnetics,Fawwaz T. Ulaby,6 Intl,9780130000000,1,$50 ,$100 
-ENGR 101,MATLAB: An Introduction With Applications,Gilat,2,9780470000000,1,$25 ,$50 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$20 ,$40 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$20 ,$40 
-EECS 312,Digital Integrated Circuits,Rabaey,2,9788120000000,1,$60 ,$120 
-EECS 460,Automatic Control Systems,Golnaraghi,9,9780470000000,1,$20 ,$40 
-MATH 156/255,"Calculus, University of Michigan Edition",Stewart,,9780500000000,1,$60 ,$120 
-CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,4,9780470000000,1,$85 ,$170 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$70 ,$140 
-CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,5,9780470000000,1,$70 ,$140 
-ECON 102,Principles of Macroeconomics,Mankiw,5,9780320000000,1,$25 ,$50 
-MATh 412,Introduction to Abstract Algebra,McCoy,7,9780980000000,1,$20 ,$40 
-CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L Devore,7,9780500000000,1,$50 ,$100 
-CEE 312,Structural Analysis,R.C. Hibbeler,7,9780140000000,1,$40 ,$80 
-CEE 325,Engineering Fluid Mechanics,Clayton T. Crowe,8,9780470000000,1,$35 ,$70 
-CEE 360,Water and Wastewater Engineering,Davis,Internatl,9780070000000,1,$20 ,$40 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$110 ,$220 
-EECS 470,Computer Architecture,Hennessy,4,9780120000000,1,$40 ,$80 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$10 ,$20 
-MATH 115,Calculus Single Variable,Hughes-Hallet,5,9780470000000,1,$80 ,$160 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$110 ,$220 
-CEE 212,Mechanics of Materials,R.C. Hibbeler,7,9780130000000,1,$90 ,$180 
-CEE 325,Engineering Fluid Mechanics,Crowe,9,9780470000000,1,$70 ,$140 
-CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,4,9780130000000,1,$95 ,$190 
-MATH 115/6,Calculus Single Variable Solutions,Hughes-Hallett,4,9780470000000,1,$5 ,$10 
-MATH 115/6,Calculus Single Variable,Hughes-Hallett,4,9780470000000,1,$20 ,$40 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$50 ,$100 
-PHYS 240,"University Physics, Vol 2 Sol Man",Ford,12,9780320000000,1,$10 ,$20 
-MATH 105,Functions Modeling Change A Preparation for Calculus,Connally,3,9780470000000,1,$15 ,$30 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$35 ,$70 
-CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,8 Intl,9780840000000,1,$75 ,$150 
-LING 111,Language Files,Anouschka Gergmann,10,9780810000000,1,$30 ,$60 
-EECS 215,Circuits,Fawwaz Ulaby,0,9781930000000,1,$100 ,$200 
-ME 382,Engineering Materials 1,Michael Ashby,3,9780750000000,1,$20 ,$40 
-ME 382,Engineering Materials 2,Michael Ashby,3,9780750000000,1,$20 ,$40 
-BME 211,Introduction to Electric Circuits,Richard C. Dorf,8,9780470000000,1,$30 ,$60 
-BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,9781890000000,1,$30 ,$60 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$10 ,$20 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$10 ,$20 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$35 ,$70 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$0 ,$0 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$50 ,$100 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$70 ,$140 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$90 ,$180 
-ME 240,"Engineering Mechanics, Dynamics",Meriam,6,9780470000000,1,$40 ,$80 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$25 ,$50 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$40 ,$80 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,0,9780070000000,1,$15 ,$30 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,1,9780560000000,1,$15 ,$30 
-EECS 280,Absolute C++,Savitch,3,9780320000000,1,$35 ,$70 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$35 ,$70 
-MATH 215,Multivariable Calculus - Solutions,Clegg,6,9780500000000,1,$10 ,$20 
-EECS 270,"Digital Design with RTL Design, VHDL, and Verilog",Frank Vahid,2,9780470000000,1,$30 ,$60 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$110 ,$220 
-CEE 230,Thermodynamics: An Engineering Approach,Yunus A. Cengel,7,9780080000000,1,$120 ,$240 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$15 ,$30 
-PHYS 140,University Physics Vol 1 Solution Manual,Kramer,12,9780320000000,1,$10 ,$20 
-EECS 270,Digital Design,Vahid,,9780470000000,1,$39 ,$78 
-EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,9788180000000,1,$44 ,$88 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$64 ,$128 
-AEROSP 315,Aircraft Structures for Engineering Students,Megson,4,9780750000000,1,$75 ,$150 
-AEROSP 325,Modern Compressible Flow,Anderson,Internatl,9780070000000,1,$75 ,$150 
-AEROSP 335,Mechanics and thermodynamics of Propulsion,Hills,2,9780200000000,1,$75 ,$150 
-ME 215,Mechanics of Materials,Bedford,0,9780200000000,1,$75 ,$150 
-ME 235,"Thermodynamics, An Engineering Approach",Cengel,6,9780070000000,1,$75 ,$150 
-ME 335,Principles of Heat Transfer,Kaviany,0,9780470000000,1,$75 ,$150 
-MSE 220,"Materials Science and Engineering, An Introduction",Callister Jr.,6,9780470000000,1,$75 ,$150 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$100 ,$200 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$60 ,$120 
-CEE 211,Statics & Dynamics,Hibbeler,11,9780130000000,1,$20 ,$40 
-CEE 230,Thermodynamics an Engineering Approach,Cengel,6,9780070000000,1,$30 ,$60 
-CEE 265,Sustainability Engineering Principles,Hayes,,,1,$30 ,$60 
-CEE 270,Probability and Statistics for Engineering and the Sciences,Devore,7,9780500000000,1,$40 ,$80 
-AEROSP 305,Experimental Methods for Engineers,J. P. Holman,7,9780070000000,1,$80 ,$160 
-IOE 201,Fundamentals of Engineering Economics,Park,2,9780130000000,1,$60 ,$120 
-EECS 470,Computer Architecture,Hennessy,4,9780120000000,1,$30 ,$60 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$30 ,$60 
-HJCS 276,A Short History of the Jewish People: From Legendary Times to Modern Statehood,Scheindlin,0,9780200000000,1,$10 ,$20 
-HJCS 276,Textual Sources for the Study of Judaism,Alexander,0,9780230000000,1,$10 ,$20 
-ME 360,System Dynamics,Palm,2,9780070000000,1,$150 ,$300 
-ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,3,9780130000000,1,$120 ,$240 
-AOSS 320,The Earth System,Lee R. Kump,3,9780320000000,1,$30 ,$60 
-MATH 215,Multivariable Calculus,Stewart,7,9780540000000,1,$100 ,$200 
-PSYCH 111,Forty Studies That Changed Psychology,Roger R. Hock,6,9780140000000,1,$25 ,$50 
-PSYCH 111,Psychological Science,Michael Gazzaniga,3,9780390000000,1,$40 ,$80 
-EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,2,9780470000000,1,$25 ,$50 
-EECS 314,Making Sense of Electrical Engineering Mult Choice Q,Alexander Ganago,1,9780470000000,1,$25 ,$50 
-IOE 306,Introduction to Probablility Modes,Ross,10,9789380000000,1,$30 ,$60 
-IOE 440,Factory Physics (International Edition),Wallace J. Hopp,3 Internatl,9780070000000,1,$30 ,$60 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$90 ,$180 
-MATH 423,Mathematics for Finance,Capinski,2,9780860000000,1,$35 ,$70 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$50 ,$100 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$20 ,$40 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$20 ,$40 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$100 ,$200 
-EECS 311,Microelectronic Circuits,Sedra,6,9780200000000,1,$100 ,$200 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$5 ,$10 
-PHYS 240,University Physics Vol 2 Study Guide,Kramer,12,9780320000000,1,$5 ,$10 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$110 ,$220 
-CEE 265,CEE 265 Course Pack,0,0,CEE265CP,1,$65 ,$130 
-IOE 440,Factory Physics (International Edition),Wallace J. Hopp,3 Internatl,9780070000000,1,$20 ,$40 
-IOE  310,Intro to Math Programming,Wayne L. Winston,4,9780530000000,1,$35 ,$70 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$45 ,$90 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$25 ,$50 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$45 ,$90 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$50 ,$100 
-PHYS 240,University Physics Vol 2,Young,13,9780320000000,1,$75 ,$150 
-MATH 371,A Friendly Introduction to Numerical Analysis,Brian Bradie,,9788130000000,1,$18 ,$36 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$95 ,$190 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$95 ,$190 
-MSE 220,Materials Science and Engineering: An Introduction,"William D. Callister, Jr.",8,9780470000000,1,$75 ,$150 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$45 ,$90 
-Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7,9780500000000,1,$42 ,$84 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$55 ,$110 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$60 ,$120 
-ENGR 101,MATLAB: An Introduction With Applications,Gilat,2,9780470000000,1,$40 ,$80 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$60 ,$120 
-CEE 431,Construction Contracting,Clough,7,2900470000000,1,$50 ,$100 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$35 ,$70 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$20 ,$40 
-ME 211,Static and Mechanics of Materials,Hibbeler,2,9780130000000,1,$35 ,$70 
-BME 418,Physical Biology of the Cell,Rob Phillips,1,9780820000000,1,$70 ,$140 
-BME 211,Introduction to Electric Circuits,Richard C. Dorf,8,9780470000000,1,$140 ,$280 
-BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,9781890000000,1,$60 ,$120 
-BME 231,Statics and Mechanics of Materials,Bedford,,9780130000000,1,$90 ,$180 
-BME 231,Engineering Mechanics Dynamics,Bedford,5,9780140000000,1,$100 ,$200 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$100 ,$200 
-ME 335,Introduction to Heat Transfer,Incropera,5,9780470000000,1,$60 ,$120 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$45 ,$90 
-STATS 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,8 International,9780840000000,1,$40 ,$80 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$35 ,$70 
-EECS 203,Discrete Mathematics and its Applications,Kenneth H. Rosen,6,9780070000000,1,$35 ,$70 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$100 ,$200 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$60 ,$120 
-CEE 230,Thermodynamics: An Engineering Approach,Yunus A. Cengel,7,9780080000000,1,$100 ,$200 
-CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,6,9780530000000,1,$25 ,$50 
-EECS 498,Power Electronics,Mohan,3,9780470000000,1,$30 ,$60 
-EECS 501,Probability and Random Processes for Electrical and Computer Engineers,Gubner,,9780520000000,1,$30 ,$60 
-EECS 560,Linear State-Space Control Systems,Williams,,9780470000000,1,$30 ,$60 
-IOE 452,Principles of Corporate Finance,Brealey-Myers-Allen,10,9780080000000,1,$125 ,$250 
-IOE 466,Introduction to Statistical Quality Control,Douglas C. Montgomery,6,9780470000000,1,$100 ,$200 
-IOE 575,Discrete-Event System Simulation,Banks,5,9780140000000,1,$30 ,$60 
-PHYS 240,University Physics with Modern Physics-Volume 2,Bauer,,9780080000000,1,$90 ,$180 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$109 ,$218 
-MATH 423,Mathematics for Finance-An Intro to Financial Engineering,,,9781850000000,1,$20 ,$40 
-AEROSP 225,Modern Compressible Flow,John D. Anderson,3,9780070000000,1,$20 ,$40 
-AEROSP 335,Aircraft Propulsion,Saeed Farokhi,,2900470000000,1,$25 ,$50 
-ME 215,Mechanics of Materials,Bedford,,9780200000000,1,$25 ,$50 
-ME 240,Engineering Mechanics: Dynamics,J.L. Meriam,6,9780470000000,1,$25 ,$50 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-CHEM 210,Organic Chemistry,Seyhan Ege,5,9780550000000,1,$80 ,$160 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$20 ,$40 
-PHYS 240,University Physics Vol 2 Study Guide,Kramer,12,9780320000000,1,$15 ,$30 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$30 ,$60 
-CEE 360,Water and Wastewater Engineering,Davis,International,9780070000000,1,$55 ,$110 
-CEE 431,CEE 431 Course Notes: Construction Contracting,Photios G. Ioannou,Fall 2011,CEE431CP,1,$20 ,$40 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$110 ,$220 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$40 ,$80 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$40 ,$80 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus Study Guide,Richard St. Andre,6,9780500000000,1,$10 ,$20 
-MCDB 310,"The Absolute, Ultimate Guide to Lehninger Principles of Biochemistry Study Guide and Solutions Manual",Marcy Osgood,5,9781430000000,1,$20 ,$40 
-MCDB 310,Lehringer Principles of Biocehmistry,David L. Nelson,3,978143000000,1,$50 ,$100 
-ME 451,Analysis and Performance of Fiber Composites,Bhagwan D. Agarwal,3,978047000000,1,$40 ,$80 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$49 ,$98 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$84 ,$168 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$60 ,$120 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$75 ,$150 
-EECS 320,Semiconductor Device Fundamentals,Pierret,0,9780200000000,1,$75 ,$150 
-EECS 401,Probability and Stochastic Processes,Roy D. Yates,2,9780470000000,1,$75 ,$150 
-PSYCH 111,Psychology Themes & Variation,Weiten,8,9780500000000,1,$75 ,$150 
-ME 240,Engineering Mechanics Dynamics,Bedford,5,9780140000000,1,$60 ,$120 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$70 ,$140 
-IOE 474,Simulation Using Promodel,Harrell,3,9780070000000,1,$60 ,$120 
-CEE 212,Mechanics of Materials,R.C. Hibbeler,8,9780140000000,1,$130 ,$260 
-CEE 303,Numerical Methods for Engineers,Chapra,6,9780070000000,1,$130 ,$260 
-IOE 201,Fundamentals of Engineering Economics,Chan S. Park,2,9780130000000,1,$20 ,$40 
-IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,2,9780130000000,1,$20 ,$40 
-IOE 333,Course Pack,Dr. Liu,1,IOE333CP,1,$20 ,$40 
-IOE  265,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7 Internatl,9780500000000,1,$50 ,$100 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$70 ,$140 
-ME 382,Engineering Materials 1,Michael Ashby,3,9780750000000,1,$30 ,$60 
-ME 382,Engineering Materials 2,Michael Ashby,3,9780750000000,1,$30 ,$60 
-ME 382,Mechanical Behavior of Materials,Norman E. Dowling,3rd International,9780130000000,1,$65 ,$130 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-MATH 115,Calculus Single Variable,Hughes-Hallet,5,9780470000000,1,$60 ,$120 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$120 ,$240 
-PHYS 140,University Physics Volume 1,Young,13,9780320000000,1,$85 ,$170 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$90 ,$180 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$100 ,$200 
-MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,5,9780470000000,1,$30 ,$60 
-CEE 212,Mechanics of Materials,R. C. Hibbeler,8,9780140000000,1,$100 ,$200 
-CEE 312,Structural Analysis,Hibbeler,8,9780130000000,1,$80 ,$160 
-CEE 345,Geotechnical Engineering,Donald P. Coduto,2 Internatl,9788120000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$40 ,$80 
-MATH  217,Linear Algebra and Its Applications (Special Editorial Edition),David C Lay,4E,9780320000000,1,$80 ,$160 
-EECS 370,Computer Organization and Design,David A Patterson,ARM,9788130000000,1,$38 ,$76 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$8 ,$16 
-PHYS 141,Intro to Physics Lab Man Mech,Bethany percha,1,9780740000000,1,$3 ,$6 
-STATS 412,Probability and Statistics for Engineering and Sciences Soln,Matthew A Carlton,7,9780500000000,1,$16 ,$32 
-IOE 440,Factory Physics,Hopp,3,9780070000000,1,$90 ,$180 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$40 ,$80 
-CEE 265,Sustainability Engineering Principles Coursepack,Hayes,,,1,$75 ,$150 
-CEE 312,Structural Analysis,Hibbeler,8,9780130000000,1,$85 ,$170 
-CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,4,9780130000000,1,$90 ,$180 
-MATH 215,Multivariable Calculus,Stewart,7,9780540000000,1,$100 ,$200 
-ME 335,Essentials of Heat Transfer,Kaviany,0,9781110000000,1,$100 ,$200 
-ME 360,System Dynamics,Palm,2,9780070000000,1,$80 ,$160 
-ME 211,Statics and Mechanics of Materials,Hibbeler,3 SI,9789810000000,1,$40 ,$80 
-CEE 230,Thermodynamics: An Engineering Approach,Yunus A. Cengel,7,9780080000000,1,$140 ,$280 
-CEE 265,CEE 265 Course Pack,?,,CEE265CP,1,$60 ,$120 
- ,Probability and Statistics for Engineering and the Sciences,Devore,7 International,9780500000000,1,$50 ,$100 
-MATH 371,A Friendly Introduction to Numberical Analysis,Bradie,,9780130000000,1,$65 ,$130 
-EECS 492,Intro To Artificial Intelligence ,Russel,3,9780140000000,1,$99 ,$198 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$87 ,$174 
-EECS 401,Probability and Stochastic Processes,Roy D. Yates,2,9780470000000,1,$55 ,$110 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$75 ,$150 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$80 ,$160 
-MATH 215,Multivariable Calculus soln,James Stewart,6,9780500000000,1,$20 ,$40 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$100 ,$200 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$20 ,$40 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$20 ,$40 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$20 ,$40 
-MATH 215,Multivariable Calculus with soln,James Stewart,6,,1,$40 ,$80 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$25 ,$50 
-PHYSICS 140,University Physics Full Bundle,Various,12,,1,$35 ,$70 
-AEROSP 325,Fundamentals of Aerodynamics,"John D. Anderson, Jr.",5 SI,9780070000000,1,$60 ,$120 
-AEROSP 325,Fundamentals of Aerodynamics,"John D. Anderson, Jr.",4 International,9780070000000,1,$40 ,$80 
-AEROSP 335,Aircraft Propulsion,Saeed Farokhi,,9780470000000,1,$100 ,$200 
-EECS 314,Making Sense of Electrical Engineering Mult Choice Q,Alexander Ganago,1,9780470000000,1,$40 ,$80 
-ME 555,Principles of Optimal Design Modeling and Computation,Panos Y. Papalambros,2,9780520000000,1,$20 ,$40 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$50 ,$100 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$25 ,$50 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$5 ,$10 
-PHYS 160,Matter & Interactions I - Modern Mechanics,Chabay,3,9780470000000,1,$75 ,$150 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$80 ,$160 
-BME 419,Vander's Human Physiology,Widmaier,12 International,9780070000000,1,$30 ,$60 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$60 ,$120 
-EECS  180,Using Google App Engine,Charles Severance,1,9780600000000,1,$2 ,$4 
-MATH 425,A First Course in Probability,,?,9787120000000,1,$30 ,$60 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$30 ,$60 
-PHYS 405,"Introduction to Electrodynamics (Eastern European Economy, Soft)",David J. Griffiths,3EE,9788120000000,1,$25 ,$50 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$100 ,$200 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$65 ,$130 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$65 ,$130 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$25 ,$50 
-MSE 250,Material Science and Engineering: An Introduction,Callister,8SI,9780470000000,1,$35 ,$70 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$105 ,$210 
-EECS 311,Microelectronic Circuits,Sedra,6,9780200000000,1,$116 ,$232 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$80 ,$160 
-IOE 265,Probability & Statistics for Engineering and the Sciences,Jay L. Devore,8,9780540000000,1,$150 ,$300 
-IOE 316,Introduction to Probability Models,Sheldon M. Ross,10,9780120000000,1,$97 ,$194 
-MATH 424,Mathematical Interest Theory,Leslie Jane Federer Vaaler,2,9780880000000,1,$125 ,$250 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$169 ,$338 
-EECS 270,"Digital Design with RTL Design, VHDL, and Verilog",Vahid,2,9780470000000,1,$50 ,$100 
-EECS 460,Automatic Control Systems,Golnaraghi,9,9780470000000,1,$40 ,$80 
-CEE 303,Numerical Methods for Engineers,Chapra,6,9780070000000,1,$70 ,$140 
-CEE 360,Water and Wastewater Engineering,Davis,,9780070000000,1,$90 ,$180 
-ME 215,Mechanics of Materials,Bedford,,9780200000000,1,$65 ,$130 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$25 ,$50 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$90 ,$180 
-IOE 541,Production & Operations Analysis,Nahmias,6,9780070000000,1,$90 ,$180 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$10 ,$20 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$95 ,$190 
-ECON 101,Microeconomics,r. Glenn Hubbard,3,9780140000000,1,$50 ,$100 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$50 ,$100 
-MATH 450,Advanced Engineering Mechanics,Michael D. Greenberg,2,9780130000000,1,$80 ,$160 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$25 ,$50 
-ME 382,Engineering Materials 2,Michael Ashby,3,9780750000000,1,$25 ,$50 
-ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,3,9780130000000,1,$80 ,$160 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$70 ,$140 
-EECS 401,Probability and Stochastic Processes,Roy D. Yates,2,9780470000000,1,$50 ,$100 
-MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,4 Internatl,9780140000000,1,$40 ,$80 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$25 ,$50 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$25 ,$50 
-EECS 215,Circuits,Fawwaz Ulaby,,9781930000000,1,$90 ,$180 
-EECS 320,Semiconductor Device Fundamentals,Pierret,,9780200000000,1,$95 ,$190 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,0,9780750000000,1,$25 ,$50 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$45 ,$90 
-STATS 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,8 International,9780840000000,1,$40 ,$80 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$135 ,$270 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$70 ,$140 
-BME 211,Introduction to Electric Circuits,Richard C. Dorf,8,9780470000000,1,$50 ,$100 
-BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,9781890000000,1,$50 ,$100 
-CEE 582,Brock Biology of Microorganisms,Madigan,13,9780320000000,1,$50 ,$100 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$90 ,$180 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$60 ,$120 
-PHYS 140,University Physics plus access kit,Young,12,9780320000000,1,$75 ,$150 
-MSE 330,Introduction to the Thermodynamics of Materials,Gaskell,5,9781590000000,1,$100 ,$200 
-MSE 350,The Structure of Materials,Allen,0,9780470000000,1,$50 ,$100 
-MSE 412,Introduction to Polymers,Young,3,9780850000000,1,$60 ,$120 
-EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,6,9780070000000,1,$30 ,$60 
-EECS 270,"Digital Design with RTL Design, VHDL, and Verilog",Frank Vahid,2,9780470000000,1,$40 ,$80 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$40 ,$80 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$60 ,$120 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$50 ,$100 
-EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,9788180000000,1,$35 ,$70 
-MATH 454,Applied Partial Differential Equations with Fourier Series and Boundary Value Problems,Richard Haberman,4,9780130000000,1,$90 ,$180 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$20 ,$40 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus Student Solutions,Dan Clegg,6,9780500000000,1,$20 ,$40 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$12 ,$24 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$80 ,$160 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$55 ,$110 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$45 ,$90 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$45 ,$90 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$70 ,$140 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$55 ,$110 
-EECS 215,Circuits,Fawwaz Ulaby,,9781930000000,1,$50 ,$100 
-MATH 256,Elementary Differential Equations and Boundary Value Problems,Boyce,9,9780470000000,1,$60 ,$120 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$60 ,$120 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$30 ,$60 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,0,9780750000000,1,$25 ,$50 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$55 ,$110 
-PHYS 240,"University Physics, Vol 2 Sol Man",Ford,12,9780320000000,1,$5 ,$10 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$60 ,$120 
-PHYS 260,Matter & Interactions II,Chabay,2,9780470000000,1,$15 ,$30 
-AEROSP 325,Fundamentals of Aerodynamics,"John D. Anderson, Jr.",5,9780070000000,1,$130 ,$260 
-EECS 314,Electrical Engineering Principles and Applications,Allan R. Hambley,5,9780130000000,1,$100 ,$200 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$45 ,$90 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$15 ,$30 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$10 ,$20 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$50 ,$100 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$110 ,$220 
-IOE 265,Probability & Statistics for Engineering and the Sciences,Jay L. Devore,8,9780540000000,1,$150 ,$300 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$125 ,$250 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$45 ,$90 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$70 ,$140 
-PHYS 140,University Physics Volume 1,Young,13,9780320000000,1,$80 ,$160 
-PHYS 140,University Physics Vol 1 Solutions,Young,5,9780320000000,1,$15 ,$30 
-ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,17,9780980000000,1,$20 ,$40 
-NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,2,9780390000000,1,$50 ,$100 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$35 ,$70 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$35 ,$70 
-IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,2,9780130000000,1,$20 ,$40 
-IOE 333,IOE 333 Course Pack,Liu,,IOE333CP,1,$10 ,$20 
-IOE 373,Visual Basic 2010: Programmer's Reference,Rod Stephens,,9780470000000,1,$20 ,$40 
-ME 235,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$70 ,$140 
-ME 240,Engineering Mechanics: Dynamics,J.L. Meriam,6,9780470000000,1,$60 ,$120 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$70 ,$140 
-ME 382,Engineering Materials 2,Michael Ashby,3,9780750000000,1,$35 ,$70 
-ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,3,9780130000000,1,$50 ,$100 
-ME 382,Engineering Materials 1,Michael Ashby,3,9780750000000,1,$35 ,$70 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$98 ,$196 
-IOE 474,Simulation using Promodel,Harrell,3,9780070000000,1,$75 ,$150 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$100 ,$200 
-EECS 320,Semiconductor Device Fundamentals,Pierret,0,9780200000000,1,$40 ,$80 
-EECS  215,Introduction to Electric Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$40 ,$80 
-EECS  216,Water and Wastewater Engineering,Samir S. Soliman,2,9780140000000,1,$20 ,$40 
-Theory 137,Fluid Mechanics for Chemical Engineers,Joseph N. Straus,2,9780130000000,1,$5 ,$10 
-EECS 401,Organic Chemistry Study Guide,Roy D. Yates,2,9780470000000,1,$50 ,$100 
-CHEM 130,Macroeconomics,Ebbing,1,9781110000000,1,$70 ,$140 
-MATH 116,Computer Architecture,Hughes-Hallett,5,9780470000000,1,$40 ,$80 
-CHEM 210,Matlab: An Introduction With Applications,Ege,5,9780620000000,1,$60 ,$120 
-ENGR 101,Matlab: An Introduction With Applications,James Paul Holloway,1,9780470000000,1,$50 ,$100 
-CEE 211,Matlab: An Introduction With Applications,Hibbeler,12,9780140000000,1,$100 ,$200 
-EECS 492,Matlab: An Introduction With Applications,Stuart Russell,2 Internatl,9787120000000,1,$15 ,$30 
-EECS 492,Matlab: An Introduction With Applications,Stuart Russell,3 Internatl,9787300000000,1,$60 ,$120 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$20 ,$40 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$67 ,$134 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,1,9780560000000,1,$20 ,$40 
-EECS 406,Technology Ventures: From Idea to Enterprise,Dorf,2,9780070000000,1,$20 ,$40 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$85 ,$170 
-CHEM 130,General Chemistry,Ebbing,,9781110000000,1,$40 ,$80 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$25 ,$50 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$64 ,$128 
-CEE 211,Statics & Dynamics,Hibbeler,11,9780130000000,1,$50 ,$100 
-CHEM 130,General Chemistry,Ebbing,8,9780620000000,1,$50 ,$100 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$50 ,$100 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$50 ,$100 
-EECS 492,Intro To Artificial Intelligence ,Russel,3,9780140000000,1,$120 ,$240 
-ENGR 100,Introduction to Engineering Mechanics and Materials in the Design of Orthopedic Implants and Medical Devices,Wynarsky,0,2818440000000,1,$10 ,$20 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,0,9780070000000,1,$10 ,$20 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,9780560000000,1,$10 ,$20 
-IOE 316,Introduction to Probability Models,Sheldon M. Ross,9,9780130000000,1,$60 ,$120 
-IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,2,9780130000000,1,$60 ,$120 
-IOE 333,IOE 333 Course Pack,Liu,,IOE333CP,1,$20 ,$40 
-IOE 334,IOE 334 Coursepack Part 1,Kantowitz,0,IOE 334 CP,1,$8 ,$16 
-IOE 425,Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda,Rother,,9780970000000,1,$40 ,$80 
-IOE  310,Intro to Math Programming,Wayne L. Winston,4,9780530000000,1,$105 ,$210 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$40 ,$80 
-PHYS 140,Introductory Physics Laboratory Manual MECHANICS,Percha,F/W/S 08-09,9780740000000,1,$8 ,$16 
-PHYS 140,Physics 140 Bundle- Textbook & Solution Manual,Young,12,,1,$70 ,$140 
-PHYS 240,University Physics Vol 2 Study Guide,Kramer,12,9780320000000,1,$20 ,$40 
-PHYS 240,"University Physics, Vol 2 Sol Man",Ford,12,9780320000000,1,$20 ,$40 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$60 ,$120 
-CHEM 210,Organic Chemistry,Seyhan Ege,5,9780550000000,1,$75 ,$150 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$25 ,$50 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$100 ,$200 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$100 ,$200 
-EECS 311,Microelectronic Circuits,Sedra,6,9780200000000,1,$100 ,$200 
-EECS 320,Semiconductor Device Fundamentals,Pierret,,9780200000000,1,$80 ,$160 
-EECS 334,Introduction to Optics,Frank L. Pedrotti,3,9780130000000,1,$95 ,$190 
-EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",John G. Proakis,4,9780130000000,1,$80 ,$160 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$50 ,$100 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$95 ,$190 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$100 ,$200 
-CEE 211,Statics & Dynamics,R.C. Hibbeler,11,9780130000000,1,$70 ,$140 
-CEE 230,Thermodynamics,Yunus A. Dengel,7,9780070000000,1,$70 ,$140 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$15 ,$30 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,1,9780560000000,1,$15 ,$30 
-MATH 105,Functions Modeling Change A Preparation for Calculus,Connally,3,9780470000000,1,$55 ,$110 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$50 ,$100 
-CHEM 130,General Chemistry Bundle (text+study guide),Ebbing,8,,1,$15 ,$30 
-IOE 201,Fundamentals of Engineering Economics,Park,0,9780130000000,1,$10 ,$20 
-IOE  265,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7 Internatl,9780500000000,1,$30 ,$60 
-MATH 214,Linear Algebra with Applications,Bretcher,3,9780130000000,1,$15 ,$30 
-EECS 203,Discrete Mathematics and Its Applications,Rosen,6,9780070000000,1,$40 ,$80 
-EECS 503,Computational Methods for Electromagnetics,Peterson,,9780780000000,1,$50 ,$100 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$40 ,$80 
-PAT 102,Musical Acoustics,Hall,3,9780530000000,1,$40 ,$80 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$60 ,$120 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$60 ,$120 
-IOE  310,Intro to Math Programming,Wayne L. Winston,4,9780530000000,1,$60 ,$120 
-AEROSP 215,Mechanics of Materials,Bedford,,9780200000000,1,$35 ,$70 
-AEROSP 347,Orbital Mechanics for Engineering Students,Howard D. Curtis,2,9780120000000,1,$35 ,$70 
-ME 240,Engineering Mechanics Dynamics,J L Meriam,6,,1,$50 ,$100 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$65 ,$130 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,9780750000000,1,$35 ,$70 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$80 ,$160 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,,9780750000000,1,$50 ,$100 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$50 ,$100 
-EECS 451,Digital Signal Processing,Proakis,4,9788120000000,1,$80 ,$160 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$110 ,$220 
-ME 360,System Dynamics,William J. Palm III,2 Internatl,9780070000000,1,$40 ,$80 
-CHE 230,Elementary Principles of Chemical Processes,Felder,3,9780470000000,1,$40 ,$80 
-CHE 230,Elementary Principles of Chemical Processes - Student Workbook,Felder,3,9780470000000,1,$10 ,$20 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,0,9780070000000,1,$10 ,$20 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$25 ,$50 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$25 ,$50 
-MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,4 Internatl,9780140000000,1,$40 ,$80 
-IOE 373,Visual Basic 2010: Programmer's Reference,Rod Stephens,,9780470000000,1,$20 ,$40 
-IOE 441,Production & Operations Analysis,Steven Nahmias,5,9780070000000,1,$40 ,$80 
-IOE 474,Simulation using Promodel,Harrell,3,9780070000000,1,$75 ,$150 
-MSE 220,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$40 ,$80 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$20 ,$40 
-EECS 370,Computer Organization and Design,Patterson,3,9781560000000,1,$40 ,$80 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$10 ,$20 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$60 ,$120 
-Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7,9780500000000,1,$75 ,$150 
-STATS 412,Probability and Statistics for Engineering and the Sciences Student Solutions Manual,Matthew A. Carlton,7,9780500000000,1,$15 ,$30 
-ENGR 100,Engineering Design,Patrick Little,2,9780470000000,1,$8 ,$16 
-ENGR 100,Engineering Design,Patrick Little,2,9780470000000,1,$6 ,$12 
-ENGR 490,Cultural Intelligence,Peterson,1,9781930000000,1,$8 ,$16 
-MATH 115,Calculus Single Variable,Hughes-Hallett,4,9780470000000,1,$15 ,$30 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$50 ,$100 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$20 ,$40 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$110 ,$220 
-ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,3,9780130000000,1,$110 ,$220 
-MATH 215,Multivariable Calculus Student Solultions Manual,Dan Clegg,6,9780500000000,1,$30 ,$60 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$45 ,$90 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$50 ,$100 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$60 ,$120 
-PHYS 240,"University Physics, Vol 2 Sol Man",Ford,12,9780320000000,1,$5 ,$10 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$40 ,$80 
-EECS 215,Circuits,Fawwaz Ulaby,,9781930000000,1,$80 ,$160 
-ENGR 100,"A Practical Guide to Technical Reports and Presentations for Scientists, Engineers, and Students",Pauline Bary-Khan,1,9780560000000,1,$20 ,$40 
-CHEM 130,General Chemistry (Media Enhanced Edition),Ebbing,8 UM,9780620000000,1,$30 ,$60 
-CHEM 130,General Chemistry Study Guide,Ebbing,8,9780620000000,1,$10 ,$20 
-EECS 215,Circuits Make Sense Lab Book,Alexander Ganago,6,9780470000000,1,$15 ,$30 
-EECS 216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9788120000000,1,$30 ,$60 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$30 ,$60 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$15 ,$30 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$30 ,$60 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$30 ,$60 
-ME 211,Statics and Mechanics of Materials,Hibbeler,3 SI,9789810000000,1,$50 ,$100 
-MATH 417,Linear Algebra with Applications,Otto Bretscher,4 Intl,9780140000000,1,$40 ,$80 
-MATH 371,A Friendly Introduction to Numberical Analysis,Bradie,0,9780130000000,1,$40 ,$80 
-MATH 454,Partial DifferentialEquations for Scientists and Engineers ,Stanley J. Farlow,0,9780490000000,1,$8 ,$16 
-Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7,9780500000000,1,$50 ,$100 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$50 ,$100 
-ME 382,Engineering Materials 1,Michael Ashby,3,9780750000000,1,$20 ,$40 
-ME 382,Engineering Materials 2,Michael Ashby,3,9780750000000,1,$25 ,$50 
-EECS 270,Digital Design,Vahid,0,9780470000000,1,$20 ,$40 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$45 ,$90 
-EECS  376,Introduction to the Theory of Computation,Sipser,2,9780530000000,1,$65 ,$130 
-CHEM 261,"Introduction to Quantum Chemistry, Chemical Principles, Part 1",Oxtoby,,9780500000000,1,$48 ,$96 
-EECS 270,Digital Design,Vahid,,9780470000000,1,$50 ,$100 
-EECS 401,Probability and Stochastic Processes,Roy D. Yates,2,9780470000000,1,$50 ,$100 
-EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,4,9788130000000,1,$60 ,$120 
-EECS 470,Computer Architecture,Hennessy,3,9781560000000,1,$30 ,$60 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$40 ,$80 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$20 ,$40 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$20 ,$40 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$30 ,$60 
-MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,5,9780470000000,1,$10 ,$20 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$60 ,$120 
-AEROSP 305,Experimental Methods for Engineers,Holman,7,9780070000000,1,$60 ,$120 
-AEROSP 335,Mechanics and thermodynamics of Propulsion,Hills,2,9780200000000,1,$40 ,$80 
-ME 240,Engineering Mechanics Dynamics,Bedford,5,9780140000000,1,$70 ,$140 
-CHEM 130,General Chemistry,Ebbing,9,9781440000000,1,$80 ,$160 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$45 ,$90 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$75 ,$150 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$60 ,$120 
-MATH 215,Multivariable Calculus,Stewart,7,9780540000000,1,$45 ,$90 
-IOE 201,Fundamentals of Engineering Economics,Park,2,9780130000000,1,$90 ,$180 
-IOE 447,Facilities Planning,Tompkins-White-Bozer-Tanchoco,4,9780470000000,1,$15 ,$30 
-IOE 466,Statistical Quality Control - A Modern Introduction,Montogomery,6th - International Student Version,9780470000000,1,$15 ,$30 
-IOE 474,Simulation using Promodel,Harrell,3,9780070000000,1,$15 ,$30 
-EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,2,9780470000000,1,$50 ,$100 
-EECS 314,Electrical Engineering Principles and Applications,Allan R. Hambley,5,9780130000000,1,$80 ,$160 
-MATH 450,Advanced Engineering Mechanics,Michael D. Greenberg,2,9780130000000,1,$100 ,$200 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$80 ,$160 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$50 ,$100 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$110 ,$220 
-EECS 320,Semiconductor Device Fundamentals,Pierret,0,9780200000000,1,$100 ,$200 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$90 ,$180 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$60 ,$120 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$90 ,$180 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$60 ,$120 
-NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,2,9780390000000,1,$40 ,$80 
-NERS 211,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,17,9780980000000,1,$10 ,$20 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$65 ,$130 
-IOE 265,Probability and Statistics,Devore,7,9780500000000,1,$40 ,$80 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$10 ,$20 
-MATH 216,Differential Equations,Edwards,3,9780130000000,1,$10 ,$20 
-MATH 216,Diff. Equations Solution Book,Edwards,4,9780130000000,1,$10 ,$20 
-PHYS 140,University Physics Vol. 1,Young,12,9780320000000,1,$10 ,$20 
-CHEM 130,General Chemistry,Ebbing,8,9780620000000,1,$10 ,$20 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$60 ,$120 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$32 ,$64 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,,9780560000000,1,$15 ,$30 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$35 ,$70 
-ENGR 101,Introduction to Engineering Programming,Holloway,1,9780470000000,1,$35 ,$70 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$40 ,$80 
-CEE 421,Hydrology and Flood Plain Analysis,Philip B. Bedient,4,9780130000000,1,$120 ,$240 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$100 ,$200 
-EECS 203,Discrete Mathematics,Kenneth Rosen,6,9780070000000,1,$30 ,$60 
-EECS 320,Semiconductor Device Fundamentals,Pierret,0,9780200000000,1,$30 ,$60 
-EECS 230/330,Fundamentals of Applied Electromagnetics,Fawwaz T. Ulaby,5,9780130000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus (IE),James Stewart,6 Internatl,9780500000000,1,$30 ,$60 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$50 ,$100 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$55 ,$110 
-STATS 250,Mind on Statistics,Utts,3,9780530000000,1,$50 ,$100 
-CEE 212,Mechanics of Materials,R.C. Hibbeler,7,9780130000000,1,$40 ,$80 
-CEE 325,Engineering Fluid Mechanics,Clayton T. Crowe,9 SI,9780470000000,1,$40 ,$80 
-CEE 345,"Geotechnical Engineering, Principles and Practices",Coduto,2,9780130000000,1,$85 ,$170 
-CEE 351,Civil Enginering Materials,Professor Li,CP,,1,$18 ,$36 
-CEE 351,Concrete,Sidney Mindess,2,9780130000000,1,$95 ,$190 
-CEE 360,Water and Wastewater Engineering,Davis,,9780070000000,1,$75 ,$150 
-MATH 216,Calc 4 Bundle: Differential Equations and Boundary Value Problems 4th Edition and Student Solutions Manual,Edwards,4,,1,$25 ,$50 
-ME 335,Essentials of Heat Transfer,Kaviany,,9781110000000,1,$100 ,$200 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-BME 211,Introduction to Electric Circuits,Richard C. Dorf,7,9780470000000,1,$30 ,$60 
-BME 231,Engineering Mechanics Dynamics Instructors Ed,Bedford,5,9780140000000,1,$65 ,$130 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,0,9780070000000,1,$10 ,$20 
-EECS 478,Logic Synthesis and Verification Algorithms,Hachtel,,9780790000000,1,$30 ,$60 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$65 ,$130 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$20 ,$40 
-CHEM 210-215,Organic Chemistry Structure And Reactivity,Seyhan Ege,5,9780550000000,1,70,$140 
-MATH 215,Multivariable Calculus (IE),James Stewart,6 IE,9780500000000,1,$60 ,$120 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,60,$120 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$20 ,$40 
-IOE 201,Fundamentals of Engineering Economics,Park,2,9780130000000,1,$65 ,$130 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$65 ,$130 
-ME 211,Static and Mechanics of Materials,Hibbeler,2,9780130000000,1,$40 ,$80 
-ME 230,Fundamentals of Thermodynamics,Borgnakke,7,9780470000000,1,$120 ,$240 
-EECS 216,Continuous and Discrete Signals and Systems,Soliman,2,9788120000000,1,$100 ,$200 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$120 ,$240 
-EECS 270,Digital Design,Vahid,2,9780470000000,1,$40 ,$80 
-EECS 460,Automatic Control Systems,Kuo,8,9780470000000,1,$35 ,$70 
-MATH 115,Calculus Single Variable,Hughes-Hallett,4,9780470000000,1,$15 ,$30 
-MATH 115,Calculus Single Variable Student Solutions Manual,Hughes-Hallett,4,9780470000000,1,$5 ,$10 
-EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",John G. Proakis,4,9780130000000,1,$90 ,$180 
-CEE 345,"Geotechnical Engineering, Principles and Practices",Coduto,2,9780130000000,1,$85 ,$170 
-CEE 360,Water and Wastewater Engineering,Davis,0,9780070000000,1,$80 ,$160 
-MATH 215,Multivariable Calculus,Stewart,7,9780540000000,1,$110 ,$220 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$75 ,$150 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$70 ,$140 
-CHEM 130,General Chemistry,Ebbing,9,9780550000000,1,$80 ,$160 
-MATH 215,Multivariable Calculus,James Stewart,Hybrid,9781110000000,1,$60 ,$120 
-ME 235,Fundamentals of Thermodynamics (SI Version),Claus Borgnakke,7,9780470000000,1,$70 ,$140 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$70 ,$140 
-ME 335,Introduction to Heat Transfer,Incropera,5,9780470000000,1,$80 ,$160 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$65 ,$130 
-ME 382,Mechanical Behaviors of Materials,Norman E. Dowling,3,9780130000000,1,$80 ,$160 
-ME 382,Engineering Materials 1,Michael Ashby,3,9780750000000,1,$25 ,$50 
-ME 382,Engineering Materials 2,Michael Ashby,3,9780750000000,1,$30 ,$60 
-MATH 256,Elementary Differential Equations and Boundary Value Problems,Boyce,9,9780470000000,1,$60 ,$120 
-EECS 280,Absolute C++,Savitch,3,9780320000000,1,$50 ,$100 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$60 ,$120 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$45 ,$90 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$90 ,$180 
-EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,0,9788180000000,1,$40 ,$80 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$110 ,$220 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$60 ,$120 
-MECHENG 335,Essentials of Heat Transfer,Kaviany,,9781110000000,1,$80 ,$160 
-MECHENG 360,System Dynamics,Palm,2,9780070000000,1,$80 ,$160 
-ENGR 100,Essential Cell Biology,Alberts,2,9780820000000,1,$50 ,$100 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$40 ,$80 
-Engr 100,Introduction to Engineering Mechanics and Materials in the Design of Orthopedic Implants & Medical Devices,Wynarsky,Fall 2011,2818440000000,1,$10 ,$20 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$10 ,$20 
-MATH 156/255,"Calculus, University of Michigan Edition",Stewart,,9780500000000,1,$60 ,$120 
-PHYS 140,University Physics Volume One,Sears,13,9789320000000,1,$80 ,$160 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$50 ,$100 
-ME 350,Design and Manufacturing II ,Diann Brei,Fall 2011,9781120000000,1,$50 ,$100 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$30 ,$60 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$30 ,$60 
-PHYS 240,University Physics Volume Two,Sears,13,9780320000000,1,$50 ,$100 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$35 ,$70 
-MATH 105,Functions Modeling Change A Preparation for Calculus,Clough,3,9780470000000,1,$35 ,$70 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$80 ,$160 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,0,9780070000000,1,$20 ,$40 
-EECS 320,Semiconductor Device Fundamentals,Pierret,,9780200000000,1,$100 ,$200 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$80 ,$160 
-MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,5,9780470000000,1,$30 ,$60 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$40 ,$80 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$50 ,$100 
-IOE 201,Fundamentals of Engineering Economics,Park,2,2900130000000,1,$60 ,$120 
-MECHENG 335,Essentials of Heat Transfer,Kaviany,,9781110000000,1,$120 ,$240 
-CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,4,9780470000000,1,$50 ,$100 
-CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,5,9780470000000,1,$50 ,$100 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$40 ,$80 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$50 ,$100 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$120 ,$240 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$60 ,$120 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$80 ,$160 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$5 ,$10 
-MATH 115,Single Variable Calculus soln,Hughes-Hallett,4,9780470000000,1,$5 ,$10 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$40 ,$80 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$10 ,$20 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$25 ,$50 
-PHYS 140,University Physics soln Vol 1,Ford,12,9780320000000,1,$10 ,$20 
-CHEM 210,Organic Chemistry,Seyhan Ege,5,9780620000000,1,$50 ,$100 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$30 ,$60 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$40 ,$80 
-MATH 215,Multivariable Calculus,Stewart,7,9780540000000,1,$90 ,$180 
-MATH 115/116,Calculus Single Variable Student Solutions Manual,Cangelosi,5,9780470000000,1,$30 ,$60 
-CEE 431,Construction Contracting,Clough,7,9780470000000,1,$60 ,$120 
-IOE 421,Organization Theory and Design,Richard L. Daft,10,9781110000000,1,$80 ,$160 
-CHEM 130,General Chemistry,Ebbing,8,9780620000000,1,$19 ,$38 
-ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,17,9780980000000,1,$24 ,$48 
-MATH 116,Calculus Single Variable,Hughes-Hallett,4,9780470000000,1,$34 ,$68 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$44 ,$88 
-PHYS 241,Elementary Laboratory II: Laboratory Manual,Tarle,2008,9780740000000,1,$4 ,$8 
-Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7,9780500000000,1,$15 ,$30 
-ME 211,Statics and Mechanics of Materials,Hibbeler,SI,9780130000000,1,$10 ,$20 
-ME 235,Fundamentals of Thermodynamics (SI Version),Claus Borgnakke,7,9780470000000,1,$10 ,$20 
-ME 335,Introduction to Heat Transfer,Incropera,5,9780470000000,1,$20 ,$40 
-CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,4,9780470000000,1,$120 ,$240 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$140 ,$280 
-CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,5,9780470000000,1,$140 ,$280 
-CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,5,9780470000000,1,$150 ,$300 
-CHE 344,Essentials of Chemical Reaction Engineeering,H. Scott Fogler,,9780140000000,1,$100 ,$200 
-CHEM 261,"Introduction to Quantum Chemistry, Chemical Principles, Part 1",Oxtoby,,9780500000000,1,$50 ,$100 
-IOE 265,Student Solutions Manual for Probability and Statistics,Seely,6,9780530000000,1,$35 ,$70 
-IOE 425,Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda,Rother,,9780970000000,1,$30 ,$60 
-MSE 250,Materials Science and Engineering: An Introduction,Callister,7,9780470000000,1,$70 ,$140 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$50 ,$100 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$40 ,$80 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$20 ,$40 
-MATH 115,"Calculus, Single Variable, Unbound",Hughes-Hallett,5,9780470000000,1,$15 ,$30 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$106 ,$212 
-ENGR 100,"Electricity from Sunlight, An Introduction to Photovoltaics",Lynn,0,9780470000000,1,$35 ,$70 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$70 ,$140 
-MATH 215,Student Solutions Manual for STEWART'S,Clegg,7,9780840000000,1,$25 ,$50 
-MATH 215,Multivariable Calculus,Stewart,7,9780540000000,1,$80 ,$160 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$40 ,$80 
-CEE 312,Structural Analysis,Hibbeler,7,9780140000000,1,$50 ,$100 
-CEE 354,Geotechnical Engineering,Coduto,2,9780130000000,1,$90 ,$180 
-EECS 314,Making Sense of Electrical Engineering,Alexander Ganago,2,9780470000000,1,$30 ,$60 
-ASIAN 206,India: Brief History of a Civilization,Thomas R. Trautmann,0,9780200000000,1,$15 ,$30 
-ASIAN 206,India Before Europe,Asher,0,9780520000000,1,$30 ,$60 
-ASIAN 206,In Spite of the Gods the Rise of Modern India,Edward Luce,0,9781400000000,1,$30 ,$60 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$60 ,$120 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$20 ,$40 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$40 ,$80 
-EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,,1,$70 ,$140 
-EECS 334,Introduction to Optics,Frank L. Pedrotti,3,9780130000000,1,$50 ,$100 
-NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,2,9780390000000,1,$70 ,$140 
-EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,5,9780070000000,1,$25 ,$50 
-EECS 203,Discrete Mathematics and Its Applications Student's Solutions Guide,Jerrold Grossman,6,9780070000000,1,$25 ,$50 
-EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,6,9780070000000,1,$75 ,$150 
-EECS 215,Circuits,Fawwaz Ulaby,,9781930000000,1,$95 ,$190 
-MATH 215,Multivariable Calculus Student Solutions Manual,Dan Clegg,6,9780500000000,1,$25 ,$50 
-BME 231,Statics and Mechanics of Materials,Bedford,0,9780130000000,1,$65 ,$130 
-BME 231,Statics and Mechanics of Materials,Bedford,0,9780130000000,1,$65 ,$130 
-BME 231,Engineering Mechanics Dynamics,Bedford,4,9780130000000,1,$60 ,$120 
-BME 479,Transport Phenomena in Biological Systems,George A. Truskey,2,9780130000000,1,$65 ,$130 
-CEE 211,Statics & Dynamics,Hibbeler,11,9780130000000,1,$30 ,$60 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$35 ,$70 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$75 ,$150 
-EECS 203,Discrete Mathematics and Its Applications,Kenneth Rosen,6,9780070000000,1,$90 ,$180 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$45 ,$90 
-MATH 216/56/86,Elementary Differential Equations and Boundary Value Problems,Boyce,9,9780470000000,1,$90 ,$180 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$75 ,$150 
-PHYS  140,University Physics Students soln,Young,12,9780320000000,1,$20 ,$40 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$70 ,$140 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$60 ,$120 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$38 ,$76 
-ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,17,9780980000000,1,$6 ,$12 
-NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,2,9780390000000,1,$50 ,$100 
-CEE 582,Brock Biology of Microorganisms,Michael Madigan,13,9780320000000,1,$50 ,$100 
-CHE 341,Fluid Mechanics for Chemical Engineers,James O. Wilkes,2,9780130000000,1,$80 ,$160 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,5,9780130000000,1,$45 ,$90 
-EECS 320,Semiconductor Device Fundamentals,Robert F. Pierret,,9788180000000,1,$40 ,$80 
-EECS 370,Computer Organization and Design,Patterson,4,9780120000000,1,$50 ,$100 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$40 ,$80 
-CHE 330,"Chemical, Biochemical, and Engineering thermodynamics",Stanley I. Sandler,4,9780470000000,1,$78 ,$156 
-CHE 341,"Fundamentals of Momentum, Heat, and Mass transfer",Welty,5,9780470000000,1,$50 ,$100 
-EECS 215,Circuits,Fawwaz Ulaby,,9781930000000,1,$100 ,$200 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$50 ,$100 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$85 ,$170 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$120 ,$240 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$45 ,$90 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$94 ,$188 
-EECS 501,Probability and Random Processes for Electrical and Computer Engineers,Gubner,,9780520000000,1,$50 ,$100 
-ENGR 100-850,Radiation How Energetic Atomic Rays Impact Our World,Alexander Thomas,0,50874,1,$15 ,$30 
-ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,17,9780980000000,1,$15 ,$30 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$60 ,$120 
-ME 211,Static and Mechanics of Materials,Hibbeler,2,9780130000000,1,$40 ,$80 
-ME 240,Engineering Mechanics Dynamics,J.L. Meriam,6,9780470000000,1,$45 ,$90 
-Phil IXX,The Philosopher's Way,John Chaffee,3,9780210000000,1,$25 ,$50 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$25 ,$50 
-CHEM 130,General Chemistry (Media Enhanced Edition),Ebbing,8,9780620000000,1,$15 ,$30 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$49 ,$98 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$49 ,$98 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$15 ,$30 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$20 ,$40 
-MSE 250,Materials Science and Engineering,Callister,8-SI,9780470000000,1,$55 ,$110 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$55 ,$110 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$70 ,$140 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,5,9780130000000,1,$50 ,$100 
-EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,4,9788130000000,1,$75 ,$150 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$100 ,$200 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,,9780070000000,1,$20 ,$40 
-ENGR 100,Engineering Design,Patrick Little,2,9780470000000,1,$20 ,$40 
-ME 240,Engineering Mechanics Dynamics,J.L. Meriam,6,9780470000000,1,$55 ,$110 
-CEE 211,"Engineering Mechanics, Statics and Dynamics",Hibbeler,12,9780140000000,1,$100 ,$200 
-ENGR 100,A Practical Guide to Technical Reports And Presentations,Pauline Bary-Khan,1,9780560000000,1,$10 ,$20 
-EECS 311,Microelectronic Circuits,Sedra,6,9780200000000,1,$90 ,$180 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$30 ,$60 
-CEE 260,Introduction to Enginnering and the Environment,Edward S. Rubin,1,9780070000000,1,$40 ,$80 
-CEE 260,Introduction to Enviromental Engineering,P Aarne Vesilind,2,9780530000000,1,$40 ,$80 
-CEE 312,Structural Analysis,Hibbeler,8,9780130000000,1,$50 ,$100 
-CEE 345,Geotechnical Engineering,Donald P. Coduto,1,9780140000000,1,$60 ,$120 
-ENGR 100-850,Nuclides and Isotopes Chart of the Nuclides,Edward M. Baum,17,9780980000000,1,$15 ,$30 
-IOE 440,Factory Physics (International Edition),Wallace J. Hopp,3 Internatl,9780070000000,1,$50 ,$100 
-IOE 441/551,Production and Operations Analysis,Steven Nahmias,5,9780070000000,1,$40 ,$80 
-NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,2,9780390000000,1,$75 ,$150 
-IOE 316,Introduction to Probability Models,Sheldon M. Ross,10,9780120000000,1,$40 ,$80 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$50 ,$100 
-ME 211,Statics and Mechanics of Materials,R.C. Hibbeler,3,9780130000000,1,$30 ,$60 
-ME 235,Introduction to Engineering Thermodynamics,Richard Sonntag,2,9780470000000,1,$25 ,$50 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$60 ,$120 
-NERS 311,Modern Physics,Kenneth Krane,2,9780470000000,1,$70 ,$140 
-NERS 312,Introductory Nuclear Physics,Kenneth S. Krane,,9780470000000,1,$70 ,$140 
-NERS 315,Radiation Detection and Measurement,Glenn F. Knoll,4,9780470000000,1,$100 ,$200 
-EECS 334,Introduction to Optics,"Frank L. Pedrotti, S.J.",3,9780130000000,1,$50 ,$100 
-EECS 430,Radiowave Propagation and Link Design,Brian Gilchrist,,,1,$60 ,$120 
-PHYS 141,University Physics Student Solutions Manual Volume 1,A. Lewis Ford,12,9780320000000,1,$20 ,$40 
-PHYS 241,University Physics Student Solutions Manual Volumes 2 & 3,A. Lewis Ford,12,9780320000000,1,$20 ,$40 
-IOE 466,Introduction to Statistical Quality Control,Douglas C. Montgomery,6,9780470000000,1,$55 ,$110 
-BIOLOGY 225,Principles of Animal Physiology,Moyes,2,9780320000000,1,$90 ,$180 
-BME 231,Engineering Mechanics Dynamics,Bedford,5,9780140000000,1,$90 ,$180 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$55 ,$110 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$80 ,$160 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$20 ,$40 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$50 ,$100 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$45 ,$90 
-MSE 242,Modern Physics for Scientists and Engineers,Thorton,3,9780530000000,1,$120 ,$240 
-EECS 280,Absolute C++,Savitch,4,9780140000000,1,$35 ,$70 
-MATH 216,Differential Equations and Boundary value Problems Solution Manual,Edwards,4,9780130000000,1,$25 ,$50 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$100 ,$200 
-ME 211,Static and Mechanics of Materials,Hibbeler,2,9780130000000,1,$100 ,$200 
-ME 240,Engineering Mechanics Dynamics (Student Value Ed.) ,Meriam,6,9780470000000,1,$50 ,$100 
-PHYS 140,Mastering Physics Student Access Kit,Young,12,9780320000000,1,$40 ,$80 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$25 ,$50 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$60 ,$120 
-CEE 270,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,6,9780530000000,1,$10 ,$20 
-EECS 203,Discrete Mathematics and Its Applications,Kenneth H. Rosen,6,9780070000000,1,$40 ,$80 
-MCDB 429,Laboratory DNA Science,Bloom,1,9780810000000,1,$55 ,$110 
-ENGR 101,"Matlab, An Introduction with Applications",Gilat,3,9780470000000,1,$10 ,$20 
-PHYS 160,Matter & Interactions I - Modern Mechanics,Chabay,3,9780470000000,1,$55 ,$110 
-MATH 215,Multivariable Calculus - Solutions,Stewart,7,9780840000000,1,$40 ,$80 
-ME 235,Introduction to Engineering Thermodynamics,Richard Sonntag,2,9780470000000,1,$15 ,$30 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$20 ,$40 
-MATH 116,Calculus Single Variable,Hughes-Hallett,5,9780470000000,1,$53 ,$106 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$42 ,$84 
-CEE 211,Statics and Dynamics,Hibbeler,12,9780140000000,1,$80 ,$160 
-CEE 360,Water and Wastewater Engineering,Davis,Internatl,9780070000000,1,$35 ,$70 
-NERS 211,"Nuclear Energy Principles, Practices, and Prospects",David Bondansky,2,9780390000000,1,$45 ,$90 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$85 ,$170 
-CLARCH 323,"Archaeology: Theories, Methods, and Practice",Colin Renfrew,5,9780500000000,1,$50 ,$100 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$50 ,$100 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,6,9780130000000,1,$55 ,$110 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$8 ,$16 
-EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,4,9788130000000,1,$35 ,$70 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$55 ,$110 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,0,9780750000000,1,$20 ,$40 
-MATH 156,Single Variable Calculus,Stewart,6,9780500000000,1,$25 ,$50 
-MATH 156,Single Variable Calculus,Stewart,5,9780530000000,1,$10 ,$20 
-ME 320,Fundamentals of Fluid Mechanics,Munson,6,9780470000000,1,$60 ,$120 
-BME 221,Physical Chemistry for the Biosciences,Raymond Chang,,9781890000000,1,$70 ,$140 
-MSE 250,Materials Science and Engineering an Introduction,Wiley Asia,7,9780470000000,1,$35 ,$70 
-ENGR 100,"A Practical Guide to Technical Reports and Presentations for Scientists, Engineers, and Students",Pauline Bary-Khan,1,9780560000000,1,$10 ,$20 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$60 ,$120 
-PHYS 140,University Physics Vol 1,A. Lewis Ford,12,9780320000000,1,$20 ,$40 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$40 ,$80 
-ENGR 101,MATLAB: A Practical Introduction to Programming and Problem Solving,Attaway,2,9780120000000,1,$40 ,$80 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$85 ,$170 
-MATH 419,Linear Algebra and Its Applications,Gilbert Strang,4,9780030000000,1,$70 ,$140 
-MSE 250,Material Science and Engineering,"William D. Callister, Jr.",8,9780470000000,1,$85 ,$170 
-CEE 303,Numerical Methods for Engineers,Chapra,6,9780070000000,1,$70 ,$140 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$25 ,$50 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$70 ,$140 
-IOE 421,Organization Theory and Design,Daft,10,9780320000000,1,$100 ,$200 
-IOE 441,Production and Operations Analysis,Nahmias,6,9780070000000,1,$90 ,$180 
-IOE 491,Service Science,Daskin,1,9780470000000,1,$50 ,$100 
-ME 240,Engineering Mechanics: Dynamics,J.L. Meriam,6,9780470000000,1,$50 ,$100 
-MATH 256,Elementary Differential Equations,Boyce,9,9780470000000,1,$70 ,$140 
-MATH 256,Elementary Differential Equations and Boundary Value Problems,Boyce,?,,1,$40 ,$80 
-MATH 465,Introductory Combinatorics,Brualdi,5,9780140000000,1,$70 ,$140 
-MATH 156/255,"Calculus, University of Michigan Edition",Stewart,0,9780500000000,1,$30 ,$60 
-CHEM 130,General Chemistry Custom Version for the University of Michigan (Media Enhanced Edition),Ebbing,8,9780620000000,1,$60 ,$120 
-EECS 312,Digital Integrated Circuits,Rabaey,2,9788120000000,1,$30 ,$60 
-EECS 401,Probability and Stochastic Processes,Roy D. Yates,2,9780470000000,1,$75 ,$150 
-ENGR 101,Matlab An Introduction with Applications,Gilat,Wiley Student Edition,9788130000000,1,$5 ,$10 
-MATH 216,"Differential Equations (Soft, IE)",C. Henry Edwards,4 Internatl,9780140000000,1,$55 ,$110 
-PHYS 140,University Physics Vol 1 Study Guide,Kramer,12,9780320000000,1,$5 ,$10 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$70 ,$140 
-PHYS 240,University Physics Vol 2&3 Solutions,A. Lewis Ford,11,9780810000000,1,$10 ,$20 
-IOE 333,IOE 333 Course Pack,Liu,,IOE333CP,1,$7 ,$14 
-IOE 333,An Introduction to Human Factors Engineering,Christopher D. Wickens,2,9780130000000,1,$50 ,$100 
-Stats 412,Probability and Statistics for Engineering and the Sciences,Jay L. Devore,7,9780500000000,1,$80 ,$160 
-MATH 215,Multivariable Calculus,Stewart,6,9780500000000,1,$35 ,$70 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$40 ,$80 
-PHYS 240,University Physics Vol 2,Young,11Soft,9780810000000,1,$20 ,$40 
-ENGR 100,Introduction to Engineering,Holtz-apple Reece,0,9780070000000,1,$12 ,$24 
-MATH 417,Linear Algebra w/ Appications,Otto Bretscher,4,9780140000000,1,$80 ,$160 
-MUSIC 123,American Popular Music,Starr,3,9780200000000,1,$35 ,$70 
-CEE 260,Introduction to Environmental Engineering,Vesilind,2,9780530000000,1,$25 ,$50 
-ENGR 100,A Practical Guide to Techincal Reports and Presentations,Bary-Khan,,9780560000000,1,$15 ,$30 
-RELIGION 350,Christianity in Late Antiquity,Ehrman,1,9780200000000,1,$35 ,$70 
-EECS 460,Automatic Control Systems,Kuo,8,9780470000000,1,$20 ,$40 
-MATH 454,Partial DifferentialEquations for Scientists and Engineers ,Stanley J. Farlow,0,9780490000000,1,$5 ,$10 
-CHEM 130,General Chemistry,Ebbing,,9781110000000,1,$100 ,$200 
-ENGR 101,Introduction to Engineering Programming,James Paul Holloway,1,9780470000000,1,$45 ,$90 
-CHEM 210,Organic Chemistry Study Guide,Seyhan Ege,5,9780620000000,1,$10 ,$20 
-CHEM 216,Introduction to Organic Laboratory Techniques: A Microscale Approach,Pavia,1,9781430000000,1,$20 ,$40 
-CHEM 260,Introduction to Quantum Chemistry,Oxtoby,7,9781130000000,1,$50 ,$100 
-CHEM 210-215,Organic Chemistry Structure And Reactivity,Seyhan Ege,5,9780550000000,1,$50 ,$100 
-CHEM 216,Introduction to Organic LaboratoryTechniques,Pavia,,9781430000000,1,$70 ,$140 
-MATH 216,Differential Equations-Computing and Modeling,C. Henry Edwards,4,9780140000000,1,$30 ,$60 
-EECS 492,Intro To Artificial Intelligence ,Russel,3,9780140000000,1,$50 ,$100 
-EECS  376,Introduction to the Theory of Computation,Sipser,2,9780530000000,1,$50 ,$100 
-PHYS 240,University Physics Vol 2,Young,12,9780320000000,1,$60 ,$120 
-PHYS 240,"University Physics, Vol 2 Sol Man",Ford,12,9780320000000,1,$10 ,$20 
-BIOLOGY 172,Biological Science Study Guide,Freeman,3,2900130000000,1,$15 ,$30 
-BIOLOGY 172,Biological Science,Freeman,3,2900320000000,1,$35 ,$70 
-EECS 216,Continuous and Discrete Signals and Systems,Soliman,1,10-0900162223,1,$10 ,$20 
-EECS 230,Fundamentals of Applied Electromagnetics,Ulaby,1,9780130000000,1,$25 ,$50 
-EECS 460,Automatic Control Systems,Kuo,8,9780470000000,1,$45 ,$90 
-EECS  215,Circuits,Fawwaz T. Ulaby,1,9781930000000,1,$80 ,$160 
-MATH 256,Elementary Differential Equations and Boundary Value Problems,Haines,8,9780470000000,1,$20 ,$40 
-MATH 256,Elementary Differential Equations and Boundary Value Problems,Haines,8,9780470000000,1,$10 ,$20 
-MATH 371,A Friendly Introduction to Numberical Analysis,Bradie,,9780130000000,1,$75 ,$150 
-MATH 417,Linear Algebra w/ Appications,Bretscher,3,9780130000000,1,$10 ,$20 
-MATH 423,Mathematics for Finance,Capinski,2,9780860000000,1,$30 ,$60 
-MATH 425,A First Course in Probability,Ross,7,2900130000000,1,$10 ,$20 
-PHYS 140,University Physica Vol 1 - solutions,Ford,12,9780320000000,1,$15 ,$30 
-PHYS 140,University Physics Vol 1,Young,12,9780320000000,1,$20 ,$40 
-EECS 312,Digital Integrated Circuits Design Perspective (Asian Economy),Jan M. Rabaey,2AE,9787300000000,1,$30 ,$60 
-EECS 451,"Digital Signal Processing, Principles, Algorithms, and Applications",Proakis,4,9788130000000,1,$60 ,$120 
-EECS  216,Continuous and Discrete Signals and Systems,Samir S. Soliman,2,9780140000000,1,$50 ,$100 
-NAVAL 270,Applied Naval Architecture,Zubaly,1,9780870000000,1,$25 ,$50 
-CHEM 130,General Chemistry,Ebbing,1,9781110000000,1,$80 ,$160 
-ME 560,Syetem Dynamics: Modeling and Simulation,Karnopp,4,471709654,1,$5 ,$10 
- ,Dynamics Study Pack,Schiavone,SI,9780130000000,1,$5 ,$10 
-EECS 516,Magnetic Resonance imaging,Nishimura,,,1,$8 ,$16 
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="Monday, 16-Apr-73 13:10:00 GMT" />
+<title>weblogin: </title>
+<link rel="icon" href="/cosign/images/blockm.png" type="image/png" />
+<link rel="stylesheet" type="text/css" href="/cosign/cosign_base.css" media="screen" />
+<!--[if lt IE 8.0]><link rel="stylesheet" type="text/css" href="/cosign/ie.css" media="screen" /><![endif]-->
+<script type="text/javascript">
+	var link = document.createElement('link');
+	link.setAttribute('rel', 'stylesheet');
+	link.setAttribute('type', 'text/css');
+	link.setAttribute('href', '/cosign/cosign_js.css');
+	link.setAttribute('media', 'screen');
+	document.getElementsByTagName('head')[0].appendChild( link );
+</script>
+<link rel="stylesheet" type="text/css" href="/cosign/cosign_mobile.css" media="handheld" />
+</head>
+<body>
+<div id="page">
+  <div id="body">
+  	<div id="head"> <a id="mast" href="https://weblogin.umich.edu/" title="University of Michigan Weblogin"><span><img src="/cosign/images/blockm.png" alt="" width="16" height="16" /></span> <strong>University of Michigan: Weblogin</strong></a></div>
+<hr class="text" />
+    <ul class="text">
+      <li><a href="#instruct" title="Jump to the Weblogin instructions [ALT + 1 Windows / CONTROL + 1 Mac]" accesskey="1">Jump
+        to the Weblogin instructions</a></li>
+      <li><a href="#error" title="Jump to the error message (if present) [ALT + 2 Windows / CONTROL + 2 Mac]" accesskey="2">Jump
+        to the error message (if present)</a></li>
+      <li><a href="#kerberos" title="Jump to the ID and Password login section [ALT + 3 Windows / CONTROL + 3 Mac]" accesskey="3">Jump
+        to the ID and Password login section</a></li>
+      <li><a href="#mtokenFactor" title="Jump to the MToken login section [ALT + 4 Windows / CONTROL + 4 Mac]" accesskey="4">Jump
+        to the MToken login section</a></li>
+    </ul>
+	<hr class="text" />
+<div class="alert">
+	<p class="text">You are browsing the text-only version of this page. The text-only version contains the <em>complete</em> content and navigation of this page, without purely cosmetic visual styling.</p>
+	<p class="text"><em>NOTE: Older browsers, or those with poor support for web standards, may not be able to display the graphical version of our website.</em> A list of <a href="http://www.umich.edu/Web-standards/#browsers">standards-friendly browsers</a> capable of displaying the graphic version is available.</p>
+</div>
+<hr class="text" />
+    <div id="main">
+      <form name="factors" action="/cosign-bin/cosign.cgi" method="post" id="rightUIcol">
+        <input type="hidden" name="ref" value="https://doraemon.eecs.umich.edu/bookswapexport/csv.csv?api=Jg7wjI0w0DuFTUqMAkd3TjTPFPvcx83fHXj0K26BfgqFgHtJSVfJOJax8G6lI2N" />
+        <input type="hidden" name="service" value="cosign-doraemon.eecs" />
+        <input type="hidden" name="required" value="" />
+        <div class="factor" id="kerberos">
+          <div class="factorComplete" id="kerbComplete" style="display: none;"></div>
+          <table id="kerbFactor">
+            <tr>
+              <td style="width: 35%"><label for="login">Login ID</label></td>
+              <td><input id="login" name="login" type="text" class="textbox" value="" tabindex="1" />
+                <div class="ieMinWidth100">&nbsp;</div></td>
+            </tr>
+            <tr>
+              <td><label for="password">Password</label></td>
+              <td><input id="password" name="password" type="password" class="textbox" value="" tabindex="2" /></td>
+            </tr>
+            <tr class="capsLock" style="display: none;">
+              <td>&nbsp;</td>
+              <td>Caps Lock is on</td>
+            </tr>
+          </table>
+          <div class="factorComplete" id="mtokenComplete" style="display: none;"></div>
+          <div class="factorRequire" id="mtokenRequire" style="display: none;"></div>
+          <div class="factorToggle" id="mtknToggleCntr" style="height: 10px; overflow: visible;">
+            <h2 id="mtokenToggle">MToken</h2>
+          </div>
+          <div id="mtokenFactor" class="subFactor" style="display: none; height: 85px;">
+            <table>
+              <tr>
+                <td style="width: 40%;"><label for="tokencode" id="tCodeLabel">Tokencode</label>
+                  <div id="tokenBalloon" style="display: none;"></div></td>
+                <td style="width: 60%;"><input id="tokencode" name="tokencode" type="password" class="textbox" value="" maxlength="8" tabindex="3" /></td>
+              </tr>
+              <tr id="noTokenCheck" style="display: none;">
+                <td colspan="2" id="noTokenOpt"><input name="noToken" id="noToken" type="checkbox" value="1" tabindex="4" />&nbsp;<label for="noToken" id="noTokenLabel">I don't have an MToken</label></td>
+              </tr>
+              <tr id="mtokenOptnl">
+                <td>&nbsp;</td>
+                <td>Optional for this site</td>
+              </tr>
+            </table>
+            <ul class="contextHelp">
+              <li><a href="#mtokenInfo" id="mtokenInfoShow" tabindex="8">What is an MToken?</a></li>
+              <li><a href="#mtokenForgot" id="mtokenForgotShow" tabindex="9">Forgot yours?</a> <a href="#mtokenHelp" id="mtokenHelpShow" tabindex="10">MToken Help</a></li>
+            </ul>
+          </div>
+          <div id="loginButton">
+            <input type="submit" name="doLogin" id="loginSubmit" value="Log In" tabindex="5" />
+            <div id="loginWait" style="display: none;">&nbsp;</div>
+          </div>
+          <ul class="contextHelp">
+            <li><a href="#kerbPswInfo" id="kerbPswInfoShow" tabindex="6">Forgot your password?</a></li>
+            <li style="margin-top: 3px;"><a href="#kerbHelp" id="kerbHelpShow" tabindex="7">Login Help</a></li>
+          </ul>
+        </div>
+      </form>
+      <div id="leftUIcol">
+        <h1 id="instruct">Authentication Required</h1>
+        <div id="mainInfo">
+          <p>You are connecting to a U-M website that requires authentication. Please enter your Login ID (uniqname or Friend&nbsp;ID) and password to continue.</p>
+          <div id="extraInfo">
+            <h3>Need a Login ID?</h3>
+            <p>If you don't have a Login ID, you can <a href="#kerbActInfo" id="kerbActInfoShow" tabindex="11">create one now</a>.</p>
+          </div>
+          <p class="noScript">This page displays best when JavaScript is enabled in your web
+            browser. JavaScript is required for MToken authentication.</p>
+          <p class="mobileOnly">Please Note: MToken is not available on mobile devices.</p>
+        </div>
+        <div id="kerbHelp" class="infoBox">
+	<h2><a href="#mainInfo" class="hideInfo" id="kerbHelpHide">Hide this Information</a> <a href="#body" class="toTop">Back
+		to Top</a></h2>
+	<h3>Login Help</h3>
+	<ul>
+		<li><a href="http://www.itd.umich.edu/help/faq/uniqnames/" target="_blank">Uniqnames
+			and Passwords FAQ</a></li>
+		<li><a href="http://www.itd.umich.edu/your-account/password.html" target="_blank">How
+			to change your UMICH Kerberos password</a></li>
+		<li><a href="http://www.itd.umich.edu/itcsdocs/s4316/" target="_blank">Friend guest
+			accounts</a></li>
+	</ul>
+	<p>For assistance with uniqnames, passwords, and accounts, contact the <a href="http://www.itd.umich.edu/accounts/" target="_blank">ITCS
+		Accounts Office</a>.</p>
+	<div class="infoBoxBotm">&nbsp;</div>
+</div>
+<div id="kerbPswInfo" class="infoBox">
+	<h2><a href="#mainInfo" class="hideInfo" id="kerbPswInfoHide">Hide this Information</a> <a href="#body" class="toTop">Back
+		to Top</a></h2>
+	<h3>Forgot Your Password?</h3>
+	<p>Here's what to do:</p>
+	<dl>
+		<dt><a href="http://www.itd.umich.edu/help/faq/uniqnames/forget.html" target="_blank">UMICH
+			Kerberos password</a></dt>
+		<dd>Retrieve your hint or request a password reset</dd>
+		<dt><a href="https://friend.weblogin.umich.edu/friend/account/" target="_blank">Friend
+			guest account password</a></dt>
+		<dd>Reset your Friend password yourself</dd>
+	</dl>
+	<p>For best password security, we recommend you change your password about once every
+		six months. See our <a href="http://www.itd.umich.edu/your-account/password.html" target="_blank">password-changing
+		instructions</a>.</p>
+	<p>Questions about computing accounts can be directed to the <a href="http://www.itd.umich.edu/accounts/" target="_blank">ITCS
+		Accounts Office</a>.</p>
+	<div class="infoBoxBotm">&nbsp;</div>
+</div>
+<div id="kerbActInfo" class="infoBox">
+	<h2><a href="#mainInfo" class="hideInfo" id="kerbActInfoHide">Hide this Information</a> <a href="#body" class="toTop">Back
+		to Top</a></h2>
+	<h3>Need a Login ID?</h3>
+	<dl>
+		<dt><a href="http://www.itd.umich.edu/accounts/" target="_blank">Faculty, Staff,
+			and Students</a></dt>
+		<dd>Faculty, staff, and students should already have a uniqname and UMICH Kerberos
+			password. Please direct questions to the <a href="http://www.itd.umich.edu/accounts/" target="_blank">ITCS
+			Accounts Office</a>.</dd>
+		<dt><a href="https://accounts.www.umich.edu/create/alumnirec/" target="_blank">Alumni</a></dt>
+		<dd>Alumni can create or verify a uniqname online.</dd>
+		<dt><a href="http://www.itd.umich.edu/itcsdocs/s4316/" target="_blank">Others</a></dt>
+		<dd>Friend guest accounts are available to those who are not eligible for a uniqname.</dd>
+	</dl>
+	<p>Questions about computing accounts can be directed to the <a href="http://www.itd.umich.edu/accounts/" target="_blank">ITCS
+		Accounts Office</a>.</p>
+	<div class="infoBoxBotm">&nbsp;</div>
+</div>
+<div id="mtokenHelp" class="infoBox">
+	<h2><a href="#mainInfo" class="hideInfo" id="mtokenHelpHide">Hide this Information</a> <a href="#body" class="toTop">Back
+		to Top</a></h2>
+	<h3>MToken Help</h3>
+	<ul>
+		<li><a href="http://www.mais.umich.edu/mtoken/mtoken_distribution.html" target="_blank">MToken Distribution
+			and Service Centers</a></li>
+		<li><a href="http://www.mais.umich.edu/mtoken/mtoken_faq.html" target="_blank">MToken FAQ</a></li>
+		<li><a href="http://www.mais.umich.edu/mtoken/" target="_blank">Systems that require
+			an MToken</a></li>
+	</ul>
+	<p>Individuals with access to a system requiring two factor authentication should pick up an MToken from one of the campus MToken Distribution Centers (MDC), and activate it. Once you have activated your MToken, you will need to use the tokencode displayed on the front of your MToken every time you log into a department or administrative system that requires two-factor (strong) authentication. <strong>Please do not insert your MToken into a USB port.</strong></p>
+	<p>For assistance with using your MToken, contact an <a href="http://www.mais.umich.edu/mtoken/mtoken_distribution.html" target="_blank">MToken administrator</a>.</p>
+	<div class="infoBoxBotm">&nbsp;</div>
+</div>
+<div id="mtokenInfo" class="infoBox">
+	<h2><a href="#mainInfo" class="hideInfo" id="mtokenInfoHide">Hide this Information</a> <a href="#body" class="toTop">Back
+		to Top</a></h2>
+	<h3>What is an MToken? Do I need one?</h3>
+	<p>An MToken is a security device used to authenticate to web-delivered U-M
+		Administrative Systems. The MToken displays a different six-digit number, called
+		a tokencode, every 60 seconds. Using this single-use tokencode when you log into
+		University resources with your uniqname and UMICH password creates a strong authentication
+		method that protects U-M digital resources.</p>
+	<p>Individuals with access to U-M Administrative Systems are required to use an MToken. Some U-M units are also using MTokens to secure their departmental systems.</p>
+	<div class="infoBoxBotm">&nbsp;</div>
+</div>
+<div id="mtokenForgot" class="infoBox">
+	<h2><a href="#mainInfo" class="hideInfo" id="mtokenForgotHide">Hide this Information</a> <a href="#body" class="toTop">Back
+		to Top</a></h2>
+	<h3>Forgot your MToken?</h3>
+	<p>If you have been issued an MToken but forgot to bring it with you, you can request a temporary static tokencode. Go to the <a href="https://its-rue.adsroot.itcs.umich.edu/RSASWE/WXUserHome.do" target="_blank">MToken Service Center</a> website, click the link, &quot;Request Emergency Access,&quot; and follow the instructions. If you have not setup Q &amp; A in the MToken Service Center, please contact an <a href="http://www.mais.umich.edu/mtoken/mtoken_distribution.html" target="_blank">MToken Administrator</a> for assistance in obtaining a temporary static tokencode.</p>
+	<div class="infoBoxBotm">&nbsp;</div>
+</div>
+
+      </div>
+      <div class="clear">&nbsp;</div>
+      <p class="policies">By your use of these resources, you agree to abide by SPG 601.7 - Proper Use of Information Resources, Information Technology, and Networks at the University of Michigan, in addition to all relevant state and federal laws.</p>
+    </div>
+  </div>
+</div>
+<div id="foot">
+    <p><a href="http://www.umich.edu/" title="University of Michigan Homepage">U-M Gateway</a> |
+        Copyright &#169; 2013 <a href="http://www.umich.edu/~regents/" title="Regents of the University of Michigan">The Regents of the University of Michigan</a></p>
+</div>
+<script type="text/javascript" src="/cosign/js/prototype.js"></script>
+<script type="text/javascript" src="/cosign/js/scriptaculous.js"></script>
+<script type="text/javascript" src="/cosign/js/effects.js"></script>
+<script type="text/javascript" src="/cosign/js/cosign-min.js"></script>
+
+<script type="text/javascript">
+	window.onload = function() {
+		var ui = new UImanager();
+		ui.setRequired('');
+		ui.setCompleted('');
+		ui.initUI();
+	}
+</script>
+</body>
+</html>
+
+
+
