@@ -50,7 +50,7 @@ class DataController < ApplicationController
       if @datum.save
         format.html do
 					if session[:person_id]
-						redirect_to books_search_path(:isbn => @datum.isbn)
+						redirect_to search_books_path(:isbn => @datum.isbn)
 					else
 						redirect_to @datum, :notice => 'Datum was successfully created.'
 					end
