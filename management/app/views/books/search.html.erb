@@ -33,13 +33,13 @@
 	  <tr>
 	    <td><%= book.price if sell_en? || session[:admin] %></td>
 	    <td><%= book.id %></td>
-	    <td><%= book.seller.person.umid %></td>
+	    <td><%= book.seller.umid %></td>
 			<% if book.buyer %>
 				<td>SOLD</td>
 			<% else %>
 
 		    <td><% if session[:xact] == 'sell' %>
-					<%= form_tag(buyers_sell_path) do %>
+					<%= form_tag(sell_books_path) do %>
 						<%= hidden_field_tag :book_id, book.id %>
 						<%= submit_tag 'Sell', :confirm => 'Are you sure?' %>
 					<% end %>
@@ -53,7 +53,7 @@
 	<br />
 
 	<% if @xact == 'recv' %>
-		<%= form_tag(sellers_receive_path, :method => "get") do %>
+		<%= form_tag(receive_books_path, :method => "get") do %>
 		  <%= label_tag(:price, "Price:") %>
 		  <%= text_field_tag(:price) %>
 			<%= hidden_field_tag :datum_id, @datum.id %>

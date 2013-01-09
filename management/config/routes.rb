@@ -6,18 +6,6 @@ Management::Application.routes.draw do
 	
 	  resources :flags
 	
-	  resources :sellers do
-			collection do
-				get :receive
-			end
-		end
-	
-	  resources :buyers do
-			collection do
-				post :sell
-			end
-		end
-	
 	  resources :people
 	
 	  resources :data
@@ -25,6 +13,8 @@ Management::Application.routes.draw do
 	  resources :books do
 			collection do
 				get :search
+				get :receive
+				post :sell
 			end
 		end
 	
