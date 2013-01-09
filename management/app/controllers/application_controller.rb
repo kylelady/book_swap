@@ -6,7 +6,7 @@
 require 'users'
 
 # defines an API_KEY string, with arbitrary url-safe characters
-#require 'api_key'
+require 'api_key'
 
 class ApplicationController < ActionController::Base
   protect_from_forgery

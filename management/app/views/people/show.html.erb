@@ -1,5 +1,6 @@
 <p id="notice"><%= notice %></p>
 
+<div style="width:400px; border:thin solid red; padding:1em">
 <p>
   <b>Uniqname:</b>
   <%= @person.uniqname %>
@@ -49,7 +50,8 @@
   <b>Barcode:</b>
   <%= @person.barcode %>
 </p>
-
+<big><strong><span style="color:red">CONFIRM INFORMATION WITH CUSTOMER</span></strong></big>
+</div>
 
 <%= link_to 'Edit', edit_person_path(@person) %> |
 <%= link_to 'Back', people_path if session[:admin] %>
@@ -79,11 +81,16 @@
 <% if recv_en? || session[:admin] %>
 Receive a book:
 
+<% if @person.address1.blank? %>
+<br />
+<span style="color:red"><strong>Add an address to enable receiving</strong></span>
+<% else %>
 <%= form_tag(search_books_path, :method => "get") do %>
   <%= label_tag(:isbn, "ISBN:") %>
   <%= text_field_tag(:isbn) %>
 	<%= hidden_field_tag :xact, 'recv' %>
   <%= submit_tag("Search") %>
+<% end %>
 <% end %>
 <% end %>
 
