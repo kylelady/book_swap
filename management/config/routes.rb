@@ -4,6 +4,7 @@ Management::Application.routes.draw do
 
 		get 'reports', :to => 'reports#index'
 		get 'reports/soas/csv', :to => 'reports#soas_csv'
+		get 'reports/sellers', :to => 'reports#sellers'
   	
 		resources :users
 	

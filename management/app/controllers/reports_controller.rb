@@ -10,6 +10,14 @@ class ReportsController < ApplicationController
 		@num_sold = @num_books - @num_unsold
 	end
 
+	def sellers
+		@uniqnames = ActiveRecord::Base.connection.select_all('SELECT DISTINCT(uniqname) FROM people JOIN books ON people.id = books.seller_id')
+
+    respond_to do |format|
+      format.html # sellers.html.erb
+		end
+	end
+
 	def soas_csv
 		ids = ActiveRecord::Base.connection.select_all('SELECT DISTINCT(people.id) FROM people JOIN books ON people.id = books.seller_id WHERE books.buyer_id IS NOT NULL')
 		@people = []
