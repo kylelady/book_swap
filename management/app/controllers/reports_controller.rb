@@ -15,21 +15,11 @@ class ReportsController < ApplicationController
 		@people = []
 		ids.each do |id_|
 			person = Person.find_by_id(id_['id'])
-			logger.debug 'WTFFFFFFFFFFFFFFF' if person == 5
-			logger.debug person.class
 			@people.append(person)			
 		end
 
-		logger.debug @people.class
-		logger.debug @people[0].class
-
 		@csv = ''
 		@people.each do |person|
-			logger.debug person.class
-			logger.debug 'WTFFFFFFFFFFFFFFF' if person == 5
-			logger.debug person.id
-			logger.debug person.first_name
-			
 			total = 0
 			@books = Book.find_all_by_seller_id(person.id)
 			next unless @books
