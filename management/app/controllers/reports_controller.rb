@@ -9,4 +9,51 @@ class ReportsController < ApplicationController
 		@num_unsold = Book.includes(:buyer_id).where(:buyer_id => nil).count
 		@num_sold = @num_books - @num_unsold
 	end
+
+	def soas_csv
+		ids = ActiveRecord::Base.connection.select_all('SELECT DISTINCT(people.id) FROM people JOIN books ON people.id = books.seller_id WHERE books.buyer_id IS NOT NULL')
+		@people = []
+		ids.each do |id_|
+			person = Person.find_by_id(id_['id'])
+			logger.debug 'WTFFFFFFFFFFFFFFF' if person == 5
+			logger.debug person.class
+			@people.append(person)			
+		end
+
+		logger.debug @people.class
+		logger.debug @people[0].class
+
+		@csv = ''
+		@people.each do |person|
+			logger.debug person.class
+			logger.debug 'WTFFFFFFFFFFFFFFF' if person == 5
+			logger.debug person.id
+			logger.debug person.first_name
+			
+			total = 0
+			@books = Book.find_all_by_seller_id(person.id)
+			next unless @books
+			@books.each do |book|
+				next if book.buyer == nil
+				total = total + book.price
+			end
+			
+			CSV.generate_row([person.first_name, 
+												'',
+												person.last_name,
+												person.address1,
+												person.address2,
+												person.city,
+												person.state,
+												person.zip,
+												total],
+												9, @csv)
+		end
+
+		respond_to do |wants|
+			wants.csv do
+				render_csv("soas-#{Time.now.strftime('%Y%m%d%H%M%S')}")
+			end
+		end
+	end
 end

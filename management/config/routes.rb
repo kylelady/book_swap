@@ -1,6 +1,9 @@
 Management::Application.routes.draw do
 	scope '/bookswap' do
-	  get 'export/csv', :to => 'export#csv'
+	  get 'export/csv', :to => 'export#index'
+
+		get 'reports', :to => 'reports#index'
+		get 'reports/soas/csv', :to => 'reports#soas_csv'
   	
 		resources :users
 	
