@@ -15,7 +15,7 @@
   <tr>
     <td><%= book.price %></td>
     <td><%= book.datum.isbn %> <%= book.datum.title %> <%= book.datum.edition %></td>
-		<td><%= book.seller.umid %></td>
+		<td><%= book.seller.umid %> (<%= book.seller.last_name %>)</td>
 		<td><%= (book.buyer && book.buyer.umid) || '-' %></td>
     <td><%= link_to 'Show', book %></td>
     <td><%= link_to 'Edit', edit_book_path(book) %></td>
