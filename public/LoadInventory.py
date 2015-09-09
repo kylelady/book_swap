@@ -3,7 +3,7 @@ import csv
 import os
 inventory_path="inventory.csv"
 today=datetime.today()
-selling_close=datetime(today.year,1,10,17,30 )
+selling_close=datetime(today.year,9,9,21,00 )
 testing_end=datetime(today.year,1,9,10)
 if(today>selling_close):
 	print "Price View Authorized"
