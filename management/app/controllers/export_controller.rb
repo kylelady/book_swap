@@ -14,14 +14,12 @@ class ExportController < ApplicationController
 		end
 
 		@book_data = Datum.all
-		rows = []
-		@book_data.each do |bd|
-			books = bd.books.select{|x| x.buyer == nil}
-			buf = ''
-			CSV.generate_row([ bd.course, bd.title, bd.author, bd.edition, bd.isbn, books.length, book_min(books), book_avg(books) ], 8, buf) unless books.length == 0
-			rows.append(buf) unless buf == ''
+		@csv = CSV.generate do |csv|
+			@book_data.each do |bd|
+				books = bd.books.select{|x| x.buyer == nil}
+				csv << [ bd.course, bd.title, bd.author, bd.edition, bd.isbn, books.length, book_min(books), book_avg(books) ] unless books.length == 0
+			end
 		end
-		@csv = rows.join('')
 
 		respond_to do |wants|
 			wants.csv do
