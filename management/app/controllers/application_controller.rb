@@ -44,6 +44,7 @@ class ApplicationController < ActionController::Base
 	protected
 		def authenticate
 			cosign_user = request.env['HTTP_X_REMOTE_USER']
+p request.env
 			if session[:timeout] == nil || (session[:timeout] - Time.now) > 0
 				user = User.find_by_uniqname(cosign_user)
 				if user and user.active

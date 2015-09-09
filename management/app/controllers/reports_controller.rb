@@ -29,7 +29,7 @@ class ReportsController < ApplicationController
 		@csv = ''
 		@people.each do |person|
 			total = 0
-			@books = Book.find_all_by_seller_id(person.id)
+			@books = Book.where(person: person)
 			next unless @books
 			@books.each do |book|
 				next if book.buyer == nil

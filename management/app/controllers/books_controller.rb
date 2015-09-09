@@ -87,7 +87,8 @@ class BooksController < ApplicationController
 		logger.debug(params)
 		@datum = Datum.find_by_isbn(params[:isbn])
 		logger.debug(@datum)
-		@books = Book.find_all_by_datum_id(@datum.id) if @datum
+		#@books = Book.find_all_by_datum_id(@datum.id) if @datum
+		@books = Book.where(datum: @datum) if @datum
 
     respond_to do |format|
       format.html # search.html.erb

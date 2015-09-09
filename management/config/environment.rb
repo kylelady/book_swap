@@ -4,4 +4,4 @@ ENV['RAILS_RELATIVE_URL_ROOT'] = "/bookswap"
 require File.expand_path('../application', __FILE__)
 
 # Initialize the rails application
-Management::Application.initialize!
+Rails.application.initialize!

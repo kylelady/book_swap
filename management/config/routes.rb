@@ -1,10 +1,10 @@
 Management::Application.routes.draw do
 	scope '/bookswap' do
-	  get 'export/csv', :to => 'export#csv'
+	  get 'export/csv', to: 'export#csv'
 
-		get 'reports', :to => 'reports#index'
-		get 'reports/soas/csv', :to => 'reports#soas_csv'
-		get 'reports/sellers', :to => 'reports#sellers'
+		get 'reports', to: 'reports#index'
+		get 'reports/soas/csv', to: 'reports#soas_csv'
+		get 'reports/sellers', to: 'reports#sellers'
   	
 		resources :users
 	
@@ -22,8 +22,8 @@ Management::Application.routes.draw do
 			end
 		end
 	
-	  get "home/index", :to => 'home#index'
-		get "home/search", :to => 'home#search'
+	  get "home/index", to: 'home#index'
+		get "home/search", to: 'home#search'
 	
 	  # The priority is based upon order of creation:
 	  # first created -> highest priority.
@@ -74,7 +74,7 @@ Management::Application.routes.draw do
 	
 	  # You can have the root of your site routed with "root"
 	  # just remember to delete public/index.html.
-	  root :to => 'home#index'
+	  root 'home#index'
 	
 	  # See how all your routes lay out with "rake routes"
 	
