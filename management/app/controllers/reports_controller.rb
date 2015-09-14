@@ -26,26 +26,26 @@ class ReportsController < ApplicationController
 			@people.append(person)			
 		end
 
-		@csv = ''
-		@people.each do |person|
-			total = 0
-			@books = Book.where(person: person)
-			next unless @books
-			@books.each do |book|
-				next if book.buyer == nil
-				total = total + book.price
+		@csv = CSV.generate do |csv|
+			@people.each do |person|
+				total = 0
+				@books = Book.where(seller: person)
+				next unless @books
+				@books.each do |book|
+					next if book.buyer == nil
+					total = total + book.price
+				end
+
+				csv << [person.first_name, 
+					'',
+					person.last_name,
+					person.address1,
+					person.address2,
+					person.city,
+					person.state,
+					person.zip,
+					total]
 			end
-			
-			CSV.generate_row([person.first_name, 
-												'',
-												person.last_name,
-												person.address1,
-												person.address2,
-												person.city,
-												person.state,
-												person.zip,
-												total],
-												9, @csv)
 		end
 
 		respond_to do |wants|
